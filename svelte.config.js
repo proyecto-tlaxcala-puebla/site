@@ -4,7 +4,18 @@ import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
 const config = {
 	preprocess: [vitePreprocess(), mdsvex()],
-	kit: { adapter: adapter() },
+	kit: { 
+		adapter: adapter({
+			pages: 'build',
+			assets: 'build',
+			fallback: null,
+			precompress: false,
+		}),
+
+		paths: {
+			base: process.env.NODE_ENV === 'production' ? '/memoriadelagua' : '' /* base path TBD */
+		}
+	},
 	extensions: ['.svelte', '.svx']
 };
 
