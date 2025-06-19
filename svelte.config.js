@@ -13,7 +13,7 @@ const config = {
 		}),
 
 		paths: {
-			base: process.env.NODE_ENV === 'production' ? '/memoriadelagua' : '' /* base path TBD */
+			base: process.env.NODE_ENV === 'production' ? '/site' : ''
 		}
 	},
 	extensions: ['.svelte', '.svx']
