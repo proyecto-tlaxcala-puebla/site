@@ -1,7 +1,7 @@
 <div style="overflow:hidden; position: relative; width: 100%; height: 100vh;">
   <iframe
     src="https://glittery-clafoutis-927ba9.netlify.app/"
-    style="width: 100%; height: 100vh; position: absolute; top: 0; left: 0; z-index: 0; opacity: 0.15;"
+    style="width: 100%; height: 100vh; position: absolute; top: 0; left: 0; z-index: 0;"
     frameborder="0"
   ></iframe>
 
