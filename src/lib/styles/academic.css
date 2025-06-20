@@ -1,5 +1,16 @@
 /* Academic Landing Page Styles */
 
+/* Enhanced Color Palette for Environmental Research */
+:root {
+  --primary-blue: #1e40af;      /* Deep blue for headers */
+  --accent-teal: #0d9488;       /* Teal for water/environmental themes */
+  --accent-amber: #d97706;      /* Amber for call-to-action elements */
+  --accent-emerald: #059669;    /* Emerald for nature/conservation */
+  --warm-gray: #6b7280;         /* Warm gray for text */
+  --light-sage: #f0fdf4;        /* Light sage background */
+  --earth-brown: #92400e;       /* Earth brown for accents */
+}
+
 /* Typography improvements for academic content */
 .prose {
   font-family: 'Georgia', 'Times New Roman', serif;
@@ -12,7 +23,7 @@ html {
 
 /* Custom gradient overlay for hero section */
 .hero-overlay {
-  background: linear-gradient(135deg, rgba(30, 58, 138, 0.7) 0%, rgba(59, 130, 246, 0.5) 100%);
+  background: linear-gradient(135deg, rgba(30, 64, 175, 0.7) 0%, rgba(13, 148, 136, 0.5) 100%);
 }
 
 /* Academic-style section dividers */
@@ -28,7 +39,7 @@ html {
   transform: translateX(-50%);
   width: 100px;
   height: 2px;
-  background: linear-gradient(90deg, transparent, #2563eb, transparent);
+  background: linear-gradient(90deg, transparent, var(--accent-teal), transparent);
 }
 
 /* Enhanced card hover effects */
@@ -39,11 +50,11 @@ html {
 
 .research-card:hover {
   transform: translateY(-4px);
-  border-color: #2563eb;
-  box-shadow: 0 10px 25px rgba(37, 99, 235, 0.15);
+  border-color: var(--accent-teal);
+  box-shadow: 0 10px 25px rgba(13, 148, 136, 0.15);
 }
 
-/* Academic button styles */
+/* Academic button styles with varied colors */
 .btn-academic {
   position: relative;
   overflow: hidden;
@@ -65,6 +76,26 @@ html {
   left: 100%;
 }
 
+/* Primary CTA button (amber) */
+.btn-primary {
+  background-color: var(--accent-amber);
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #b45309;
+}
+
+/* Secondary CTA button (teal) */
+.btn-secondary {
+  background-color: var(--accent-teal);
+  color: white;
+}
+
+.btn-secondary:hover {
+  background-color: #0f766e;
+}
+
 /* Enhanced typography for academic content */
 .academic-text {
   line-height: 1.8;
@@ -72,11 +103,11 @@ html {
   hyphens: auto;
 }
 
-/* Custom bullet points for research areas */
+/* Custom bullet points for research areas with varied colors */
 .research-bullet {
   width: 8px;
   height: 8px;
-  background: linear-gradient(45deg, #2563eb, #60a5fa);
+  background: linear-gradient(45deg, var(--accent-emerald), var(--accent-teal));
   border-radius: 50%;
   margin-top: 8px;
   margin-right: 12px;
@@ -87,10 +118,10 @@ html {
 .institution {
   font-variant: small-caps;
   letter-spacing: 0.5px;
-  color: #6b7280;
+  color: var(--warm-gray);
 }
 
-/* Research timeline effect */
+/* Research timeline effect with color coding */
 .timeline-item {
   position: relative;
   padding-left: 2rem;
@@ -103,14 +134,26 @@ html {
   top: 0;
   bottom: 0;
   width: 3px;
-  background: linear-gradient(to bottom, #2563eb, #60a5fa);
   border-radius: 2px;
+}
+
+/* Timeline colors for different research themes */
+.timeline-covid::before {
+  background: linear-gradient(to bottom, #dc2626, #ef4444);
+}
+
+.timeline-water::before {
+  background: linear-gradient(to bottom, var(--accent-teal), #06b6d4);
+}
+
+.timeline-ecology::before {
+  background: linear-gradient(to bottom, var(--accent-emerald), #10b981);
 }
 
 /* Enhanced focus states for accessibility */
 a:focus,
 button:focus {
-  outline: 2px solid #2563eb;
+  outline: 2px solid var(--accent-amber);
   outline-offset: 2px;
 }
 

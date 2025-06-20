@@ -4,13 +4,14 @@
   <iframe
     src="https://glittery-clafoutis-927ba9.netlify.app/"
     class="absolute inset-0 w-full h-full object-cover"
+    style="z-index: 2; opacity: 0.15;"
     frameborder="0"
     title="Animación de luciérnagas - fondo decorativo"
   ></iframe>
   
   <!-- Content overlay -->
-  <div class="relative z-10 flex items-center justify-center min-h-screen hero-overlay">
-    <div class="text-center text-white px-6 max-w-4xl">
+  <div class="relative z-10 flex items-center justify-center min-h-screen hero-overlay pointer-events-none">
+    <div class="text-center text-white px-6 max-w-4xl pointer-events-auto">
       <h1 class="text-5xl md:text-6xl font-bold mb-6 leading-tight">
         Proyecto Tlaxcala-Puebla
       </h1>
@@ -18,10 +19,10 @@
         Investigación y reflexiones sobre los cambios socioambientales, económicos y políticos en la región
       </p>
       <div class="flex flex-col sm:flex-row gap-4 justify-center">
-        <a href="#about" class="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-lg font-semibold transition-colors btn-academic">
+        <a href="#about" class="btn-primary hover:bg-orange-600 text-white px-8 py-3 rounded-lg font-semibold transition-colors btn-academic">
           Conoce Nuestro Trabajo
         </a>
-        <a href="#research" class="border-2 border-white text-white hover:bg-white hover:text-blue-900 px-8 py-3 rounded-lg font-semibold transition-colors btn-academic">
+        <a href="#research" class="border-2 border-white text-white hover:bg-white hover:text-teal-800 px-8 py-3 rounded-lg font-semibold transition-colors btn-academic">
           Explorar Investigación
         </a>
       </div>
@@ -34,7 +35,7 @@
   <div class="max-w-6xl mx-auto px-6">
     <div class="text-center mb-12">
       <h2 class="text-4xl font-bold text-gray-800 mb-4">¿Quiénes somos?</h2>
-      <div class="w-24 h-1 bg-blue-600 mx-auto"></div>
+      <div class="w-24 h-1 bg-teal-600 mx-auto"></div>
     </div>
     
     <div class="grid md:grid-cols-2 gap-12 items-center">
@@ -89,39 +90,39 @@
   <div class="max-w-6xl mx-auto px-6">
     <div class="text-center mb-12">
       <h2 class="text-4xl font-bold text-gray-800 mb-4">Espacios Geográficos de Estudio</h2>
-      <div class="w-24 h-1 bg-blue-600 mx-auto mb-6"></div>
+      <div class="w-24 h-1 bg-emerald-600 mx-auto mb-6"></div>
       <p class="text-xl text-gray-600 max-w-3xl mx-auto">
         Este esfuerzo abarca regiones rurales y semiurbanas en los estados de Tlaxcala y Puebla, con un enfoque particular en las siguientes áreas:
       </p>
     </div>
     
     <div class="grid md:grid-cols-2 lg:grid-cols-2 gap-8">
-      <div class="bg-white p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow research-card">
-        <h3 class="text-2xl font-semibold text-blue-800 mb-4">Cuenca Atoyac-Zahuapan</h3>
+      <div class="bg-white p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow research-card border-l-4 border-teal-500">
+        <h3 class="text-2xl font-semibold text-teal-800 mb-4">Cuenca Atoyac-Zahuapan</h3>
         <p class="text-gray-600 mb-2 font-medium institution">Tlaxcala-Puebla</p>
         <p class="text-gray-700 leading-relaxed academic-text">
           Un territorio clave en los estudios sobre gestión del agua, contaminación y conflictos socioambientales. Se han analizado los procesos históricos de transformación de los humedales y ríos, la crisis hídrica y las respuestas comunitarias ante la contaminación de los cuerpos de agua.
         </p>
       </div>
       
-      <div class="bg-white p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow research-card">
-        <h3 class="text-2xl font-semibold text-blue-800 mb-4">Municipio de Nativitas</h3>
+      <div class="bg-white p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow research-card border-l-4 border-emerald-500">
+        <h3 class="text-2xl font-semibold text-emerald-800 mb-4">Municipio de Nativitas</h3>
         <p class="text-gray-600 mb-2 font-medium institution">Tlaxcala</p>
         <p class="text-gray-700 leading-relaxed academic-text">
           Escenario central en investigaciones sobre transformaciones rurales, identidad territorial y afectaciones ambientales. Se ha documentado cómo los cambios en la gestión de los recursos naturales han impactado las formas de vida de las comunidades y cómo los habitantes han construido narrativas de resistencia frente a la degradación del entorno.
         </p>
       </div>
       
-      <div class="bg-white p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow research-card">
-        <h3 class="text-2xl font-semibold text-blue-800 mb-4">Tlahuapan</h3>
+      <div class="bg-white p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow research-card border-l-4 border-red-500">
+        <h3 class="text-2xl font-semibold text-red-800 mb-4">Tlahuapan</h3>
         <p class="text-gray-600 mb-2 font-medium institution">Puebla</p>
         <p class="text-gray-700 leading-relaxed academic-text">
           Esta ha sido una región de estudio para el análisis de la pandemia de COVID-19 y sus efectos en los modos de vida rurales. Se han identificado las estrategias locales de adaptación, las reconfiguraciones económicas y las percepciones socioculturales del virus en las comunidades.
         </p>
       </div>
       
-      <div class="bg-white p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow research-card">
-        <h3 class="text-2xl font-semibold text-blue-800 mb-4">Sierra Nevada</h3>
+      <div class="bg-white p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow research-card border-l-4 border-amber-500">
+        <h3 class="text-2xl font-semibold text-amber-800 mb-4">Sierra Nevada</h3>
         <p class="text-gray-600 mb-2 font-medium institution">Puebla</p>
         <p class="text-gray-700 leading-relaxed academic-text">
           Espacio de exploración sobre ecoturismo, conservación y economía rural, con especial atención en el turismo de avistamiento de luciérnagas y su impacto en la organización comunitaria y la economía local.
@@ -136,15 +137,15 @@
   <div class="max-w-6xl mx-auto px-6">
     <div class="text-center mb-12">
       <h2 class="text-4xl font-bold text-gray-800 mb-4">Nuestra Investigación</h2>
-      <div class="w-24 h-1 bg-blue-600 mx-auto mb-6"></div>
+      <div class="w-24 h-1 bg-amber-600 mx-auto mb-6"></div>
       <p class="text-xl text-gray-600 max-w-3xl mx-auto">
         A través de metodologías etnográficas, trabajo de campo y análisis socioambiental, exploramos diversas problemáticas que afectan a las comunidades de la región.
       </p>
     </div>
     
     <div class="space-y-8">
-      <div class="border-l-4 border-blue-600 pl-8 py-6 timeline-item">
-        <h3 class="text-2xl font-semibold text-gray-800 mb-3">
+      <div class="pl-8 py-6 timeline-item timeline-covid">
+        <h3 class="text-2xl font-semibold text-red-800 mb-3">
           Transformaciones en la vida rural y la pandemia de COVID-19
         </h3>
         <p class="text-gray-700 leading-relaxed academic-text">
@@ -152,8 +153,8 @@
         </p>
       </div>
       
-      <div class="border-l-4 border-green-600 pl-8 py-6 timeline-item">
-        <h3 class="text-2xl font-semibold text-gray-800 mb-3">
+      <div class="pl-8 py-6 timeline-item timeline-water">
+        <h3 class="text-2xl font-semibold text-teal-800 mb-3">
           Hidropolítica y la lucha por el agua
         </h3>
         <p class="text-gray-700 leading-relaxed academic-text">
@@ -161,8 +162,8 @@
         </p>
       </div>
       
-      <div class="border-l-4 border-yellow-600 pl-8 py-6 timeline-item">
-        <h3 class="text-2xl font-semibold text-gray-800 mb-3">
+      <div class="pl-8 py-6 timeline-item timeline-ecology">
+        <h3 class="text-2xl font-semibold text-emerald-800 mb-3">
           Ecoturismo y la producción social de las luciérnagas
         </h3>
         <p class="text-gray-700 leading-relaxed academic-text">
@@ -180,35 +181,35 @@
 </section>
 
 <!-- Explore Section -->
-<section class="py-16 bg-blue-900 text-white">
+<section class="py-16 bg-teal-900 text-white">
   <div class="max-w-6xl mx-auto px-6">
     <div class="text-center mb-12">
       <h2 class="text-4xl font-bold mb-4">Explora Nuestra Investigación</h2>
-      <div class="w-24 h-1 bg-white mx-auto mb-6"></div>
-      <p class="text-xl text-blue-100 max-w-3xl mx-auto">
+      <div class="w-24 h-1 bg-amber-400 mx-auto mb-6"></div>
+      <p class="text-xl text-teal-100 max-w-3xl mx-auto">
         En este sitio encontrarás artículos científicos, mapas interactivos y recursos sobre los temas que investigamos. Queremos que esta plataforma sirva para difundir y debatir las transformaciones en la región Tlaxcala-Puebla y sus implicaciones en la vida de sus habitantes.
       </p>
     </div>
     
     <div class="grid md:grid-cols-2 gap-8">
-      <div class="bg-blue-800 p-8 rounded-lg text-center hover:bg-blue-700 transition-colors">
+      <div class="bg-teal-800 p-8 rounded-lg text-center hover:bg-teal-700 transition-colors border border-teal-600">
         <div class="text-4xl mb-4">📍</div>
         <h3 class="text-2xl font-semibold mb-4">Publicaciones Recientes</h3>
-        <p class="text-blue-100 mb-6">
+        <p class="text-teal-100 mb-6">
           Consulta nuestras publicaciones más recientes en la sección de Artículos.
         </p>
-        <a href="#" class="bg-white text-blue-900 px-6 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors inline-block btn-academic">
+        <a href="#" class="bg-amber-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-amber-700 transition-colors inline-block btn-academic">
           Ver Artículos
         </a>
       </div>
       
-      <div class="bg-blue-800 p-8 rounded-lg text-center hover:bg-blue-700 transition-colors research-card">
+      <div class="bg-teal-800 p-8 rounded-lg text-center hover:bg-teal-700 transition-colors research-card border border-teal-600">
         <div class="text-4xl mb-4">🗺️</div>
         <h3 class="text-2xl font-semibold mb-4">Cartografía Colaborativa</h3>
-        <p class="text-blue-100 mb-6">
+        <p class="text-teal-100 mb-6">
           Explora nuestra cartografía colaborativa sobre el agua en la región.
         </p>
-        <a href="#" class="bg-white text-blue-900 px-6 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors inline-block btn-academic">
+        <a href="#" class="bg-emerald-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-emerald-700 transition-colors inline-block btn-academic">
           Explorar Mapas
         </a>
       </div>
