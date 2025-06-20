@@ -8,6 +8,8 @@
     frameborder="0"
     title="Animación de luciérnagas - fondo decorativo"
   ></iframe>
+  <!-- Fluid simulation visualization by Amanda Ghassaei, https://amandaghassaei.com/apps/ -->
+  <!-- Specifically: https://apps.amandaghassaei.com/gpu-io/examples/fluid/ -->
   
   <!-- Content overlay -->
   <div class="relative z-10 flex items-center justify-center min-h-screen hero-overlay pointer-events-none">
@@ -237,9 +239,12 @@
     <div class="grid md:grid-cols-2 gap-8">
       <div>
         <h3 class="text-xl font-semibold mb-4">Proyecto Tlaxcala-Puebla</h3>
-        <p class="text-gray-300">
+        <p class="text-gray-300 mb-4">
           Instituto de Investigaciones Antropológicas (IIA) - UNAM<br>
           Centro Regional de Investigaciones Multidisciplinarias (CRIM) - UNAM
+        </p>
+        <p class="text-gray-400 text-sm">
+          Visualización de fondo: <a href="https://apps.amandaghassaei.com/gpu-io/examples/fluid/" target="_blank" rel="noopener noreferrer" class="text-teal-400 hover:text-teal-300 transition-colors">Fluid Simulation</a> por <a href="https://amandaghassaei.com/apps/" target="_blank" rel="noopener noreferrer" class="text-teal-400 hover:text-teal-300 transition-colors">Amanda Ghassaei</a>
         </p>
       </div>
       <div class="text-right">
