@@ -81,7 +81,19 @@
               <span class="institution">Estudiante de doctorado, IIA-UNAM</span>
             </div>
           </li>
+          <li class="flex items-start">
+            <span class="research-bullet"></span>
+            <div>
+              <strong>Rita Margarita Jiménez Sánchez</strong><br>
+              <span class="institution">Investigadora independiente</span>
+            </div>
+          </li>
         </ul>
+        <div class="mt-6 text-center">
+          <a href="./equipo" class="btn-secondary text-white px-6 py-3 rounded-lg font-semibold transition-colors btn-academic inline-block">
+            Ver Equipo Completo →
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -200,7 +212,7 @@
         <p class="text-teal-100 mb-6">
           Consulta nuestras publicaciones más recientes en la sección de Artículos.
         </p>
-        <a href="#" class="bg-amber-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-amber-700 transition-colors inline-block btn-academic">
+        <a href="#publications" class="bg-amber-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-amber-700 transition-colors inline-block btn-academic">
           Ver Artículos
         </a>
       </div>
@@ -211,7 +223,7 @@
         <p class="text-teal-100 mb-6">
           Explora nuestra cartografía colaborativa sobre el agua en la región.
         </p>
-        <a href="#" class="bg-emerald-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-emerald-700 transition-colors inline-block btn-academic">
+        <a href="#maps" class="bg-emerald-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-emerald-700 transition-colors inline-block btn-academic">
           Explorar Mapas
         </a>
       </div>
