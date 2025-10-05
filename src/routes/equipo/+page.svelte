@@ -17,7 +17,7 @@
       <h1 class="text-5xl font-bold text-gray-800 mb-6">Nuestro Equipo</h1>
       <div class="w-32 h-1 bg-teal-600 mx-auto mb-6"></div>
       <p class="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-        Conoce a los investigadores que forman parte del Proyecto Tlaxcala-Puebla y sus áreas de especialización en antropología, estudios socioambientales y investigación multidisciplinaria.
+        Conoce a los investigadores que forman parte del Proyecto Tlaxcala-Puebla y sus áreas de especialización.
       </p>
     </div>
   </div>
