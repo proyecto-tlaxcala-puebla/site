@@ -36,7 +36,16 @@
             <div class="mb-6">
               <h3 class="text-lg font-semibold text-gray-800 mb-3 border-b-2 border-emerald-200 pb-1">Biografía Académica</h3>
               <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                [Biografía de 326 palabras - Incluir formación académica, trayectoria en antropología rural, experiencia en transformaciones agrarias, estudios sobre identidad territorial, publicaciones y proyectos de investigación relevantes.]
+                Hernán Salas Quintanal es investigador titular "C" en el Instituto de Investigaciones Antropológicas (IIA) de la UNAM, con una destacada trayectoria en el estudio de las transformaciones rurales, el acceso a los recursos naturales y la globalización en comunidades de México. Su trabajo se centra en la relación entre la economía rural, los cambios socioambientales y las estrategias de adaptación de las comunidades ante fenómenos como la precarización del campo, la crisis hídrica y los efectos de la pandemia de COVID-19 en las poblaciones rurales.
+              </p>
+              <p class="text-gray-700 text-sm leading-relaxed mb-4">
+                Es doctor en Antropología por la UNAM, maestro en Ciencias Sociales por la Facultad Latinoamericana de Ciencias Sociales (FLACSO-México) y licenciado en Antropología Social por la Universidad de Chile. A lo largo de su carrera ha sido coordinador del Programa de Posgrado en Antropología de la UNAM y ha liderado múltiples proyectos de investigación sobre el impacto del desarrollo y las políticas ambientales en comunidades campesinas.
+              </p>
+              <p class="text-gray-700 text-sm leading-relaxed mb-4">
+                Entre sus líneas de investigación destacan: Cambio social en el medio rural, explorando la reconfiguración de los modos de vida y la relación entre las comunidades y sus territorios; gestión del agua y conflictos socioambientales, analizando la sobreexplotación y contaminación de recursos hídricos, especialmente en la Cuenca Atoyac-Zahuapan, y; etnografía del poder y economías locales, estudiando cómo las dinámicas globales impactan la organización del trabajo y la vida cotidiana en el campo.
+              </p>
+              <p class="text-gray-700 text-sm leading-relaxed">
+                Ha recibido el Premio Fray Bernardino de Sahagún en el área de Etnología y Antropología Social por su investigación sobre el río Nazas, y es miembro del Sistema Nacional de Investigadores (SNI) nivel II del CONACYT. Sus publicaciones incluyen libros y artículos sobre las nuevas ruralidades en México, la economía campesina y la gestión territorial del agua, consolidándolo como una referencia en el estudio de la antropología rural.
               </p>
             </div>
             
@@ -44,17 +53,25 @@
               <div>
                 <h4 class="font-semibold text-gray-800 mb-2">Especialidades</h4>
                 <ul class="text-sm text-gray-600 space-y-1">
-                  <li>• Antropología rural</li>
-                  <li>• Transformaciones agrarias</li>
-                  <li>• Identidad territorial</li>
-                  <li>• Narrativas de resistencia</li>
+                  <li>• Transformaciones rurales y globalización</li>
+                  <li>• Gestión del agua y conflictos socioambientales</li>
+                  <li>• Etnografía del poder y economías locales</li>
+                  <li>• Nuevas ruralidades en México</li>
+                  <li>• Efectos de COVID-19 en poblaciones rurales</li>
                 </ul>
               </div>
               
               <div>
+                <h4 class="font-semibold text-gray-800 mb-2">Reconocimientos</h4>
+                <ul class="text-sm text-gray-600 space-y-1 mb-4">
+                  <li>• Premio Fray Bernardino de Sahagún (Etnología y Antropología Social)</li>
+                  <li>• Sistema Nacional de Investigadores (SNI) nivel II - CONACYT</li>
+                  <li>• Ex-coordinador del Programa de Posgrado en Antropología - UNAM</li>
+                </ul>
+                
                 <h4 class="font-semibold text-gray-800 mb-2">Contribución al Proyecto</h4>
                 <p class="text-sm text-gray-600 leading-relaxed">
-                  Investigación sobre las transformaciones rurales en el Municipio de Nativitas, Tlaxcala, con énfasis en las narrativas de resistencia comunitaria ante la degradación ambiental.
+                  Investiga los efectos del ecoturismo, la precarización laboral y la gestión del agua en comunidades de la Sierra Nevada, abordando las tensiones entre conservación ambiental y desarrollo económico.
                 </p>
               </div>
             </div>
@@ -84,7 +101,13 @@
             <div class="mb-6">
               <h3 class="text-lg font-semibold text-gray-800 mb-3 border-b-2 border-teal-200 pb-1">Biografía Académica</h3>
               <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                [Biografía de 326 palabras - Incluir formación académica, trayectoria profesional, líneas de investigación principales, publicaciones relevantes y contribuciones al campo de la antropología ambiental. Describir su experiencia en conflictos socioambientales y gestión del agua.]
+                Paola Velasco Santos es Investigadora Titular "A" en el Instituto de Investigaciones Antropológicas (IIA) de la Universidad Nacional Autónoma de México (UNAM). Obtuvo su doctorado en Antropología por la Facultad de Filosofía y Letras de la UNAM en 2014, la maestría en Estudios Regionales por el Instituto de Investigaciones José María Luis Mora en 2007 y la licenciatura en Antropología con especialización en antropología cultural por la Universidad de las Américas, Puebla, en 2005.
+              </p>
+              <p class="text-gray-700 text-sm leading-relaxed mb-4">
+                Su labor académica se centra en la ecología política, la antropología socioambiental y los estudios rurales. Ha publicado y co-editado libros sobre la cuestión socioambiental, así como escrito diversos artículos académicos relacionados con la política-ambiental de la región. Entre sus obras destaca "Ríos de Contradicción. Contaminación, ecología política y sujetos rurales en Natívitas, Tlaxcala", que recibió en 2018 el Premio INAH Fray Bernardino de Sahagún a la mejor investigación en antropología social y etnología.
+              </p>
+              <p class="text-gray-700 text-sm leading-relaxed mb-4">
+                Además, en 2015 fue galardonada con la Beca para Mujeres en las Humanidades y las Ciencias Sociales, otorgada por la Academia Mexicana de Ciencias. Como docente, imparte cursos en el Posgrado de Antropología de la UNAM, abordando temas como conflictos y problemas socioambientales, ecología política y la relación entre antropología y medio ambiente. También participa en la licenciatura en Antropología de la Facultad de Ciencias Políticas y Sociales de la UNAM.
               </p>
             </div>
             
@@ -92,17 +115,24 @@
               <div>
                 <h4 class="font-semibold text-gray-800 mb-2">Especialidades</h4>
                 <ul class="text-sm text-gray-600 space-y-1">
-                  <li>• Antropología ambiental</li>
-                  <li>• Conflictos socioambientales</li>
-                  <li>• Gestión del agua</li>
-                  <li>• Respuestas comunitarias</li>
+                  <li>• Ecología política</li>
+                  <li>• Antropología socioambiental</li>
+                  <li>• Estudios rurales</li>
+                  <li>• Conflictos y problemas socioambientales</li>
+                  <li>• Contaminación hídrica</li>
                 </ul>
               </div>
               
               <div>
+                <h4 class="font-semibold text-gray-800 mb-2">Reconocimientos</h4>
+                <ul class="text-sm text-gray-600 space-y-1 mb-4">
+                  <li>• Premio INAH Fray Bernardino de Sahagún (2018)</li>
+                  <li>• Beca para Mujeres en Humanidades y Ciencias Sociales - AMC (2015)</li>
+                </ul>
+                
                 <h4 class="font-semibold text-gray-800 mb-2">Contribución al Proyecto</h4>
                 <p class="text-sm text-gray-600 leading-relaxed">
-                  Especialista en el análisis de conflictos por el agua en la Cuenca Atoyac-Zahuapan, con enfoque en las respuestas comunitarias ante la contaminación y la crisis hídrica.
+                  Investiga las dinámicas socioambientales y económicas en comunidades rurales de la región, enfocándose en problemáticas como la contaminación hídrica, la precarización laboral y las estrategias de resistencia comunitaria ante los desafíos impuestos por la globalización y las políticas ambientales.
                 </p>
               </div>
             </div>
@@ -132,7 +162,16 @@
             <div class="mb-6">
               <h3 class="text-lg font-semibold text-gray-800 mb-3 border-b-2 border-amber-200 pb-1">Biografía Académica</h3>
               <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                [Biografía de 326 palabras - Incluir formación académica, experiencia en estudios multidisciplinarios, trayectoria en desarrollo regional, trabajo en políticas públicas, proyectos de investigación y publicaciones relevantes en el CRIM.]
+                Celia López Miguel es investigadora en el Centro Regional de Investigaciones Multidisciplinarias (CRIM) de la Universidad Nacional Autónoma de México (UNAM). Su labor académica se enfoca en la gestión integrada de sistemas urbanos y ecológicos, con el objetivo de promover el desarrollo sostenible en áreas metropolitanas de México.
+              </p>
+              <p class="text-gray-700 text-sm leading-relaxed mb-4">
+                Entre sus publicaciones resalta el artículo en coautoría: "Challenges in the management of urban natural protected area systems and the conservation of ecosystem services in Guadalajara and Monterrey, Mexico" (2020), publicado en la revista Land Use Policy. Este trabajo analiza la importancia de la gestión integrada de sistemas urbanos y ecológicos para lograr un desarrollo sostenible, desde la perspectiva de diversos actores sociales vinculados a áreas naturales protegidas en contextos urbanos.
+              </p>
+              <p class="text-gray-700 text-sm leading-relaxed mb-4">
+                Además de su producción académica, López Miguel ha impartido cursos especializados, como el titulado "Sistemas de información geográfica aplicados a la investigación en ciencias sociales y humanidades. Nivel básico", ofrecido en el CRIM. El objetivo del curso ha sido enseñar los conceptos teóricos básicos de los Sistemas de Información Geográfica (SIG) y su aplicabilidad en las ciencias humanas y sociales, así como los fundamentos necesarios para el diseño de bases de datos y su modelado espacial.
+              </p>
+              <p class="text-gray-700 text-sm leading-relaxed">
+                Su compromiso con la docencia y la investigación refleja una dedicación constante al estudio y la solución de problemáticas socioambientales en entornos urbanos, contribuyendo al entendimiento y mejoramiento de la relación entre las comunidades y su entorno natural.
               </p>
             </div>
             
@@ -140,17 +179,23 @@
               <div>
                 <h4 class="font-semibold text-gray-800 mb-2">Especialidades</h4>
                 <ul class="text-sm text-gray-600 space-y-1">
-                  <li>• Estudios multidisciplinarios</li>
-                  <li>• Desarrollo regional</li>
-                  <li>• Políticas públicas</li>
-                  <li>• Investigación aplicada</li>
+                  <li>• Gestión integrada de sistemas urbanos y ecológicos</li>
+                  <li>• Desarrollo sostenible en áreas metropolitanas</li>
+                  <li>• Áreas naturales protegidas urbanas</li>
+                  <li>• Sistemas de información geográfica (SIG)</li>
+                  <li>• Conservación de servicios ecosistémicos</li>
                 </ul>
               </div>
               
               <div>
+                <h4 class="font-semibold text-gray-800 mb-2">Publicación Destacada</h4>
+                <p class="text-sm text-gray-600 leading-relaxed mb-4">
+                  <em>"Challenges in the management of urban natural protected area systems and the conservation of ecosystem services in Guadalajara and Monterrey, Mexico"</em> (2020) - Land Use Policy
+                </p>
+                
                 <h4 class="font-semibold text-gray-800 mb-2">Contribución al Proyecto</h4>
                 <p class="text-sm text-gray-600 leading-relaxed">
-                  Coordinación de estudios multidisciplinarios y análisis de políticas públicas relacionadas con el desarrollo regional en Tlaxcala y Puebla.
+                  Aporta su experiencia en gestión integrada de sistemas socioambientales y metodologías de SIG para el análisis multidisciplinario de las problemáticas regionales en Tlaxcala y Puebla.
                 </p>
               </div>
             </div>
@@ -171,8 +216,8 @@
             </div>
           </div>
           <div class="text-center">
-            <h2 class="text-2xl font-bold text-red-800 mb-2">Alejandra González Nava</h2>
-            <p class="text-sm font-medium text-red-600 institution">Estudiante de Doctorado - IIA-UNAM</p>
+            <h2 class="text-2xl font-bold text-red-800 mb-2">Leonor Alejandra González Nava</h2>
+            <p class="text-sm font-medium text-red-600 institution">Candidata a Doctora en Antropología - UNAM</p>
           </div>
         </div>
         <div class="md:w-3/4 p-8">
@@ -180,7 +225,16 @@
             <div class="mb-6">
               <h3 class="text-lg font-semibold text-gray-800 mb-3 border-b-2 border-red-200 pb-1">Biografía Académica</h3>
               <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                [Biografía de 326 palabras - Incluir formación académica previa, tema de investigación doctoral, experiencia en antropología médica, trabajo en salud comunitaria, investigación sobre efectos sociales de pandemias, y contribuciones académicas.]
+                Leonor Alejandra González Nava es candidata a doctora en Antropología por la Universidad Nacional Autónoma de México (UNAM), donde también obtuvo su maestría en Antropología. Asimismo, es licenciada en Desarrollo y Gestión Interculturales por la Facultad de Filosofía y Letras de la UNAM. Su trabajo de investigación se centra en la ecología política, los enredos socioambientales, las transformaciones rurales y la gestión del patrimonio cultural.
+              </p>
+              <p class="text-gray-700 text-sm leading-relaxed mb-4">
+                Con una trayectoria académica de más de nueve años como profesora de asignatura en la UNAM, ha impartido cursos en la Facultad de Filosofía y Letras y en la Facultad de Ciencias Políticas y Sociales, abordando temas como turismo y patrimonio cultural, ética y práctica antropológica, construcción de identidades y diversidad cultural.
+              </p>
+              <p class="text-gray-700 text-sm leading-relaxed mb-4">
+                Ha participado en proyectos colectivos de investigación desde 2013 y ha trabajado como coordinadora de becarios de investigación sociocultural en el Proyecto Emigra de la Universidad de Arizona. También ha colaborado en estudios de investigación social para empresas y organismos de mercado.
+              </p>
+              <p class="text-gray-700 text-sm leading-relaxed">
+                Entre sus publicaciones destaca un artículo en coautoría llamado "La luz del ecoturismo: la producción social de las luciérnagas y las trampas de la fe neoliberal" (2023), donde se analiza la intersección entre ecoturismo y conservación ambiental en contextos rurales. Asimismo, ha coordinado mesas de discusión y eventos académicos sobre antropología y problemáticas socioambientales en foros nacionales e internacionales.
               </p>
             </div>
             
@@ -188,17 +242,25 @@
               <div>
                 <h4 class="font-semibold text-gray-800 mb-2">Especialidades</h4>
                 <ul class="text-sm text-gray-600 space-y-1">
-                  <li>• Antropología médica</li>
-                  <li>• Salud comunitaria</li>
-                  <li>• Efectos sociales de pandemias</li>
-                  <li>• Estrategias de adaptación</li>
+                  <li>• Ecología política</li>
+                  <li>• Enredos socioambientales</li>
+                  <li>• Transformaciones rurales</li>
+                  <li>• Gestión del patrimonio cultural</li>
+                  <li>• Turismo y conservación ambiental</li>
                 </ul>
               </div>
               
               <div>
+                <h4 class="font-semibold text-gray-800 mb-2">Experiencia Académica</h4>
+                <ul class="text-sm text-gray-600 space-y-1 mb-4">
+                  <li>• +9 años como profesora de asignatura UNAM</li>
+                  <li>• Coordinadora de becarios - Proyecto Emigra (U. Arizona)</li>
+                  <li>• Investigación social aplicada</li>
+                </ul>
+                
                 <h4 class="font-semibold text-gray-800 mb-2">Contribución al Proyecto</h4>
                 <p class="text-sm text-gray-600 leading-relaxed">
-                  Investigación sobre el impacto del COVID-19 en las comunidades rurales de Tlahuapan, Puebla, analizando las estrategias de adaptación y los significados culturales de la pandemia.
+                  Estudia las relaciones entre turismo, conservación ambiental y economía rural en la región, aportando su experiencia en ecoturismo de luciérnagas y análisis crítico de políticas neoliberales.
                 </p>
               </div>
             </div>
@@ -219,8 +281,8 @@
             </div>
           </div>
           <div class="text-center">
-            <h2 class="text-2xl font-bold text-purple-800 mb-2">Rita Margarita Jiménez Sánchez</h2>
-            <p class="text-sm font-medium text-purple-600 institution">Investigadora Independiente</p>
+            <h2 class="text-2xl font-bold text-purple-800 mb-2">Rita Jiménez</h2>
+            <p class="text-sm font-medium text-purple-600 institution">Doctora en Ciencias Sociales - Consultora en Políticas de Género e Inclusión</p>
           </div>
         </div>
         <div class="md:w-3/4 p-8">
@@ -228,7 +290,16 @@
             <div class="mb-6">
               <h3 class="text-lg font-semibold text-gray-800 mb-3 border-b-2 border-purple-200 pb-1">Biografía Académica</h3>
               <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                [Biografía de 326 palabras - Incluir formación académica, trayectoria como investigadora independiente, áreas de especialización, proyectos de investigación, publicaciones y contribuciones al campo de estudio.]
+                Rita Jiménez es Doctora y Maestra en Ciencias Sociales con Especialidad en Estudios Rurales por El Colegio de Michoacán. Es Licenciada en Desarrollo y Gestión Interculturales por la Universidad Nacional Autónoma de México (UNAM). Ha sido profesora de la UNAM en la Facultad de Filosofía y Letras y en la Facultad de Ciencias Políticas y Sociales, enseñando metodología de investigación y temas de diversidad cultural.
+              </p>
+              <p class="text-gray-700 text-sm leading-relaxed mb-4">
+                También trabajó en la Defensoría de la UNAM en la atención de víctimas de violencia. Ha colaborado con el Instituto Nacional de Ciencia Penales y el Poder Judicial del Estado de México, impartiendo formación especializada a operadores del sistema judicial en temas de derechos humanos, pluralismo jurídico y prevención de la violencia. Su experiencia docente abarca programas de licenciatura y posgrado, así como cursos de educación continua dirigidos a cuerpos de seguridad y funcionarios públicos en general.
+              </p>
+              <p class="text-gray-700 text-sm leading-relaxed mb-4">
+                Su trayectoria se distingue por el compromiso académico y profesional con el fortalecimiento de los derechos humanos, la equidad de género y el reconocimiento de la diversidad cultural en contextos de justicia. Es autora de publicaciones relevantes sobre justicia indígena, feminicidio, propiedad ejidal y patrimonialización cultural.
+              </p>
+              <p class="text-gray-700 text-sm leading-relaxed">
+                En 2022, recibió el Premio Arturo Warman a la mejor tesis doctoral en Ciencias Sociales; la cual aborda la formación histórica de reivindicaciones identificatorias en torno a poblaciones indígenas de la región huasteca potosina. Actualmente se desempeña como consultora privada en políticas de género, inclusión y no discriminación.
               </p>
             </div>
             
@@ -236,17 +307,25 @@
               <div>
                 <h4 class="font-semibold text-gray-800 mb-2">Especialidades</h4>
                 <ul class="text-sm text-gray-600 space-y-1">
-                  <li>• [Área de especialización]</li>
-                  <li>• [Área de especialización]</li>
-                  <li>• [Área de especialización]</li>
-                  <li>• [Área de especialización]</li>
+                  <li>• Estudios rurales</li>
+                  <li>• Derechos humanos y equidad de género</li>
+                  <li>• Diversidad cultural y pluralismo jurídico</li>
+                  <li>• Justicia indígena</li>
+                  <li>• Políticas de género e inclusión</li>
                 </ul>
               </div>
               
               <div>
+                <h4 class="font-semibold text-gray-800 mb-2">Reconocimientos</h4>
+                <ul class="text-sm text-gray-600 space-y-1 mb-4">
+                  <li>• Premio Arturo Warman a la mejor tesis doctoral (2022)</li>
+                  <li>• Especialización en formación judicial</li>
+                  <li>• Experiencia en defensoría de derechos</li>
+                </ul>
+                
                 <h4 class="font-semibold text-gray-800 mb-2">Contribución al Proyecto</h4>
                 <p class="text-sm text-gray-600 leading-relaxed">
-                  [Contribuciones específicas al proyecto - por completar según su rol en la investigación]
+                  Aporta su experiencia en estudios rurales y análisis de poblaciones indígenas para enriquecer la perspectiva de derechos humanos y diversidad cultural en las investigaciones regionales de Tlaxcala-Puebla.
                 </p>
               </div>
             </div>
@@ -255,40 +334,6 @@
       </div>
     </div>
     
-  </div>
-</section>
-
-<!-- Collaboration Section -->
-<section class="py-16 bg-white">
-  <div class="max-w-6xl mx-auto px-6">
-    <div class="text-center mb-12">
-      <h2 class="text-4xl font-bold text-gray-800 mb-4">Colaboración Institucional</h2>
-      <div class="w-24 h-1 bg-teal-600 mx-auto mb-6"></div>
-    </div>
-    
-    <div class="grid md:grid-cols-2 gap-8">
-      <div class="bg-blue-50 p-8 rounded-lg">
-        <h3 class="text-2xl font-semibold text-blue-800 mb-4">Instituto de Investigaciones Antropológicas (IIA)</h3>
-        <p class="text-gray-700 academic-text mb-4">
-          El IIA es una de las entidades académicas más prestigiosas de la UNAM en el campo de la antropología, con una larga trayectoria en investigación etnográfica y estudios socioculturales.
-        </p>
-        <a href="http://www.iia.unam.mx/" target="_blank" rel="noopener noreferrer" 
-           class="text-blue-700 hover:text-blue-900 font-semibold transition-colors">
-          Visitar sitio web del IIA →
-        </a>
-      </div>
-      
-      <div class="bg-emerald-50 p-8 rounded-lg">
-        <h3 class="text-2xl font-semibold text-emerald-800 mb-4">Centro Regional de Investigaciones Multidisciplinarias (CRIM)</h3>
-        <p class="text-gray-700 academic-text mb-4">
-          El CRIM se especializa en investigación multidisciplinaria sobre problemáticas regionales, integrando perspectivas de las ciencias sociales para el análisis de fenómenos complejos.
-        </p>
-        <a href="https://www.crim.unam.mx/" target="_blank" rel="noopener noreferrer" 
-           class="text-emerald-700 hover:text-emerald-900 font-semibold transition-colors">
-          Visitar sitio web del CRIM →
-        </a>
-      </div>
-    </div>
   </div>
 </section>
 
