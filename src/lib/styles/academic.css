@@ -179,9 +179,64 @@ button:focus {
   }
 }
 
-/* Responsive typography scaling */
+/* Team profile styling */
+.team-profile {
+  transition: all 0.3s ease;
+}
+
+.team-profile:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.team-avatar {
+  transition: all 0.3s ease;
+}
+
+.team-avatar:hover {
+  transform: scale(1.05);
+}
+
+/* Improved typography for long biographies */
+.bio-text {
+  font-size: 0.875rem;
+  line-height: 1.6;
+  text-align: justify;
+  hyphens: auto;
+  color: #374151;
+}
+
+.bio-section h3 {
+  color: #1f2937;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+.bio-section h4 {
+  color: #374151;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+/* Responsive adjustments for team layout */
 @media (max-width: 768px) {
   .academic-text {
     text-align: left;
+  }
+  
+  .bio-text {
+    font-size: 0.8rem;
+    line-height: 1.5;
+    text-align: left;
+  }
+  
+  .team-profile .md\:flex {
+    flex-direction: column;
+  }
+  
+  .team-avatar {
+    width: 120px;
+    height: 120px;
+    margin: 0 auto 1rem;
   }
 }
