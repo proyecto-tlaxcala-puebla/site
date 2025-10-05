@@ -1,3 +1,7 @@
+<script lang="ts">
+  import { base } from '$app/paths';
+</script>
+
 <!-- Hero Section with Background Animation -->
 <section class="relative min-h-screen overflow-hidden">
   <!-- Background animation -->
@@ -90,7 +94,7 @@
           </li>
         </ul>
         <div class="mt-6 text-center">
-          <a href="./equipo" class="btn-secondary text-white px-6 py-3 rounded-lg font-semibold transition-colors btn-academic inline-block">
+          <a href="{base}/equipo" class="btn-secondary text-white px-6 py-3 rounded-lg font-semibold transition-colors btn-academic inline-block">
             Ver Equipo Completo →
           </a>
         </div>
@@ -212,7 +216,7 @@
         <p class="text-teal-100 mb-6">
           Consulta nuestras publicaciones más recientes en la sección de Artículos.
         </p>
-        <a href="#publications" class="bg-amber-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-amber-700 transition-colors inline-block btn-academic">
+        <a href="{base}/publicaciones" class="bg-amber-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-amber-700 transition-colors inline-block btn-academic">
           Ver Artículos
         </a>
       </div>
