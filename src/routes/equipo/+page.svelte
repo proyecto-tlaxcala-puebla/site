@@ -1,4 +1,6 @@
 <script lang="ts">
+  import { base } from '$app/paths';
+
   function handleImageError(e: Event) {
     const target = e.target as HTMLImageElement;
     const fallback = target?.nextElementSibling as HTMLElement;
@@ -32,7 +34,7 @@
       <div class="md:flex">
         <div class="md:w-1/4 bg-gradient-to-br from-emerald-50 to-emerald-100 p-8 flex flex-col items-center justify-center">
           <div class="w-40 h-40 bg-emerald-200 rounded-full mb-4 flex items-center justify-center overflow-hidden">
-            <img src="/team/hernan-salas.jpg" alt="Hernán Salas Quintanal" class="w-full h-full object-cover" 
+            <img src="{base}/team/hernan-salas.jpg" alt="Hernán Salas Quintanal" class="w-full h-full object-cover" 
                  on:error={handleImageError}>
             <div class="w-full h-full bg-emerald-300 flex items-center justify-center text-4xl font-bold text-emerald-700" style="display: none;">
               HS
@@ -97,7 +99,7 @@
       <div class="md:flex">
         <div class="md:w-1/4 bg-gradient-to-br from-teal-50 to-teal-100 p-8 flex flex-col items-center justify-center">
           <div class="w-40 h-40 bg-teal-200 rounded-full mb-4 flex items-center justify-center overflow-hidden">
-            <img src="/team/paola-velasco.jpg" alt="Paola Velasco Santos" class="w-full h-full object-cover" 
+            <img src="{base}/team/paola-velasco.jpg" alt="Paola Velasco Santos" class="w-full h-full object-cover" 
                  on:error={handleImageError}>
             <div class="w-full h-full bg-teal-300 flex items-center justify-center text-4xl font-bold text-teal-700" style="display: none;">
               PV
@@ -158,7 +160,7 @@
       <div class="md:flex">
         <div class="md:w-1/4 bg-gradient-to-br from-amber-50 to-amber-100 p-8 flex flex-col items-center justify-center">
           <div class="w-40 h-40 bg-amber-200 rounded-full mb-4 flex items-center justify-center overflow-hidden">
-            <img src="/team/celia-lopez.jpg" alt="Celia López Miguel" class="w-full h-full object-cover" 
+            <img src="{base}/team/celia-lopez.jpg" alt="Celia López Miguel" class="w-full h-full object-cover" 
                  on:error={handleImageError}>
             <div class="w-full h-full bg-amber-300 flex items-center justify-center text-4xl font-bold text-amber-700" style="display: none;">
               CL
@@ -221,7 +223,7 @@
       <div class="md:flex">
         <div class="md:w-1/4 bg-gradient-to-br from-red-50 to-red-100 p-8 flex flex-col items-center justify-center">
           <div class="w-40 h-40 bg-red-200 rounded-full mb-4 flex items-center justify-center overflow-hidden">
-            <img src="/team/alejandra-gonzalez.jpg" alt="Alejandra González Nava" class="w-full h-full object-cover" 
+            <img src="{base}/team/alejandra-gonzalez.jpg" alt="Alejandra González Nava" class="w-full h-full object-cover" 
                  on:error={handleImageError}>
             <div class="w-full h-full bg-red-300 flex items-center justify-center text-4xl font-bold text-red-700" style="display: none;">
               AG
@@ -286,7 +288,7 @@
       <div class="md:flex">
         <div class="md:w-1/4 bg-gradient-to-br from-purple-50 to-purple-100 p-8 flex flex-col items-center justify-center">
           <div class="w-40 h-40 bg-purple-200 rounded-full mb-4 flex items-center justify-center overflow-hidden">
-            <img src="/team/rita-jimenez.jpg" alt="Rita Margarita Jiménez Sánchez" class="w-full h-full object-cover" 
+            <img src="{base}/team/rita-jimenez.jpg" alt="Rita Margarita Jiménez Sánchez" class="w-full h-full object-cover" 
                  on:error={handleImageError}>
             <div class="w-full h-full bg-purple-300 flex items-center justify-center text-3xl font-bold text-purple-700" style="display: none;">
               RJ
@@ -352,7 +354,7 @@
 <!-- Back to Home -->
 <section class="py-12 bg-gray-50">
   <div class="max-w-6xl mx-auto px-6 text-center">
-    <a href="/" class="btn-secondary text-white px-8 py-3 rounded-lg font-semibold transition-colors btn-academic inline-block">
+    <a href="{base}/" class="btn-secondary text-white px-8 py-3 rounded-lg font-semibold transition-colors btn-academic inline-block">
       ← Regresar al Inicio
     </a>
   </div>
