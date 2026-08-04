@@ -27,14 +27,7 @@
     </div>
   </div>
 </section>
-        <a href="#research" class="border-2 border-white text-white hover:bg-white hover:text-teal-800 px-8 py-3 rounded-lg font-semibold transition-colors btn-academic">
-          Explorar Investigación
-        </a>
-      </div>
-    </div>
-  </div>
-</section>
-
+<!-- About Section -->
 <!-- About Section -->
 <section id="about" class="py-16 bg-white">
   <div class="max-w-6xl mx-auto px-6">
