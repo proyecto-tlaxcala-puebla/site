@@ -5,10 +5,10 @@
 <!-- Hero Section con Foto de Portada -->
 <section class="relative min-h-screen overflow-hidden bg-cover bg-center bg-no-repeat" style="background-image: url('{base}/portada.jpg');">
   <!-- Capa oscura opcional para asegurar que el texto blanco sea fácil de leer -->
-  <div class="absolute inset-0 bg-black/40"></div>
+  <!-- Capa oscura desactivada -->
   
   <!-- Content overlay -->
-  <div class="relative z-10 flex items-center justify-center min-h-screen hero-overlay pointer-events-none">
+  <div class="relative z-10 flex items-center justify-center min-h-screen bg-transparent pointer-events-none">
     <div class="text-center text-white px-6 max-w-4xl pointer-events-auto">
       <h1 class="text-5xl md:text-6xl font-bold mb-6 leading-tight">
         Proyecto Tlaxcala-Puebla
