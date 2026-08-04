@@ -17,12 +17,16 @@
       <p class="text-xl md:text-2xl mb-8 leading-relaxed academic-text">
         Investigación y reflexiones sobre los cambios socioambientales, económicos y políticos en la región
       </p>
-      <div class="flex flex-col sm:flex-row gap-4 justify-center">
-        <a href="#about" class="btn-primary hover:bg-orange-600 text-white px-8 py-3 rounded-lg font-semibold transition-colors btn-academic">
-          Conoce Nuestro Trabajo
+      <!-- Botones de las 3 áreas principales -->
+      <div class="flex flex-col md:flex-row gap-4 justify-center mt-6">
+        <a href="#research" class="bg-orange-600 hover:bg-orange-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors btn-academic shadow-lg text-center">
+          Investigación
         </a>
-        <a href="#research" class="border-2 border-white text-white hover:bg-white hover:text-teal-800 px-8 py-3 rounded-lg font-semibold transition-colors btn-academic">
-          Explorar Investigación
+        <a href="#formacion" class="bg-orange-600 hover:bg-orange-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors btn-academic shadow-lg text-center">
+          Formación y fortalecimiento académico
+        </a>
+        <a href="#difusion" class="bg-orange-600 hover:bg-orange-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors btn-academic shadow-lg text-center">
+          Difusión
         </a>
       </div>
     </div>
