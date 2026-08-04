@@ -10,9 +10,10 @@
   <!-- Content overlay -->
   <div class="relative z-10 flex items-center justify-center min-h-screen bg-transparent pointer-events-none">
     <div class="text-center text-white px-6 max-w-4xl pointer-events-auto">
-      <h1 class="text-5xl md:text-6xl font-bold mb-6 leading-tight">
-        Proyecto Tlaxcala-Puebla
-      </h1>
+<div class="text-center text-white px-6 max-w-4xl pointer-events-auto">
+  <h1 class="text-5xl md:text-6xl font-bold mb-6 leading-tight text-gray-900">
+    Proyecto Tlaxcala-Puebla
+  </h1>
       <p class="text-xl md:text-2xl mb-8 leading-relaxed academic-text">
         Investigación y reflexiones sobre los cambios socioambientales, económicos y políticos en la región
       </p>
