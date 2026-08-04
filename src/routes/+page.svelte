@@ -2,18 +2,10 @@
   import { base } from '$app/paths';
 </script>
 
-<!-- Hero Section with Background Animation -->
-<section class="relative min-h-screen overflow-hidden">
-  <!-- Background animation -->
-  <iframe
-    src="https://glittery-clafoutis-927ba9.netlify.app/"
-    class="absolute inset-0 w-full h-full object-cover"
-    style="z-index: 2; opacity: 0.15;"
-    frameborder="0"
-    title="Animación de luciérnagas - fondo decorativo"
-  ></iframe>
-  <!-- Fluid simulation visualization by Amanda Ghassaei, https://amandaghassaei.com/apps/ -->
-  <!-- Specifically: https://apps.amandaghassaei.com/gpu-io/examples/fluid/ -->
+<!-- Hero Section con Foto de Portada -->
+<section class="relative min-h-screen overflow-hidden bg-cover bg-center bg-no-repeat" style="background-image: url('{base}/portada.jpg');">
+  <!-- Capa oscura opcional para asegurar que el texto blanco sea fácil de leer -->
+  <div class="absolute inset-0 bg-black/40"></div>
   
   <!-- Content overlay -->
   <div class="relative z-10 flex items-center justify-center min-h-screen hero-overlay pointer-events-none">
@@ -28,6 +20,13 @@
         <a href="#about" class="btn-primary hover:bg-orange-600 text-white px-8 py-3 rounded-lg font-semibold transition-colors btn-academic">
           Conoce Nuestro Trabajo
         </a>
+        <a href="#research" class="border-2 border-white text-white hover:bg-white hover:text-teal-800 px-8 py-3 rounded-lg font-semibold transition-colors btn-academic">
+          Explorar Investigación
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
         <a href="#research" class="border-2 border-white text-white hover:bg-white hover:text-teal-800 px-8 py-3 rounded-lg font-semibold transition-colors btn-academic">
           Explorar Investigación
         </a>
