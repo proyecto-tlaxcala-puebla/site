@@ -207,10 +207,110 @@
 <!-- Sección: Difusión -->
 <section id="difusion" class="py-16 bg-white border-b">
   <div class="max-w-6xl mx-auto px-6">
-    <h2 class="text-3xl font-bold text-gray-800 mb-6 border-b-2 border-orange-500 pb-2 inline-block">
-      Difusión
-    </h2>
-    <p class="text-gray-600">Próximamente publicaciones, eventos y divulgación...</p>
+    <div class="text-center mb-10">
+      <h2 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4 border-b-4 border-orange-500 pb-2 inline-block">
+        Difusión y Publicaciones
+      </h2>
+      <p class="text-gray-600 max-w-2xl mx-auto text-sm md:text-base">
+        Resultados de investigación, libros, artículos científicos, material audiovisual y eventos académicos del proyecto.
+      </p>
+    </div>
+
+    <!-- Contenedor con Pestañas y Contenido -->
+    <script>
+      let activeTab = 'libros'; // Pestaña por defecto
+    </script>
+
+    <!-- Subsección: LIBROS -->
+    <div class="mb-12">
+      <h3 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-2 border-b pb-2">
+        <span class="text-orange-600">📚</span> Libros y Capítulos
+      </h3>
+      
+      <div class="space-y-4">
+        <!-- Ejemplo Libro 1 -->
+        <div class="p-6 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+          <div class="space-y-2 max-w-4xl">
+            <div class="flex items-center gap-2">
+              <span class="bg-orange-100 text-orange-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2025</span>
+              <span class="text-xs text-gray-500 font-medium">Capítulo de Libro • CLACSO</span>
+            </div>
+            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+              Salas, H. y Velasco, P. (2025). “Historia sociolaboral de la Cuenca Atoyac-Zahuapan en el Altiplano Mexicano”. En Carton de Grammont, H., Mascheroni, P., Riella, A. y Sánchez, K. (Coords.) <em>Mercados de trabajo rurales, desigualdades y vulnerabilidad social en América Latina</em>. Consejo Latinoamericano de Ciencias Sociales CLACSO, Argentina, pp. 323-350.
+            </p>
+            <p class="text-xs text-gray-500 font-mono">ISBN: 978-987-813-957-9</p>
+          </div>
+          <a href="https://estudiosrurales.sdi.unam.mx/media/attachments/2025/02/19/mercados-trabajo-rurales.pdf" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-orange-600 hover:bg-orange-700 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+            <span>Ver PDF</span> &rarr;
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Subsección: ARTÍCULOS -->
+    <div class="mb-12">
+      <h3 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-2 border-b pb-2">
+        <span class="text-orange-600">📄</span> Artículos Académicos
+      </h3>
+
+      <div class="space-y-4">
+        <!-- Ejemplo Artículo 1 -->
+        <div class="p-6 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+          <div class="space-y-2 max-w-4xl">
+            <div class="flex items-center gap-2">
+              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2021</span>
+              <span class="text-xs text-gray-500 font-medium">Revista Mexicana de Sociología</span>
+            </div>
+            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+              Salas Quintanal, Hernán et al. (2021). "La pandemia de Covid-19: significados y consecuencias en los modos de vida en Tlahuapan, Puebla". <em>Revista Mexicana de Sociología</em>, sep. 2021.
+            </p>
+            <p class="text-xs text-gray-500 font-mono">ISSN: 2594-0651</p>
+          </div>
+          <a href="https://revistamexicanadesociologia.unam.mx/index.php/rms/article/view/60172/53164" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+            <span>Ver Artículo</span> &rarr;
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Subsección: VIDEOS, COLOQUIOS Y PLÁTICAS (Contenedores listos para insumos) -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 pt-4">
+      
+      <!-- Cuadro Videos -->
+      <div class="bg-gray-50/60 p-6 rounded-xl border-2 border-dashed border-gray-300">
+        <h4 class="font-bold text-gray-800 mb-2 flex items-center gap-2">
+          <span>🎥</span> Videos de Conferencias
+        </h4>
+        <p class="text-gray-500 text-xs leading-relaxed mb-3">
+          Aquí se incrustarán los enlaces a YouTube de ponencias y conferencias grabadas.
+        </p>
+        <span class="text-xs text-orange-600 font-medium italic">Próximamente enlaces</span>
+      </div>
+
+      <!-- Cuadro Coloquios -->
+      <div class="bg-gray-50/60 p-6 rounded-xl border-2 border-dashed border-gray-300">
+        <h4 class="font-bold text-gray-800 mb-2 flex items-center gap-2">
+          <span>🖼️</span> Coloquios y Eventos
+        </h4>
+        <p class="text-gray-500 text-xs leading-relaxed mb-3">
+          Galería para exhibir los pósteres y carteles de coloquios y simposios del proyecto.
+        </p>
+        <span class="text-xs text-orange-600 font-medium italic">Próximamente carteles</span>
+      </div>
+
+      <!-- Cuadro Pláticas -->
+      <div class="bg-gray-50/60 p-6 rounded-xl border-2 border-dashed border-gray-300">
+        <h4 class="font-bold text-gray-800 mb-2 flex items-center gap-2">
+          <span>🗣️</span> Pláticas y Talleres
+        </h4>
+        <p class="text-gray-500 text-xs leading-relaxed mb-3">
+          Lista estática de charlas de divulgación impartidas en comunidades e instituciones.
+        </p>
+        <span class="text-xs text-orange-600 font-medium italic">Próximamente registros</span>
+      </div>
+
+    </div>
+
   </div>
 </section>
 
