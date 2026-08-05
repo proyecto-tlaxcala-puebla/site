@@ -433,7 +433,7 @@
             🗺️
           </div>
           <h3 class="text-2xl font-bold text-gray-800 mb-3">
-            Cartografía Participativa
+            Repositorio de Mapas
           </h3>
           <p class="text-gray-600 text-sm leading-relaxed mb-6">
             Mapas comunitarios, diagnósticos socioambientales espaciales, capas geográficas y modelos territoriales elaborados mediante Sistemas de Información Geográfica (SIG) y talleres colaborativos.
@@ -451,12 +451,111 @@
 </section>
 
 <!-- Sección: Vinculación -->
-<section id="vinculacion" class="py-16 bg-white border-b">
+<section id="vinculacion" class="py-16 bg-gray-50 border-b">
   <div class="max-w-6xl mx-auto px-6">
-    <h2 class="text-3xl font-bold text-gray-800 mb-6 border-b-2 border-orange-500 pb-2 inline-block">
-      Vinculación
-    </h2>
-    <p class="text-gray-600">Próximamente trabajo comunitario y colaboraciones...</p>
+    <div class="text-center mb-12">
+      <h2 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4 border-b-4 border-orange-500 pb-2 inline-block">
+        Vinculación Comunitaria e Institucional
+      </h2>
+      <p class="text-gray-600 max-w-2xl mx-auto text-sm md:text-base">
+        Procesos de retribución social, trabajo colaborativo con actores locales e intercambio con instituciones de la región.
+      </p>
+    </div>
+
+    <!-- Grilla de Vinculación (3 arriba, 2 abajo) -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
+      
+      <!-- 1. Monografías -->
+      <div class="bg-white p-6 rounded-xl border-2 border-dashed border-gray-300 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="w-12 h-12 rounded-lg bg-orange-100 text-orange-600 flex items-center justify-center font-bold text-2xl mb-4">
+            📖
+          </div>
+          <h3 class="text-xl font-bold text-gray-800 mb-2">Monografías</h3>
+          <p class="text-gray-600 text-sm leading-relaxed mb-4">
+            Estudios locales e históricos redactados para y con las comunidades sobre sus territorios y memoria colectiva.
+          </p>
+        </div>
+        <div class="pt-4 border-t border-gray-100 flex items-center justify-between">
+          <span class="text-xs text-orange-600 font-semibold italic">Pendiente de documentos</span>
+          <span class="text-xs text-gray-400">Ver monografías &rarr;</span>
+        </div>
+      </div>
+
+      <!-- 2. Carteles -->
+      <div class="bg-white p-6 rounded-xl border-2 border-dashed border-gray-300 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="w-12 h-12 rounded-lg bg-teal-100 text-teal-700 flex items-center justify-center font-bold text-2xl mb-4">
+            🎨
+          </div>
+          <h3 class="text-xl font-bold text-gray-800 mb-2">Carteles Divulgativos</h3>
+          <p class="text-gray-600 text-sm leading-relaxed mb-4">
+            Materiales gráficos e infografías diseñados para la síntesis y difusión clara de problemáticas socioambientales.
+          </p>
+        </div>
+        <div class="pt-4 border-t border-gray-100 flex items-center justify-between">
+          <span class="text-xs text-teal-700 font-semibold italic">Pendiente de galería de carteles</span>
+          <span class="text-xs text-gray-400">Ver materiales &rarr;</span>
+        </div>
+      </div>
+
+      <!-- 3. Devolución de conocimiento -->
+      <div class="bg-white p-6 rounded-xl border-2 border-dashed border-gray-300 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="w-12 h-12 rounded-lg bg-amber-100 text-amber-700 flex items-center justify-center font-bold text-2xl mb-4">
+            🔄
+          </div>
+          <h3 class="text-xl font-bold text-gray-800 mb-2">Devolución de Conocimiento</h3>
+          <p class="text-gray-600 text-sm leading-relaxed mb-4">
+            Talleres, asambleas informativas y entrega de diagnósticos participativos a los ejidos y comunidades colaboradoras.
+          </p>
+        </div>
+        <div class="pt-4 border-t border-gray-100 flex items-center justify-between">
+          <span class="text-xs text-amber-700 font-semibold italic">Pendiente de registros de retribución</span>
+          <span class="text-xs text-gray-400">Ver actividades &rarr;</span>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Segunda Fila (2 centradas) -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
+      
+      <!-- 4. Cartografía colaborativa -->
+      <div class="bg-white p-6 rounded-xl border-2 border-dashed border-gray-300 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="w-12 h-12 rounded-lg bg-emerald-100 text-emerald-700 flex items-center justify-center font-bold text-2xl mb-4">
+            🗺️
+          </div>
+          <h3 class="text-xl font-bold text-gray-800 mb-2">Cartografía Colaborativa</h3>
+          <p class="text-gray-600 text-sm leading-relaxed mb-4">
+            Mapas comunitarios y talleres de mapeo participativo construidos de la mano con los habitantes de la región.
+          </p>
+        </div>
+        <div class="pt-4 border-t border-gray-100 flex items-center justify-between">
+          <span class="text-xs text-emerald-700 font-semibold italic">Pendiente de mapas compartidos</span>
+          <span class="text-xs text-gray-400">Ver mapas &rarr;</span>
+        </div>
+      </div>
+
+      <!-- 5. Vinculación con instituciones -->
+      <div class="bg-white p-6 rounded-xl border-2 border-dashed border-gray-300 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="w-12 h-12 rounded-lg bg-blue-100 text-blue-700 flex items-center justify-center font-bold text-2xl mb-4">
+            🏛️
+          </div>
+          <h3 class="text-xl font-bold text-gray-800 mb-2">Vinculación Institucional</h3>
+          <p class="text-gray-600 text-sm leading-relaxed mb-4">
+            Convenios, mesas de trabajo y proyectos coordinados con dependencias gubernamentales, universidades y colectivos.
+          </p>
+        </div>
+        <div class="pt-4 border-t border-gray-100 flex items-center justify-between">
+          <span class="text-xs text-blue-700 font-semibold italic">Pendiente de lista de colaboradores</span>
+          <span class="text-xs text-gray-400">Ver convenios &rarr;</span>
+        </div>
+      </div>
+
+    </div>
   </div>
 </section>
 
