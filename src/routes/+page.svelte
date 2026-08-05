@@ -132,10 +132,6 @@
   </div>
 </section>
 
-<!-- Geographic Areas Section -->
-<section class="py-16 bg-gray-50">
-  <div class="max-w-6xl mx-auto px-6">
-    <div class="text-center mb-12">
       <!-- Sección: Investigación -->
 <section id="research" class="py-16 bg-white border-b">
   <div class="max-w-6xl mx-auto px-6">
