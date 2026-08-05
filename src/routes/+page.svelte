@@ -601,7 +601,7 @@
         Visualización de los municipios, comunidades y regiones de Puebla y Tlaxcala donde se desarrollan los proyectos de investigación y trabajo comunitario.
       </p>
     </div>
-</section>
+
     <!-- Cuerpos del Mapa -->
     <div class="relative w-full rounded-2xl overflow-hidden shadow-xl border-2 border-gray-200">
       <!-- Div donde se renderiza el mapa -->
