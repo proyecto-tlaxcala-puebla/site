@@ -11,6 +11,12 @@
   <div class="relative z-10 flex items-center justify-center min-h-screen bg-transparent pointer-events-none">
     <div class="text-center text-white px-6 max-w-4xl pointer-events-auto">
 <div class="text-center text-white px-6 max-w-4xl pointer-events-auto">
+<!-- Tira de Logotipos Institucionales en la parte superior -->
+      <div class="flex items-center justify-center gap-8 mb-8 bg-white/10 backdrop-blur-sm p-4 rounded-xl border border-white/20 shadow-md max-w-xl mx-auto">
+        <img src="{base}/unam-logo.png" alt="UNAM" class="h-16 w-auto object-contain drop-shadow" />
+        <img src="{base}/iia-logo.png" alt="IIA UNAM" class="h-16 w-auto object-contain drop-shadow" />
+        <img src="{base}/seminario-logo.png" alt="Seminario Universitario de Estudios Rurales" class="h-14 w-auto object-contain drop-shadow" />
+      </div>
   <h1 class="text-5xl md:text-6xl font-bold mb-6 leading-tight text-gray-900">
     Proyecto Tlaxcala-Puebla
   </h1>
