@@ -392,12 +392,61 @@
 </section>
 
 <!-- Sección: Acervo -->
-<section id="acervo" class="py-16 bg-gray-50 border-b">
+<section id="acervo" class="py-16 bg-white border-b">
   <div class="max-w-6xl mx-auto px-6">
-    <h2 class="text-3xl font-bold text-gray-800 mb-6 border-b-2 border-orange-500 pb-2 inline-block">
-      Acervo
-    </h2>
-    <p class="text-gray-600">Próximamente repositorio de documentos y mapas...</p>
+    <div class="text-center mb-12">
+      <h2 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4 border-b-4 border-orange-500 pb-2 inline-block">
+        Acervo
+      </h2>
+      <p class="text-gray-600 max-w-2xl mx-auto text-sm md:text-base">
+        Colección de recursos visuales, registros de campo y mapas desarrollados en la región Tlaxcala-Puebla.
+      </p>
+    </div>
+
+    <!-- Grilla de las 2 Subáreas de Acervo -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+      
+      <!-- 1. Acervo Fotográfico -->
+      <div class="bg-gray-50 rounded-xl border-2 border-dashed border-gray-300 p-8 flex flex-col justify-between shadow-sm hover:border-orange-400 transition-colors">
+        <div>
+          <div class="w-14 h-14 rounded-xl bg-orange-100 text-orange-600 flex items-center justify-center font-bold text-3xl mb-5">
+            📷
+          </div>
+          <h3 class="text-2xl font-bold text-gray-800 mb-3">
+            Acervo Fotográfico
+          </h3>
+          <p class="text-gray-600 text-sm leading-relaxed mb-6">
+            Galería visual y fotográfica que documenta el paisaje, las faenas comunitarias, las asambleas, los procesos productivos y el trabajo de campo etnográfico en las comunidades de la región.
+          </p>
+        </div>
+
+        <div class="pt-4 border-t border-gray-200 flex items-center justify-between">
+          <span class="text-xs text-orange-600 font-semibold italic">Pendiente de galería de imágenes</span>
+          <span class="text-xs text-gray-400 font-medium">Ver fotos &rarr;</span>
+        </div>
+      </div>
+
+      <!-- 2. Cartografía Participativa -->
+      <div class="bg-gray-50 rounded-xl border-2 border-dashed border-gray-300 p-8 flex flex-col justify-between shadow-sm hover:border-teal-500 transition-colors">
+        <div>
+          <div class="w-14 h-14 rounded-xl bg-teal-100 text-teal-700 flex items-center justify-center font-bold text-3xl mb-5">
+            🗺️
+          </div>
+          <h3 class="text-2xl font-bold text-gray-800 mb-3">
+            Cartografía Participativa
+          </h3>
+          <p class="text-gray-600 text-sm leading-relaxed mb-6">
+            Mapas comunitarios, diagnósticos socioambientales espaciales, capas geográficas y modelos territoriales elaborados mediante Sistemas de Información Geográfica (SIG) y talleres colaborativos.
+          </p>
+        </div>
+
+        <div class="pt-4 border-t border-gray-200 flex items-center justify-between">
+          <span class="text-xs text-teal-700 font-semibold italic">Pendiente de mapas y visores interactivos</span>
+          <span class="text-xs text-gray-400 font-medium">Ver cartografía &rarr;</span>
+        </div>
+      </div>
+
+    </div>
   </div>
 </section>
 
