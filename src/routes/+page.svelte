@@ -14,9 +14,9 @@
   <h1 class="text-5xl md:text-6xl font-bold mb-6 leading-tight text-gray-900">
     Proyecto Tlaxcala-Puebla
   </h1>
-      <p class="text-xl md:text-2xl mb-8 leading-relaxed academic-text">
+      <p class="text-xl md:text-2xl mb-8 leading-relaxed academic-text text-gray-900 font-semibold drop-shadow-[0_1.2px_1.2px_rgba(255,255,255,0.8)]">
         Investigación y reflexiones sobre los cambios socioambientales, económicos y políticos en la región
-      </p>
+</p>
 <!-- Botones de las 6 áreas principales (Cuadrícula 3x2) -->
       <div class="grid grid-cols-1 md:grid-cols-3 gap-4 justify-center mt-6 max-w-4xl mx-auto">
         <a href="#about" class="bg-orange-600 hover:bg-orange-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors btn-academic shadow-lg text-center">
