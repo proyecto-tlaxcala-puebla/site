@@ -29,71 +29,68 @@
 <section class="py-16 bg-gray-50">
   <div class="max-w-7xl mx-auto px-6">
     
-     <!-- Hernán Salas Quintanal -->
-    <div class="mb-16 bg-white rounded-xl shadow-lg overflow-hidden">
-      <div class="md:flex">
-        <div class="md:w-1/4 bg-gradient-to-br from-emerald-50 to-emerald-100 p-8 flex flex-col items-center justify-center">
-          <div class="w-40 h-40 bg-emerald-200 rounded-full mb-4 flex items-center justify-center overflow-hidden">
-            <img src="{base}/team/hernan-salas.jpg" alt="Hernán Salas Quintanal" class="w-full h-full object-cover" 
-                 on:error={handleImageError}>
-            <div class="w-full h-full bg-emerald-300 flex items-center justify-center text-4xl font-bold text-emerald-700" style="display: none;">
-              HS
-            </div>
-          </div>
-          <div class="text-center">
-            <h2 class="text-2xl font-bold text-emerald-800 mb-2">Hernán Salas Quintanal</h2>
-            <p class="text-sm font-medium text-emerald-600 institution">Instituto de Investigaciones Antropológicas (IIA) - UNAM</p>
-          </div>
+    <!-- Hernán Salas Quintanal -->
+<div class="mb-16 bg-white rounded-xl shadow-lg overflow-hidden">
+  <div class="md:flex">
+    <div class="md:w-1/4 bg-gradient-to-br from-emerald-50 to-emerald-100 p-8 flex flex-col items-center justify-center">
+      <div class="w-40 h-40 bg-emerald-200 rounded-full mb-4 flex items-center justify-center overflow-hidden">
+        <img src="{base}/team/hernan-salas.jpg" alt="Hernán Salas Quintanal" class="w-full h-full object-cover" 
+             on:error={handleImageError}>
+        <div class="w-full h-full bg-emerald-300 flex items-center justify-center text-4xl font-bold text-emerald-700" style="display: none;">
+          HS
         </div>
-        <div class="md:w-3/4 p-8">
-          <div class="prose prose-sm max-w-none">
-            <div class="mb-6">
-              <h3 class="text-lg font-semibold text-gray-800 mb-3 border-b-2 border-emerald-200 pb-1">Biografía Académica</h3>
-              <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                Hernán Salas Quintanal es investigador titular "C" en el Instituto de Investigaciones Antropológicas (IIA) de la UNAM, con una destacada trayectoria en el estudio de las transformaciones rurales, el acceso a los recursos naturales y la globalización en comunidades de México. Su trabajo se centra en la relación entre la economía rural, los cambios socioambientales y las estrategias de adaptación de las comunidades ante fenómenos como la precarización del campo, la crisis hídrica y los efectos de la pandemia de COVID-19 en las poblaciones rurales.
-              </p>
-              <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                Es doctor en Antropología por la UNAM, maestro en Ciencias Sociales por la Facultad Latinoamericana de Ciencias Sociales (FLACSO-México) y licenciado en Antropología Social por la Universidad de Chile. A lo largo de su carrera ha sido coordinador del Programa de Posgrado en Antropología de la UNAM y ha liderado múltiples proyectos de investigación sobre el impacto del desarrollo y las políticas ambientales en comunidades campesinas.
-              </p>
-              <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                Entre sus líneas de investigación destacan: Cambio social en el medio rural, explorando la reconfiguración de los modos de vida y la relación entre las comunidades y sus territorios; gestión del agua y conflictos socioambientales, analizando la sobreexplotación y contaminación de recursos hídricos, especialmente en la Cuenca Atoyac-Zahuapan, y; etnografía del poder y economías locales, estudiando cómo las dinámicas globales impactan la organización del trabajo y la vida cotidiana en el campo.
-              </p>
-              <p class="text-gray-700 text-sm leading-relaxed">
-                Ha recibido el Premio Fray Bernardino de Sahagún en el área de Etnología y Antropología Social por su investigación sobre el río Nazas, y es miembro del Sistema Nacional de Investigadores (SNI) nivel II del CONACYT. Sus publicaciones incluyen libros y artículos sobre las nuevas ruralidades en México, la economía campesina y la gestión territorial del agua, consolidándolo como una referencia en el estudio de la antropología rural.
-              </p>
-            </div>
+      </div>
+      <div class="text-center">
+        <h2 class="text-2xl font-bold text-emerald-800 mb-2">Hernán Salas Quintanal</h2>
+        <p class="text-sm font-medium text-emerald-600 institution">Instituto de Investigaciones Antropológicas (IIA) - UNAM</p>
+      </div>
+    </div>
+    <div class="md:w-3/4 p-8">
+      <div class="prose prose-sm max-w-none">
+        <div class="mb-6">
+          <h3 class="text-lg font-semibold text-gray-800 mb-3 border-b-2 border-emerald-200 pb-1">Biografía Académica</h3>
+          <p class="text-gray-700 text-sm leading-relaxed mb-4">
+            Es investigador titular "C" en el Instituto de Investigaciones Antropológicas (IIA) de la Universidad Nacional Autónoma de México (UNAM). Entre sus líneas de investigación destacan: el estudio de las transformaciones rurales explorando la reconfiguración de los modos de vida y la relación entre las comunidades y sus territorios; el acceso a los recursos naturales y la globalización en distintas poblaciones de México; la relación entre la economía productiva y laboral rural; los cambios socioambientales; la gestión del agua y conflictos socioambientales; y la etnografía del poder y las estrategias de adaptación de las comunidades ante fenómenos como la precarización del campo, la crisis hídrica y los efectos de procesos globales en las poblaciones rurales, especialmente en la Cuenca Atoyac-Zahuapan (Región Tlaxcala-Puebla).
+          </p>
+          <p class="text-gray-700 text-sm leading-relaxed mb-4">
+            Es doctor en Antropología por la UNAM, maestro en Ciencias Sociales por la Facultad Latinoamericana de Ciencias Sociales (FLACSO-México) y licenciado en Antropología Social por la Universidad de Chile. A lo largo de su carrera ha sido coordinador del Programa de Posgrado en Antropología de la UNAM, ha liderado múltiples proyectos de investigación sobre el impacto del desarrollo y las políticas ambientales en comunidades campesinas y pueblos rurales en el Seminario de Investigación “Antropología, poder y ruralidades”, espacio de formación académica que ha conducido la realización de varias tesis. Actualmente es Coordinador del Seminario Universitario de Estudios Rurales.
+          </p>
+          <p class="text-gray-700 text-sm leading-relaxed">
+            Ha recibido el Premio Fray Bernardino de Sahagún en el área de Etnología y Antropología Social por su investigación sobre el río Nazas, y es miembro del Sistema Nacional de Investigadores, de la Academia Mexicana de Ciencias, de la Asociación Mexicana de Estudios Rurales y de la Asociación Latinoamericana de Sociología Rural.
+          </p>
+        </div>
+        
+        <div class="grid md:grid-cols-2 gap-6">
+          <div>
+            <h4 class="font-semibold text-gray-800 mb-2">Especialidades</h4>
+            <ul class="text-sm text-gray-600 space-y-1">
+              <li>• Transformaciones rurales y modos de vida</li>
+              <li>• Gestión del agua y conflictos socioambientales</li>
+              <li>• Etnografía del poder y economías rurales</li>
+              <li>• Gentrificación y turistización rural</li>
+              <li>• Cuenca Atoyac-Zahuapan</li>
+            </ul>
+          </div>
+          
+          <div>
+            <h4 class="font-semibold text-gray-800 mb-2">Reconocimientos</h4>
+            <ul class="text-sm text-gray-600 space-y-1 mb-4">
+              <li>• Premio Fray Bernardino de Sahagún (Etnología y Antropología Social)</li>
+              <li>• Sistema Nacional de Investigadores (SNI) nivel II – CONACYT</li>
+              <li>• Miembro de la Academia Mexicana de Ciencias</li>
+              <li>• Coordinador del Seminario Universitario de Estudios Rurales</li>
+            </ul>
             
-            <div class="grid md:grid-cols-2 gap-6">
-              <div>
-                <h4 class="font-semibold text-gray-800 mb-2">Especialidades</h4>
-                <ul class="text-sm text-gray-600 space-y-1">
-                  <li>• Transformaciones rurales y globalización</li>
-                  <li>• Gestión del agua y conflictos socioambientales</li>
-                  <li>• Etnografía del poder y economías locales</li>
-                  <li>• Nuevas ruralidades en México</li>
-                  <li>• Efectos de COVID-19 en poblaciones rurales</li>
-                </ul>
-              </div>
-              
-              <div>
-                <h4 class="font-semibold text-gray-800 mb-2">Reconocimientos</h4>
-                <ul class="text-sm text-gray-600 space-y-1 mb-4">
-                  <li>• Premio Fray Bernardino de Sahagún (Etnología y Antropología Social)</li>
-                  <li>• Sistema Nacional de Investigadores (SNI) nivel II - CONACYT</li>
-                  <li>• Ex-coordinador del Programa de Posgrado en Antropología - UNAM</li>
-                </ul>
-                
-                <h4 class="font-semibold text-gray-800 mb-2">Contribución al Proyecto</h4>
-                <p class="text-sm text-gray-600 leading-relaxed">
-                  Investiga los efectos del ecoturismo, la precarización laboral y la gestión del agua en comunidades de la Sierra Nevada, abordando las tensiones entre conservación ambiental y desarrollo económico.
-                </p>
-              </div>
-            </div>
+            <h4 class="font-semibold text-gray-800 mb-2">Contribución al Proyecto</h4>
+            <p class="text-sm text-gray-600 leading-relaxed">
+              Investigar los efectos socioterritoriales de la gentrificación y turistización rural, la precarización laboral y la gestión del agua en la región Tlaxcala-Puebla, abordando las tensiones entre conservación ambiental y desarrollo económico.
+            </p>
           </div>
         </div>
       </div>
     </div>
-
+  </div>
+</div>
     <!-- Paola Velasco Santos -->
     <div class="mb-16 bg-white rounded-xl shadow-lg overflow-hidden">
       <div class="md:flex">
@@ -156,67 +153,67 @@
     </div>
 
     <!-- Celia López Miguel -->
-    <div class="mb-16 bg-white rounded-xl shadow-lg overflow-hidden">
-      <div class="md:flex">
-        <div class="md:w-1/4 bg-gradient-to-br from-amber-50 to-amber-100 p-8 flex flex-col items-center justify-center">
-          <div class="w-40 h-40 bg-amber-200 rounded-full mb-4 flex items-center justify-center overflow-hidden">
-            <img src="{base}/team/celia-lopez.jpg" alt="Celia López Miguel" class="w-full h-full object-cover" 
-                 on:error={handleImageError}>
-            <div class="w-full h-full bg-amber-300 flex items-center justify-center text-4xl font-bold text-amber-700" style="display: none;">
-              CL
-            </div>
-          </div>
-          <div class="text-center">
-            <h2 class="text-2xl font-bold text-amber-800 mb-2">Celia López Miguel</h2>
-            <p class="text-sm font-medium text-amber-600 institution">Centro Regional de Investigaciones Multidisciplinarias (CRIM) - UNAM</p>
-          </div>
+<div class="mb-16 bg-white rounded-xl shadow-lg overflow-hidden">
+  <div class="md:flex">
+    <div class="md:w-1/4 bg-gradient-to-br from-amber-50 to-amber-100 p-8 flex flex-col items-center justify-center">
+      <div class="w-40 h-40 bg-amber-200 rounded-full mb-4 flex items-center justify-center overflow-hidden">
+        <img src="{base}/team/celia-lopez.jpg" alt="Celia López Miguel" class="w-full h-full object-cover" 
+             on:error={handleImageError}>
+        <div class="w-full h-full bg-amber-300 flex items-center justify-center text-4xl font-bold text-amber-700" style="display: none;">
+          CL
         </div>
-        <div class="md:w-3/4 p-8">
-          <div class="prose prose-sm max-w-none">
-            <div class="mb-6">
-              <h3 class="text-lg font-semibold text-gray-800 mb-3 border-b-2 border-amber-200 pb-1">Biografía Académica</h3>
-              <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                Celia López Miguel es investigadora en el Centro Regional de Investigaciones Multidisciplinarias (CRIM) de la Universidad Nacional Autónoma de México (UNAM). Su labor académica se enfoca en la gestión integrada de sistemas urbanos y ecológicos, con el objetivo de promover el desarrollo sostenible en áreas metropolitanas de México.
-              </p>
-              <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                Entre sus publicaciones resalta el artículo en coautoría: "Challenges in the management of urban natural protected area systems and the conservation of ecosystem services in Guadalajara and Monterrey, Mexico" (2020), publicado en la revista Land Use Policy. Este trabajo analiza la importancia de la gestión integrada de sistemas urbanos y ecológicos para lograr un desarrollo sostenible, desde la perspectiva de diversos actores sociales vinculados a áreas naturales protegidas en contextos urbanos.
-              </p>
-              <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                Además de su producción académica, López Miguel ha impartido cursos especializados, como el titulado "Sistemas de información geográfica aplicados a la investigación en ciencias sociales y humanidades. Nivel básico", ofrecido en el CRIM. El objetivo del curso ha sido enseñar los conceptos teóricos básicos de los Sistemas de Información Geográfica (SIG) y su aplicabilidad en las ciencias humanas y sociales, así como los fundamentos necesarios para el diseño de bases de datos y su modelado espacial.
-              </p>
-              <p class="text-gray-700 text-sm leading-relaxed">
-                Su compromiso con la docencia y la investigación refleja una dedicación constante al estudio y la solución de problemáticas socioambientales en entornos urbanos, contribuyendo al entendimiento y mejoramiento de la relación entre las comunidades y su entorno natural.
-              </p>
-            </div>
+      </div>
+      <div class="text-center">
+        <h2 class="text-2xl font-bold text-amber-800 mb-2">Celia López Miguel</h2>
+        <p class="text-sm font-medium text-amber-600 institution">Centro Regional de Investigaciones Multidisciplinarias (CRIM) - UNAM</p>
+      </div>
+    </div>
+    <div class="md:w-3/4 p-8">
+      <div class="prose prose-sm max-w-none">
+        <div class="mb-6">
+          <h3 class="text-lg font-semibold text-gray-800 mb-3 border-b-2 border-amber-200 pb-1">Biografía Académica</h3>
+          <p class="text-gray-700 text-sm leading-relaxed mb-4">
+            Es Técnica Académica Titular “A” de Tiempo Completo (PRIDE “D”) en el Centro Regional de Investigaciones Multidisciplinarias (CRIM) de la UNAM Campus Morelos. Su trayectoria se ha orientado al análisis geográfico aplicado, el manejo de Sistemas de Información Geográfica (SIG) y la producción cartográfica digital para proyectos de alcance ambiental, territorial y socioeconómico en diversas regiones del país.
+          </p>
+          <p class="text-gray-700 text-sm leading-relaxed mb-4">
+            Es Licenciada en Geografía por la Facultad de Filosofía y Letras de la UNAM y cuenta con programas de especialización nacional e internacional en SIG, mapeo participativo y colaborativo, uso de drones y producción cartográfica digital en instituciones como el International Institute for Geo-Information Science and Earth Observation (ITC, Holanda), la UNAM, CentroGeo y el Instituto Mexicano del Petróleo.
+          </p>
+          <p class="text-gray-700 text-sm leading-relaxed">
+            Ha sido profesora en licenciatura, diplomados y posgrado en el Instituto Mora y distintas entidades de la UNAM, además de capacitar a personal de dependencias gubernamentales en análisis geoespacial. Su producción académica abarca artículos indexados y cartografía para atlas geográficos y socioambientales. En los últimos años ha investigado sobre la renaturalización de espacios posindustriales, la explotación socioespacial en zonas rurales y los desafíos de conservación en áreas naturales protegidas urbanas.
+          </p>
+        </div>
+        
+        <div class="grid md:grid-cols-2 gap-6">
+          <div>
+            <h4 class="font-semibold text-gray-800 mb-2">Especialidades</h4>
+            <ul class="text-sm text-gray-600 space-y-1">
+              <li>• Sistemas de Información Geográfica, percepción remota y cartografía digital</li>
+              <li>• Ordenamiento ecológico y territorial</li>
+              <li>• Análisis socioambiental y vulnerabilidad</li>
+              <li>• Estudios urbanos, rurales y de paisajes culturales</li>
+              <li>• Mapeo participativo</li>
+            </ul>
+          </div>
+          
+          <div>
+            <h4 class="font-semibold text-gray-800 mb-2">Reconocimientos</h4>
+            <ul class="text-sm text-gray-600 space-y-1 mb-4">
+              <li>• Medalla Gabino Barreda — UNAM</li>
+              <li>• Premio a la Mejor Tesis del Año 2000 — SMGE</li>
+              <li>• Reconocimiento Sor Juana Inés de la Cruz — UNAM (2012)</li>
+              <li>• Sistema Estatal de Investigadores 2024 — CCyTEM (Morelos)</li>
+            </ul>
             
-            <div class="grid md:grid-cols-2 gap-6">
-              <div>
-                <h4 class="font-semibold text-gray-800 mb-2">Especialidades</h4>
-                <ul class="text-sm text-gray-600 space-y-1">
-                  <li>• Gestión integrada de sistemas urbanos y ecológicos</li>
-                  <li>• Desarrollo sostenible en áreas metropolitanas</li>
-                  <li>• Áreas naturales protegidas urbanas</li>
-                  <li>• Sistemas de información geográfica (SIG)</li>
-                  <li>• Conservación de servicios ecosistémicos</li>
-                </ul>
-              </div>
-              
-              <div>
-                <h4 class="font-semibold text-gray-800 mb-2">Publicación Destacada</h4>
-                <p class="text-sm text-gray-600 leading-relaxed mb-4">
-                  <em>"Challenges in the management of urban natural protected area systems and the conservation of ecosystem services in Guadalajara and Monterrey, Mexico"</em> (2020) - Land Use Policy
-                </p>
-                
-                <h4 class="font-semibold text-gray-800 mb-2">Contribución al Proyecto</h4>
-                <p class="text-sm text-gray-600 leading-relaxed">
-                  Aporta su experiencia en gestión integrada de sistemas socioambientales y metodologías de SIG para el análisis multidisciplinario de las problemáticas regionales en Tlaxcala y Puebla.
-                </p>
-              </div>
-            </div>
+            <h4 class="font-semibold text-gray-800 mb-2">Contribución al Proyecto</h4>
+            <p class="text-sm text-gray-600 leading-relaxed">
+              Aporta su experiencia en SIG, imágenes de dron, mapeo participativo y análisis territorial para el estudio de las transformaciones socioambientales en la región Tlaxcala–Puebla, contribuyendo al diagnóstico espacial y a la comprensión de las dinámicas ecológicas y sociales que inciden en el territorio.
+            </p>
           </div>
         </div>
       </div>
     </div>
+  </div>
+</div>
 
     <!-- Alejandra González Nava -->
     <div class="mb-16 bg-white rounded-xl shadow-lg overflow-hidden">
