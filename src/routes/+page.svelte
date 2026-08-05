@@ -101,7 +101,7 @@
             <span class="research-bullet"></span>
             <div>
               <strong>Rita Margarita Jiménez Sánchez</strong><br>
-              <span class="institution">Investigadora independiente</span>
+              <span class="institution">Labor Center-UCSB</span>
             </div>
           </li>
         </ul>
