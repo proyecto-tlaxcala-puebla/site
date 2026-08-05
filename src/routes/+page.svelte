@@ -1,5 +1,37 @@
+<svelte:head>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" on:load={initMap}></script>
+</svelte:head>
+
 <script lang="ts">
   import { base } from '$app/paths';
+  import { onMount } from 'svelte';
+
+  function initMap() {
+    if (typeof window !== 'undefined' && (window as any).L) {
+      const L = (window as any).L;
+      // Coordenadas del centro de Tlaxcala-Puebla
+      const map = L.map('mapa-region').setView([19.25, -98.15], 9);
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; OpenStreetMap contributors'
+      }).addTo(map);
+
+      // Marcador de Ejemplo: Tlahuapan
+      const markerTlahuapan = L.marker([19.3333, -98.5833]).addTo(map);
+      markerTlahuapan.bindPopup(`
+        <div style="font-family: sans-serif; padding: 4px;">
+          <h4 style="font-weight: bold; margin-bottom: 4px; color: #ea580c;">Tlahuapan, Puebla</h4>
+          <p style="font-size: 12px; margin-bottom: 6px;">Investigación sobre gestión del agua, ecoturismo y Covid-19.</p>
+          <a href="#difusion" style="font-size: 11px; color: #0d9488; font-weight: bold; text-decoration: none;">Ver publicaciones &rarr;</a>
+        </div>
+      `);
+    }
+  }
+
+  onMount(() => {
+    initMap();
+  });
 </script>
 
 <!-- Hero Section con Foto de Portada -->
@@ -558,7 +590,36 @@
     </div>
   </div>
 </section>
+<!-- Sección: Mapa Interactivo -->
+<section id="mapa" class="py-16 bg-white border-b">
+  <div class="max-w-6xl mx-auto px-6">
+    <div class="text-center mb-8">
+      <h2 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4 border-b-4 border-orange-500 pb-2 inline-block">
+        Mapa interactivo de los lugares en que se ha trabajado
+      </h2>
+      <p class="text-gray-600 max-w-2xl mx-auto text-sm md:text-base">
+        Visualización de los municipios, comunidades y regiones de Puebla y Tlaxcala donde se desarrollan los proyectos de investigación y trabajo comunitario.
+      </p>
+    </div>
+</section>
+    <!-- Cuerpos del Mapa -->
+    <div class="relative w-full rounded-2xl overflow-hidden shadow-xl border-2 border-gray-200">
+      <!-- Div donde se renderiza el mapa -->
+      <div id="mapa-region" class="w-full h-[450px] bg-gray-100 z-10"></div>
 
+      <!-- Leyenda o banner informativo sobre el mapa -->
+      <div class="p-4 bg-orange-50 border-t border-orange-100 flex flex-col md:flex-row items-center justify-between text-xs md:text-sm text-gray-700 gap-2">
+        <span class="flex items-center gap-2 font-medium">
+          <span class="w-3 h-3 rounded-full bg-orange-600 inline-block"></span>
+          Haz clic en las ubicaciones para explorar los proyectos y publicaciones asociados a cada territorio.
+        </span>
+        <span class="text-orange-700 font-semibold italic">
+          [Maqueta preliminar — Se incorporarán más polígonos y puntos del equipo]
+        </span>
+      </div>
+    </div>
+  </div>
+</section>
 <!-- Contact Section -->
 <section class="py-16 bg-gray-50">
   <div class="max-w-4xl mx-auto px-6 text-center">
