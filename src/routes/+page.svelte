@@ -135,10 +135,62 @@
       <!-- Sección: Investigación -->
 <section id="research" class="py-16 bg-white border-b">
   <div class="max-w-6xl mx-auto px-6">
-    <h2 class="text-3xl font-bold text-gray-800 mb-6 border-b-2 border-orange-500 pb-2 inline-block">
-      Investigación
-    </h2>
-    <p class="text-gray-600">Próximamente contenido de los proyectos y líneas de investigación...</p>
+    <div class="text-center mb-12">
+      <h2 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4 border-b-4 border-orange-500 pb-2 inline-block">
+        Proyectos de Investigación
+      </h2>
+      <p class="text-gray-600 max-w-2xl mx-auto text-sm md:text-base">
+        Proyectos vigentes y concluidos que documentan las transformaciones socioambientales, hídricas y territoriales en la región.
+      </p>
+    </div>
+
+    <!-- Grilla de Tarjetas / Proyectos -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      
+      <!-- Proyecto Ejemplo 1: Agua potable -->
+      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow flex flex-col justify-between overflow-hidden">
+        <div class="p-6">
+          <div class="flex items-center gap-2 mb-3">
+            <span class="bg-orange-100 text-orange-800 text-xs font-bold px-2.5 py-0.5 rounded-full">
+              Convocatoria 2025
+            </span>
+            <span class="text-xs text-gray-500 font-medium">Secihti / UNAM</span>
+          </div>
+          
+          <h3 class="text-xl font-bold text-gray-800 mb-3 leading-snug">
+            Gestión asociativa del agua potable en pueblos rurales del Valle Tlaxcala-Puebla
+          </h3>
+          
+          <p class="text-gray-600 text-sm leading-relaxed mb-4">
+            Como parte de la Convocatoria de Investigación Humanística de la Secretaría de Ciencia, Humanidades, Tecnología e Innovación, este proyecto desarrolla un análisis crítico sobre los conflictos socioambientales vinculados a las infraestructuras de desarrollo.
+          </p>
+          <p class="text-gray-600 text-sm leading-relaxed">
+            Nuestra investigación se enfoca en comprender los procesos de organización comunitaria, los desafíos en el acceso al recurso y la gestión del agua potable en los pueblos rurales del Valle.
+          </p>
+        </div>
+
+        <!-- Pie de la tarjeta con botón de recursos -->
+        <div class="px-6 py-4 bg-gray-100 border-t border-gray-200 flex items-center justify-between">
+          <span class="text-xs font-semibold text-gray-500">Recursos disponibles</span>
+          <a href="#acervo" class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors">
+            Ver documentos &rarr;
+          </a>
+        </div>
+      </div>
+
+      <!-- Tarjeta Maqueta 2 (Para mostrar al equipo el espacio disponible) -->
+      <div class="bg-gray-50/50 rounded-xl border-2 border-dashed border-gray-300 p-6 flex flex-col items-center justify-center text-center min-h-[320px]">
+        <div class="w-12 h-12 rounded-full bg-orange-100 text-orange-600 flex items-center justify-center mb-3 font-bold text-xl">
+          +
+        </div>
+        <h3 class="text-lg font-bold text-gray-700 mb-2">Espacio para proyecto</h3>
+        <p class="text-gray-500 text-xs max-w-xs mb-4">
+          Aquí irá el título, síntesis y enlace a publicaciones o mapas de las siguientes investigaciones del equipo.
+        </p>
+        <span class="text-xs text-gray-400 italic">En recopilación por el equipo</span>
+      </div>
+
+    </div>
   </div>
 </section>
 
