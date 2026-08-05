@@ -197,10 +197,87 @@
 <!-- Sección: Formación y fortalecimiento académico -->
 <section id="formacion" class="py-16 bg-gray-50 border-b">
   <div class="max-w-6xl mx-auto px-6">
-    <h2 class="text-3xl font-bold text-gray-800 mb-6 border-b-2 border-orange-500 pb-2 inline-block">
-      Formación y fortalecimiento académico
-    </h2>
-    <p class="text-gray-600">Próximamente información de cursos, seminarios y tesis...</p>
+    <div class="text-center mb-12">
+      <h2 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4 border-b-4 border-orange-500 pb-2 inline-block">
+        Formación y Fortalecimiento Académico
+      </h2>
+      <p class="text-gray-600 max-w-2xl mx-auto text-sm md:text-base">
+        Espacios de docencia, formación de estudiantes, seminarios permanentes y colaboración con investigadores invitados.
+      </p>
+    </div>
+
+    <!-- Grilla de las 4 Subáreas de Formación -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      
+      <!-- 1. Docencia -->
+      <div class="bg-white p-6 rounded-xl border-2 border-dashed border-gray-300 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="w-12 h-12 rounded-lg bg-orange-100 text-orange-600 flex items-center justify-center font-bold text-2xl mb-4">
+            🎓
+          </div>
+          <h3 class="text-xl font-bold text-gray-800 mb-2">Docencia</h3>
+          <p class="text-gray-600 text-sm leading-relaxed mb-4">
+            Cursos de licenciatura, posgrado y capacitaciones especializadas impartidas por integrantes del proyecto (UNAM, Instituto Mora, CRIM, IIA).
+          </p>
+        </div>
+        <div class="pt-4 border-t border-gray-100 flex items-center justify-between">
+          <span class="text-xs text-orange-600 font-semibold italic">Pendiente de catálogo de cursos</span>
+          <span class="text-xs text-gray-400">Ver asignaturas &rarr;</span>
+        </div>
+      </div>
+
+      <!-- 2. Tesis -->
+      <div class="bg-white p-6 rounded-xl border-2 border-dashed border-gray-300 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="w-12 h-12 rounded-lg bg-teal-100 text-teal-700 flex items-center justify-center font-bold text-2xl mb-4">
+            📜
+          </div>
+          <h3 class="text-xl font-bold text-gray-800 mb-2">Tesis Dirigidas</h3>
+          <p class="text-gray-600 text-sm leading-relaxed mb-4">
+            Investigaciones de licenciatura, maestría y doctorado desarrolladas sobre las dinámicas territoriales, hídricas y socioambientales de Tlaxcala y Puebla.
+          </p>
+        </div>
+        <div class="pt-4 border-t border-gray-100 flex items-center justify-between">
+          <span class="text-xs text-teal-700 font-semibold italic">Pendiente de repositorio de tesis</span>
+          <span class="text-xs text-gray-400">Ver títulos &rarr;</span>
+        </div>
+      </div>
+
+      <!-- 3. Seminarios -->
+      <div class="bg-white p-6 rounded-xl border-2 border-dashed border-gray-300 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="w-12 h-12 rounded-lg bg-amber-100 text-amber-700 flex items-center justify-center font-bold text-2xl mb-4">
+            🏛️
+          </div>
+          <h3 class="text-xl font-bold text-gray-800 mb-2">Seminarios</h3>
+          <p class="text-gray-600 text-sm leading-relaxed mb-4">
+            Espacios permanentes de discusión teórica y metodológica, como el Seminario Universitario Interdisciplinario de Estudios Rurales y "Antropología, poder y ruralidades".
+          </p>
+        </div>
+        <div class="pt-4 border-t border-gray-100 flex items-center justify-between">
+          <span class="text-xs text-amber-700 font-semibold italic">Pendiente de sesiones y temarios</span>
+          <span class="text-xs text-gray-400">Ver reuniones &rarr;</span>
+        </div>
+      </div>
+
+      <!-- 4. Investigadores Invitados -->
+      <div class="bg-white p-6 rounded-xl border-2 border-dashed border-gray-300 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="w-12 h-12 rounded-lg bg-emerald-100 text-emerald-700 flex items-center justify-center font-bold text-2xl mb-4">
+            🤝
+          </div>
+          <h3 class="text-xl font-bold text-gray-800 mb-2">Investigadores Invitados</h3>
+          <p class="text-gray-600 text-sm leading-relaxed mb-4">
+            Estancias posdoctorales, sabáticos y académicos visitantes de instituciones nacionales e internacionales que colaboran con el equipo.
+          </p>
+        </div>
+        <div class="pt-4 border-t border-gray-100 flex items-center justify-between">
+          <span class="text-xs text-emerald-700 font-semibold italic">Pendiente de padrón de colaboradores</span>
+          <span class="text-xs text-gray-400">Ver perfiles &rarr;</span>
+        </div>
+      </div>
+
+    </div>
   </div>
 </section>
 
