@@ -58,13 +58,30 @@
     
     <div class="grid md:grid-cols-2 gap-12 items-center">
       <div class="prose prose-lg max-w-none">
-        <p class="text-gray-700 leading-relaxed academic-text">
-          El Proyecto Tlaxcala-Puebla es una iniciativa del <strong>Instituto de Investigaciones Antropológicas (IIA)</strong> de la UNAM, en colaboración con el <strong>Centro Regional de Investigaciones Multidisciplinarias (CRIM)</strong> de esta misma casa de estudios.
-        </p>
-        <p class="text-gray-700 leading-relaxed academic-text">
-          Durante <strong>más de 15 años</strong> este proyecto ha documentado los cambios ambientales, políticos y económicos en la región de Tlaxcala y Puebla.
-        </p>
-      </div>
+  <p class="text-gray-700 leading-relaxed academic-text mb-4">
+    El Proyecto Tlaxcala-Puebla es una iniciativa del <strong>Instituto de Investigaciones Antropológicas (IIA)</strong> de la UNAM. Durante <strong>más de 15 años</strong>, este proyecto ha documentado los cambios ambientales, políticos, económicos y culturales en regiones rurales y semiurbanas del centro de México.
+  </p>
+  
+  <p class="text-gray-700 leading-relaxed academic-text mb-4">
+    A través de metodologías etnográficas, trabajo de campo y análisis socioambiental, la iniciativa aborda de manera integral tres ejes fundamentales en todo el territorio de estudio:
+  </p>
+
+  <ul class="space-y-3 mb-6 text-gray-700 academic-text pl-5 list-disc">
+    <li class="leading-relaxed">
+      <strong>Hidropolítica, gestión ambiental y luchas por el agua:</strong> Análisis de la crisis hídrica, la contaminación, la sobreexplotación y las respuestas comunitarias en defensa de los recursos naturales.
+    </li>
+    <li class="leading-relaxed">
+      <strong>Transformaciones en la vida rural y resiliencia comunitaria:</strong> Estudio de las dinámicas de adaptación, las reconfiguraciones económicas y las estrategias locales ante crisis globales, como la pandemia de COVID-19.
+    </li>
+    <li class="leading-relaxed">
+      <strong>Ecoturismo, conservación y producción social de la naturaleza:</strong> Exploración de cómo la conservación, la economía rural y las actividades de turismo sustentable transforman la organización comunitaria y la relación con el entorno.
+    </li>
+  </ul>
+
+  <p class="text-gray-700 leading-relaxed academic-text">
+    A través de este enfoque transversal, el proyecto construye un panorama completo sobre la resistencia, la identidad territorial y la reconfiguración sociocultural de las comunidades en Tlaxcala y Puebla.
+  </p>
+</div>
       
       <div class="bg-gray-50 p-8 rounded-lg research-card">
         <h3 class="text-2xl font-semibold text-gray-800 mb-6">Nuestro Equipo</h3>
@@ -87,7 +104,7 @@
             <span class="research-bullet"></span>
             <div>
               <strong>Celia López Miguel</strong><br>
-              <span class="institution">CRIM</span>
+              <span class="institution">CRIM-UNAM</span>
             </div>
           </li>
           <li class="flex items-start">
