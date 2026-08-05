@@ -17,8 +17,11 @@
       <p class="text-xl md:text-2xl mb-8 leading-relaxed academic-text">
         Investigación y reflexiones sobre los cambios socioambientales, económicos y políticos en la región
       </p>
-      <!-- Botones de las 3 áreas principales -->
-      <div class="flex flex-col md:flex-row gap-4 justify-center mt-6">
+<!-- Botones de las 6 áreas principales (Cuadrícula 3x2) -->
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-4 justify-center mt-6 max-w-4xl mx-auto">
+        <a href="#about" class="bg-orange-600 hover:bg-orange-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors btn-academic shadow-lg text-center">
+          ¿Quiénes somos?
+        </a>
         <a href="#research" class="bg-orange-600 hover:bg-orange-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors btn-academic shadow-lg text-center">
           Investigación
         </a>
@@ -27,6 +30,12 @@
         </a>
         <a href="#difusion" class="bg-orange-600 hover:bg-orange-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors btn-academic shadow-lg text-center">
           Difusión
+        </a>
+        <a href="#acervo" class="bg-orange-600 hover:bg-orange-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors btn-academic shadow-lg text-center">
+          Acervo
+        </a>
+        <a href="#vinculacion" class="bg-orange-600 hover:bg-orange-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors btn-academic shadow-lg text-center">
+          Vinculación
         </a>
       </div>
     </div>
