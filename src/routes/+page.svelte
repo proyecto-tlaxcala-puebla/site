@@ -41,10 +41,12 @@
     <div class="text-center text-white px-6 max-w-4xl pointer-events-auto pt-8">
       
       <!-- Tira de Logotipos Institucionales en la parte superior -->
-      <div class="flex items-center justify-center gap-8 mb-6 bg-transparent max-w-xl mx-auto">        <img src="{base}/unam-logo.png" alt="UNAM" class="h-16 w-auto object-contain drop-shadow" />
-        <img src="{base}/iia-logo.png" alt="IIA UNAM" class="h-16 w-auto object-contain drop-shadow" />
-        <img src="{base}/seminario-logo.jpeg" alt="Seminario Universitario de Estudios Rurales" class="h-14 w-auto object-contain drop-shadow" />
-      </div>
+<div class="flex items-center justify-center gap-6 md:gap-8 mb-6 bg-transparent max-w-3xl mx-auto flex-wrap">
+  <img src="{base}/unam-logo.png" alt="UNAM" class="h-14 md:h-16 w-auto object-contain drop-shadow" />
+  <img src="{base}/iia-logo.png" alt="IIA UNAM" class="h-14 md:h-16 w-auto object-contain drop-shadow" />
+  <img src="{base}/seminario-logo.jpeg" alt="Seminario Universitario de Estudios Rurales" class="h-12 md:h-14 w-auto object-contain drop-shadow" />
+  <img src="{base}/logo_proyectovalle.jpg" alt="Proyecto Valle Tlaxcala-Puebla" class="h-12 md:h-14 w-auto object-contain drop-shadow rounded" />
+</div>
 
       <h1 class="text-5xl md:text-6xl font-bold mb-6 leading-tight text-gray-900">
         Proyecto Tlaxcala-Puebla
