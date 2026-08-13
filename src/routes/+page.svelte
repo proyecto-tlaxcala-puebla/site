@@ -87,34 +87,31 @@
       <h2 class="text-4xl font-bold text-gray-800 mb-4">¿Quiénes somos?</h2>
       <div class="w-24 h-1 bg-teal-600 mx-auto"></div>
     </div>
-    
     <div class="grid md:grid-cols-2 gap-12 items-center">
       <div class="prose prose-lg max-w-none">
-  <p class="text-gray-700 leading-relaxed academic-text mb-4">
-    El Proyecto Tlaxcala-Puebla es una iniciativa del <strong>Instituto de Investigaciones Antropológicas (IIA)</strong> de la UNAM. Durante <strong>más de 15 años</strong>, este proyecto ha documentado los cambios ambientales, políticos, económicos y culturales en regiones rurales y semiurbanas del centro de México.
-  </p>
-  
-  <p class="text-gray-700 leading-relaxed academic-text mb-4">
-    A través de metodologías etnográficas, trabajo de campo y análisis socioambiental, la iniciativa aborda de manera integral tres ejes fundamentales en todo el territorio de estudio:
-  </p>
-
-  <ul class="space-y-3 mb-6 text-gray-700 academic-text pl-5 list-disc">
-    <li class="leading-relaxed">
-      <strong>Hidropolítica, gestión ambiental y luchas por el agua:</strong> Análisis de la crisis hídrica, la contaminación, la sobreexplotación y las respuestas comunitarias en defensa de los recursos naturales.
-    </li>
-    <li class="leading-relaxed">
-      <strong>Transformaciones en la vida rural y resiliencia comunitaria:</strong> Estudio de las dinámicas de adaptación, las reconfiguraciones económicas y las estrategias locales ante crisis globales, como la pandemia de COVID-19.
-    </li>
-    <li class="leading-relaxed">
-      <strong>Ecoturismo, conservación y producción social de la naturaleza:</strong> Exploración de cómo la conservación, la economía rural y las actividades de turismo sustentable transforman la organización comunitaria y la relación con el entorno.
-    </li>
-  </ul>
-
-  <p class="text-gray-700 leading-relaxed academic-text">
-    A través de este enfoque transversal, el proyecto construye un panorama completo sobre la resistencia, la identidad territorial y la reconfiguración sociocultural de las comunidades en Tlaxcala y Puebla.
-  </p>
-</div>
+        <p class="text-gray-700 leading-relaxed academic-text mb-4">
+          El Proyecto Tlaxcala-Puebla es una iniciativa del <strong>Instituto de Investigaciones Antropológicas (IIA)</strong> de la UNAM desde el año 2009. Durante más de 15 años, este proyecto ha documentado los cambios ambientales, políticos, económicos y culturales en pueblos rurales y espacios semiurbanos del centro de México.
+        </p>
+        <p class="text-gray-700 leading-relaxed academic-text mb-4">
+          A través de metodologías etnográficas, trabajo de campo y análisis socioambiental, la iniciativa aborda de manera integral tres ejes fundamentales en todo el territorio de estudio:
+        </p>
+        <ul class="space-y-3 mb-6 text-gray-700 academic-text pl-5 list-disc">
+          <li class="leading-relaxed">
+            <strong>Transformaciones en la población, en los territorios y en la vida rural y comunitaria:</strong> Estudio de las dinámicas de adaptación, las reconfiguraciones económicas y las estrategias locales ante crisis locales y globales, como la pandemia de COVID-19.
+          </li>
+          <li class="leading-relaxed">
+            <strong>Hidropolítica, gestión ambiental y luchas por el agua:</strong> Análisis de los efectos de la crisis hídrica, la contaminación, la sobreexplotación y las respuestas comunitarias en defensa de los recursos naturales, los territorios y los modos de vida.
+          </li>
+          <li class="leading-relaxed">
+            <strong>Ecoturismo, conservación y producción social de la naturaleza:</strong> Exploración de cómo la conservación, la economía rural y las actividades de turismo transforman la organización comunitaria y la relación con el entorno.
+          </li>
+        </ul>
+        <p class="text-gray-700 leading-relaxed academic-text">
+          A través de este enfoque transversal, en estos años el proyecto ha construido un panorama sobre la estructuración de las clases sociales, la identidad cultural, las transformaciones territoriales y la reconfiguración sociocultural de las comunidades rurales en esta región de Tlaxcala y Puebla. Estos objetivos se han alcanzado con la colaboración permanente entre el equipo de investigación, las poblaciones y las autoridades civiles, políticas y religiosas, con atención al género, la edad y los diversos grupos.
+        </p>
+      </div>
       
+      <!-- Lado derecho: Tarjeta de Nuestro Equipo -->
       <div class="bg-gray-50 p-8 rounded-lg research-card">
         <h3 class="text-2xl font-semibold text-gray-800 mb-6">Nuestro Equipo</h3>
         <ul class="space-y-3">
