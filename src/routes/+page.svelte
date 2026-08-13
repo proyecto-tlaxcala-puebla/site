@@ -66,8 +66,8 @@
           Formación y fortalecimiento académico
         </a>
         <a href="#difusion" class="bg-orange-600 hover:bg-orange-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors btn-academic shadow-lg text-center">
-          Difusión
-        </a>
+  Difusión y Publicaciones
+</a>
         <a href="#acervo" class="bg-orange-600 hover:bg-orange-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors btn-academic shadow-lg text-center">
           Acervo
         </a>
