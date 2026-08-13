@@ -379,45 +379,279 @@
       </div>
     </div>
 
-    <!-- Subsección: VIDEOS, COLOQUIOS Y PLÁTICAS (Contenedores listos para insumos) -->
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 pt-4">
-      
-      <!-- Cuadro Videos -->
-      <div class="bg-gray-50/60 p-6 rounded-xl border-2 border-dashed border-gray-300">
-        <h4 class="font-bold text-gray-800 mb-2 flex items-center gap-2">
-          <span>🎥</span> Videos de Conferencias
-        </h4>
-        <p class="text-gray-500 text-xs leading-relaxed mb-3">
-          Aquí se incrustarán los enlaces a YouTube de ponencias y conferencias grabadas.
-        </p>
-        <span class="text-xs text-orange-600 font-medium italic">Próximamente enlaces</span>
-      </div>
+   <!-- Subsección: VIDEOS, COLOQUIOS Y PLÁTICAS -->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-6 pt-4 mb-10">
+  <!-- Cuadro Videos -->
+  <div class="bg-gray-50/60 p-6 rounded-xl border-2 border-dashed border-gray-300">
+    <h4 class="font-bold text-gray-800 mb-2 flex items-center gap-2">
+      <span>🎥</span> Videos de Conferencias
+    </h4>
+    <p class="text-gray-500 text-xs leading-relaxed mb-3">
+      Aquí se incrustarán los enlaces a YouTube de ponencias y conferencias grabadas.
+    </p>
+    <span class="text-xs text-orange-600 font-medium italic">Próximamente enlaces</span>
+  </div>
 
-      <!-- Cuadro Coloquios -->
-      <div class="bg-gray-50/60 p-6 rounded-xl border-2 border-dashed border-gray-300">
-        <h4 class="font-bold text-gray-800 mb-2 flex items-center gap-2">
-          <span>🖼️</span> Coloquios y Eventos
-        </h4>
-        <p class="text-gray-500 text-xs leading-relaxed mb-3">
-          Galería para exhibir los pósteres y carteles de coloquios y simposios del proyecto.
-        </p>
-        <span class="text-xs text-orange-600 font-medium italic">Próximamente carteles</span>
-      </div>
+  <!-- Cuadro Pláticas -->
+  <div class="bg-gray-50/60 p-6 rounded-xl border-2 border-dashed border-gray-300 md:col-span-2">
+    <h4 class="font-bold text-gray-800 mb-2 flex items-center gap-2">
+      <span>🗣️</span> Pláticas y Talleres
+    </h4>
+    <p class="text-gray-500 text-xs leading-relaxed mb-3">
+      Lista de charlas de divulgación, talleres y eventos de comunicación social impartidos en comunidades e instituciones.
+    </p>
+    <span class="text-xs text-orange-600 font-medium italic">Próximamente registros</span>
+  </div>
+</div>
 
-      <!-- Cuadro Pláticas -->
-      <div class="bg-gray-50/60 p-6 rounded-xl border-2 border-dashed border-gray-300">
-        <h4 class="font-bold text-gray-800 mb-2 flex items-center gap-2">
-          <span>🗣️</span> Pláticas y Talleres
-        </h4>
-        <p class="text-gray-500 text-xs leading-relaxed mb-3">
-          Lista estática de charlas de divulgación impartidas en comunidades e instituciones.
-        </p>
-        <span class="text-xs text-orange-600 font-medium italic">Próximamente registros</span>
-      </div>
+<!-- Galería de Carteles de Coloquios y Eventos -->
+<div class="bg-gray-50 p-6 rounded-xl border border-gray-200 shadow-sm mt-6">
+  <div class="flex items-center justify-between mb-6 border-b pb-3">
+    <h3 class="text-2xl font-bold text-gray-800 flex items-center gap-2">
+      <span class="text-orange-600">🖼️</span> Coloquios y Eventos Académicos
+    </h3>
+    <span class="text-xs bg-orange-100 text-orange-800 font-semibold px-3 py-1 rounded-full">
+      10 Carteles Históricos
+    </span>
+  </div>
 
+  <!-- Grilla responsiva de los 10 carteles -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+
+    <!-- Cartel 1 -->
+    <div class="bg-white rounded-lg border border-gray-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow flex flex-col justify-between">
+      <div class="relative group overflow-hidden bg-gray-900">
+        <img 
+          src="{base}/eventos/uno_coloq.jpg" 
+          alt="1er Coloquio" 
+          class="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300 opacity-90 group-hover:opacity-100"
+        />
+        <a 
+          href="{base}/eventos/uno_coloq.jpg" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center text-white text-xs font-bold p-2 text-center"
+        >
+          🔍 Ver Cartel Completo
+        </a>
+      </div>
+      <div class="p-3 text-center">
+        <h4 class="font-bold text-gray-800 text-xs mb-1">I Coloquio</h4>
+        <span class="text-[10px] text-gray-500 block">Investigaciones Rurales</span>
+      </div>
+    </div>
+
+    <!-- Cartel 2 -->
+    <div class="bg-white rounded-lg border border-gray-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow flex flex-col justify-between">
+      <div class="relative group overflow-hidden bg-gray-900">
+        <img 
+          src="{base}/eventos/dos_coloq.jpg" 
+          alt="2do Coloquio" 
+          class="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300 opacity-90 group-hover:opacity-100"
+        />
+        <a 
+          href="{base}/eventos/dos_coloq.jpg" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center text-white text-xs font-bold p-2 text-center"
+        >
+          🔍 Ver Cartel Completo
+        </a>
+      </div>
+      <div class="p-3 text-center">
+        <h4 class="font-bold text-gray-800 text-xs mb-1">II Coloquio</h4>
+        <span class="text-[10px] text-gray-500 block">Investigaciones Rurales</span>
+      </div>
+    </div>
+
+    <!-- Cartel 3 -->
+    <div class="bg-white rounded-lg border border-gray-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow flex flex-col justify-between">
+      <div class="relative group overflow-hidden bg-gray-900">
+        <img 
+          src="{base}/eventos/tres_coloq.jpg" 
+          alt="3er Coloquio" 
+          class="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300 opacity-90 group-hover:opacity-100"
+        />
+        <a 
+          href="{base}/eventos/tres_coloq.jpg" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center text-white text-xs font-bold p-2 text-center"
+        >
+          🔍 Ver Cartel Completo
+        </a>
+      </div>
+      <div class="p-3 text-center">
+        <h4 class="font-bold text-gray-800 text-xs mb-1">III Coloquio</h4>
+        <span class="text-[10px] text-gray-500 block">Investigaciones Rurales</span>
+      </div>
+    </div>
+
+    <!-- Cartel 4 -->
+    <div class="bg-white rounded-lg border border-gray-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow flex flex-col justify-between">
+      <div class="relative group overflow-hidden bg-gray-900">
+        <img 
+          src="{base}/eventos/cuatro_coloq.jpg" 
+          alt="4to Coloquio" 
+          class="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300 opacity-90 group-hover:opacity-100"
+        />
+        <a 
+          href="{base}/eventos/cuatro_coloq.jpg" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center text-white text-xs font-bold p-2 text-center"
+        >
+          🔍 Ver Cartel Completo
+        </a>
+      </div>
+      <div class="p-3 text-center">
+        <h4 class="font-bold text-gray-800 text-xs mb-1">IV Coloquio</h4>
+        <span class="text-[10px] text-gray-500 block">Investigaciones Rurales</span>
+      </div>
+    </div>
+
+    <!-- Cartel 5 -->
+    <div class="bg-white rounded-lg border border-gray-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow flex flex-col justify-between">
+      <div class="relative group overflow-hidden bg-gray-900">
+        <img 
+          src="{base}/eventos/cinco_coloq.jpg" 
+          alt="5to Coloquio" 
+          class="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300 opacity-90 group-hover:opacity-100"
+        />
+        <a 
+          href="{base}/eventos/cinco_coloq.jpg" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center text-white text-xs font-bold p-2 text-center"
+        >
+          🔍 Ver Cartel Completo
+        </a>
+      </div>
+      <div class="p-3 text-center">
+        <h4 class="font-bold text-gray-800 text-xs mb-1">V Coloquio</h4>
+        <span class="text-[10px] text-gray-500 block">Investigaciones Rurales</span>
+      </div>
+    </div>
+
+    <!-- Cartel 6 -->
+    <div class="bg-white rounded-lg border border-gray-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow flex flex-col justify-between">
+      <div class="relative group overflow-hidden bg-gray-900">
+        <img 
+          src="{base}/eventos/seis_coloq.jpg" 
+          alt="6to Coloquio" 
+          class="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300 opacity-90 group-hover:opacity-100"
+        />
+        <a 
+          href="{base}/eventos/seis_coloq.jpg" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center text-white text-xs font-bold p-2 text-center"
+        >
+          🔍 Ver Cartel Completo
+        </a>
+      </div>
+      <div class="p-3 text-center">
+        <h4 class="font-bold text-gray-800 text-xs mb-1">VI Coloquio</h4>
+        <span class="text-[10px] text-gray-500 block">Investigaciones Rurales</span>
+      </div>
+    </div>
+
+    <!-- Cartel 7 -->
+    <div class="bg-white rounded-lg border border-gray-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow flex flex-col justify-between">
+      <div class="relative group overflow-hidden bg-gray-900">
+        <img 
+          src="{base}/eventos/siete_coloq.jpg" 
+          alt="7mo Coloquio" 
+          class="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300 opacity-90 group-hover:opacity-100"
+        />
+        <a 
+          href="{base}/eventos/siete_coloq.jpg" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center text-white text-xs font-bold p-2 text-center"
+        >
+          🔍 Ver Cartel Completo
+        </a>
+      </div>
+      <div class="p-3 text-center">
+        <h4 class="font-bold text-gray-800 text-xs mb-1">VII Coloquio</h4>
+        <span class="text-[10px] text-gray-500 block">Investigaciones Rurales</span>
+      </div>
+    </div>
+
+    <!-- Cartel 8 -->
+    <div class="bg-white rounded-lg border border-gray-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow flex flex-col justify-between">
+      <div class="relative group overflow-hidden bg-gray-900">
+        <img 
+          src="{base}/eventos/ocho_coloq.jpg" 
+          alt="8vo Coloquio" 
+          class="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300 opacity-90 group-hover:opacity-100"
+        />
+        <a 
+          href="{base}/eventos/ocho_coloq.jpg" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center text-white text-xs font-bold p-2 text-center"
+        >
+          🔍 Ver Cartel Completo
+        </a>
+      </div>
+      <div class="p-3 text-center">
+        <h4 class="font-bold text-gray-800 text-xs mb-1">VIII Coloquio</h4>
+        <span class="text-[10px] text-gray-500 block">Investigaciones Rurales</span>
+      </div>
+    </div>
+
+    <!-- Cartel 9 -->
+    <div class="bg-white rounded-lg border border-gray-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow flex flex-col justify-between">
+      <div class="relative group overflow-hidden bg-gray-900">
+        <img 
+          src="{base}/eventos/nueve_coloq.jpg" 
+          alt="9no Coloquio" 
+          class="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300 opacity-90 group-hover:opacity-100"
+        />
+        <a 
+          href="{base}/eventos/nueve_coloq.jpg" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center text-white text-xs font-bold p-2 text-center"
+        >
+          🔍 Ver Cartel Completo
+        </a>
+      </div>
+      <div class="p-3 text-center">
+        <h4 class="font-bold text-gray-800 text-xs mb-1">IX Coloquio</h4>
+        <span class="text-[10px] text-gray-500 block">Investigaciones Rurales</span>
+      </div>
+    </div>
+
+    <!-- Cartel 10 -->
+    <div class="bg-white rounded-lg border border-gray-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow flex flex-col justify-between">
+      <div class="relative group overflow-hidden bg-gray-900">
+        <img 
+          src="{base}/eventos/diez_coloq.jpg" 
+          alt="10mo Coloquio" 
+          class="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300 opacity-90 group-hover:opacity-100"
+        />
+        <a 
+          href="{base}/eventos/diez_coloq.jpg" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center text-white text-xs font-bold p-2 text-center"
+        >
+          🔍 Ver Cartel Completo
+        </a>
+      </div>
+      <div class="p-3 text-center">
+        <h4 class="font-bold text-gray-800 text-xs mb-1">X Coloquio (2025)</h4>
+        <span class="text-[10px] text-gray-500 block">Investigaciones Rurales</span>
+      </div>
     </div>
 
   </div>
+</div>
+
+</div>
 </section>
 
 <!-- Sección: Acervo -->
