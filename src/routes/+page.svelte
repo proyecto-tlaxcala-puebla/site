@@ -1215,21 +1215,46 @@
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
       
       <!-- 1. Monografías -->
-      <div class="bg-white p-6 rounded-xl border-2 border-dashed border-gray-300 shadow-sm flex flex-col justify-between">
-        <div>
-          <div class="w-12 h-12 rounded-lg bg-orange-100 text-orange-600 flex items-center justify-center font-bold text-2xl mb-4">
-            📖
-          </div>
-          <h3 class="text-xl font-bold text-gray-800 mb-2">Monografías</h3>
-          <p class="text-gray-600 text-sm leading-relaxed mb-4">
-            Estudios locales e históricos redactados para y con las comunidades sobre sus territorios y memoria colectiva.
-          </p>
+<div class="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col justify-between md:col-span-3">
+  <div>
+    <div class="flex items-center justify-between mb-4 border-b pb-3">
+      <h3 class="text-xl font-bold text-gray-800 flex items-center gap-2">
+        <span class="text-orange-600">📖</span> Monografías Comunitarias
+      </h3>
+      <span class="text-xs bg-orange-100 text-orange-800 font-semibold px-3 py-1 rounded-full">
+        Publicación 2025
+      </span>
+    </div>
+    
+    <!-- Ficha de la Monografía: San Rafael Ixtapalucan -->
+    <div class="bg-gray-50 p-5 rounded-lg border border-gray-200 flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-2 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-orange-600 text-white text-xs font-bold px-2.5 py-0.5 rounded">PDF</span>
+          <span class="text-xs font-bold text-gray-700">Tlahuapan, Puebla</span>
         </div>
-        <div class="pt-4 border-t border-gray-100 flex items-center justify-between">
-          <span class="text-xs text-orange-600 font-semibold italic">Pendiente de documentos</span>
-          <span class="text-xs text-gray-400">Ver monografías &rarr;</span>
-        </div>
+        <h4 class="text-lg font-bold text-gray-800 leading-tight">
+          San Rafael Ixtapalucan, Municipio de Tlahuapan, Estado de Puebla
+        </h4>
+        <p class="text-xs text-gray-600 leading-relaxed">
+          <strong>Elaborado por:</strong> Paola Velasco Santos, Hernán Salas Quintanal, Celia López Miguel y Leonor Alejandra González Nava (2025).
+        </p>
+        <p class="text-xs text-gray-500 leading-relaxed italic">
+          Estudio monográfico sobre la historia socioambiental, bosques, ejidos, gestión del agua, industria del calcetín y patrimonio de la comunidad. (Proyectos CONAHCYT 318959 y 318962; PAPIIT-UNAM IN303322).
+        </p>
       </div>
+
+      <a 
+        href="{base}/documentos/san_rafael_cuad.pdf" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="shrink-0 bg-orange-600 hover:bg-orange-700 text-white text-xs font-bold px-5 py-3 rounded-lg transition-colors flex items-center gap-2 shadow-sm"
+      >
+        📄 Descargar Monografía (PDF)
+      </a>
+    </div>
+  </div>
+</div>
 
       <!-- 2. Carteles -->
       <div class="bg-white p-6 rounded-xl border-2 border-dashed border-gray-300 shadow-sm flex flex-col justify-between">
