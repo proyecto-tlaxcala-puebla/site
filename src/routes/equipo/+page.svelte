@@ -76,7 +76,7 @@
             <h4 class="font-semibold text-gray-800 mb-2">Reconocimientos</h4>
             <ul class="text-sm text-gray-600 space-y-1 mb-4">
               <li>• Premio Fray Bernardino de Sahagún (Etnología y Antropología Social)</li>
-              <li>• Sistema Nacional de Investigadores (SNI) nivel II – CONACYT</li>
+              <li>• Sistema Nacional de Investigadores (SNI) nivel II – SECIHTI</li>
               <li>• Miembro de la Academia Mexicana de Ciencias</li>
               <li>• Coordinador del Seminario Universitario de Estudios Rurales</li>
             </ul>
@@ -127,7 +127,7 @@
                 <h4 class="font-semibold text-gray-800 mb-2">Especialidades</h4>
                 <ul class="text-sm text-gray-600 space-y-1">
                   <li>• Ecología política</li>
-                  <li>• Antropología socioambiental</li>
+                  <li>• Etnografías multiespecie</li>
                   <li>• Estudios rurales</li>
                   <li>• Conflictos y problemas socioambientales</li>
                   <li>• Contaminación hídrica</li>
@@ -228,7 +228,7 @@
           </div>
           <div class="text-center">
             <h2 class="text-2xl font-bold text-red-800 mb-2">Leonor Alejandra González Nava</h2>
-            <p class="text-sm font-medium text-red-600 institution">Candidata a Doctora en Antropología - UNAM</p>
+            <p class="text-sm font-medium text-red-600 institution">Doctora en Antropología - UNAM</p>
           </div>
         </div>
         <div class="md:w-3/4 p-8">
@@ -236,7 +236,7 @@
             <div class="mb-6">
               <h3 class="text-lg font-semibold text-gray-800 mb-3 border-b-2 border-red-200 pb-1">Biografía Académica</h3>
               <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                Leonor Alejandra González Nava es candidata a doctora en Antropología por la Universidad Nacional Autónoma de México (UNAM), donde también obtuvo su maestría en Antropología. Asimismo, es licenciada en Desarrollo y Gestión Interculturales por la Facultad de Filosofía y Letras de la UNAM. Su trabajo de investigación se centra en la ecología política, los enredos socioambientales, las transformaciones rurales y la gestión del patrimonio cultural.
+                Leonor Alejandra González Nava es doctora en Antropología por la Universidad Nacional Autónoma de México (UNAM), donde también obtuvo su maestría en Antropología. Asimismo, es licenciada en Desarrollo y Gestión Interculturales por la Facultad de Filosofía y Letras de la UNAM. Su trabajo de investigación se centra en la ecología política, los enredos socioambientales, las transformaciones rurales y la gestión del patrimonio cultural.
               </p>
               <p class="text-gray-700 text-sm leading-relaxed mb-4">
                 Con una trayectoria académica de más de nueve años como profesora de asignatura en la UNAM, ha impartido cursos en la Facultad de Filosofía y Letras y en la Facultad de Ciencias Políticas y Sociales, abordando temas como turismo y patrimonio cultural, ética y práctica antropológica, construcción de identidades y diversidad cultural.
@@ -255,7 +255,7 @@
                 <ul class="text-sm text-gray-600 space-y-1">
                   <li>• Ecología política</li>
                   <li>• Enredos socioambientales</li>
-                  <li>• Transformaciones rurales</li>
+                  <li>• Etnografías multiespecie</li>
                   <li>• Gestión del patrimonio cultural</li>
                   <li>• Turismo y conservación ambiental</li>
                 </ul>
