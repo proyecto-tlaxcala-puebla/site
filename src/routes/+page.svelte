@@ -99,17 +99,17 @@
         </p>
         <ul class="space-y-3 mb-6 text-gray-700 academic-text pl-5 list-disc">
           <li class="leading-relaxed">
-            <strong>Transformaciones en la población, en los territorios y en la vida rural y comunitaria:</strong> Estudio de las dinámicas de adaptación, las reconfiguraciones económicas y las estrategias locales ante crisis locales y globales, como la pandemia de COVID-19.
+            <strong>Transformaciones en la población, en los territorios y en la vida rural:</strong> Estudio de las reconfiguraciones económicas y las estrategias locales ante crisis locales y globales, como la pandemia de COVID-19.
           </li>
           <li class="leading-relaxed">
-            <strong>Hidropolítica, gestión ambiental y luchas por el agua:</strong> Análisis de los efectos de la crisis hídrica, la contaminación, la sobreexplotación y las respuestas comunitarias en defensa de los recursos naturales, los territorios y los modos de vida.
+            <strong>Hidropolítica, gestión ambiental y luchas por el agua:</strong> Análisis de los efectos de la crisis hídrica, la contaminación, la sobreexplotación y las respuestas de las poblaciones en defensa de los recursos naturales, los territorios y los modos de vida.
           </li>
           <li class="leading-relaxed">
-            <strong>Ecoturismo, conservación y producción social de la naturaleza:</strong> Exploración de cómo la conservación, la economía rural y las actividades de turismo transforman la organización comunitaria y la relación con el entorno.
+            <strong>Ecoturismo, conservación y producción social de la naturaleza:</strong> Exploración de cómo la conservación, la economía rural y las actividades de turismo transforman la organización social y la relación con el entorno.
           </li>
         </ul>
         <p class="text-gray-700 leading-relaxed academic-text">
-          A través de este enfoque transversal, en estos años el proyecto ha construido un panorama sobre la estructuración de las clases sociales, la identidad cultural, las transformaciones territoriales y la reconfiguración sociocultural de las comunidades rurales en esta región de Tlaxcala y Puebla. Estos objetivos se han alcanzado con la colaboración permanente entre el equipo de investigación, las poblaciones y las autoridades civiles, políticas y religiosas, con atención al género, la edad y los diversos grupos.
+          A través de este enfoque transversal, en estos años el proyecto ha construido un panorama sobre la estructuración de las clases sociales, la identidad cultural, las transformaciones territoriales y la reconfiguración sociocultural de las localidades rurales en esta región de Tlaxcala y Puebla. Estos objetivos se han alcanzado con la colaboración permanente entre el equipo de investigación, las poblaciones y las autoridades civiles, políticas y religiosas.
         </p>
       </div>
       
@@ -142,7 +142,7 @@
             <span class="research-bullet"></span>
             <div>
               <strong>Alejandra González Nava</strong><br>
-              <span class="institution">Estudiante de doctorado, IIA-UNAM</span>
+              <span class="institution">FCPyS-UNAM</span>
             </div>
           </li>
           <li class="flex items-start">
@@ -267,7 +267,7 @@
             <strong>Rol:</strong> Investigador invitado.
           </p>
           <p class="text-gray-600 text-xs leading-relaxed mb-2">
-            <strong>Proyecto específico IIA-UNAM:</strong> Estudio sociocultural sobre la relación entre comunidades de la cuenca y uso de compuestos químicos: percepción de toxicidad y riesgo.
+            <strong>Proyecto específico IIA-UNAM:</strong> Estudio sociocultural sobre la relación entre localidades de la cuenca y uso de compuestos químicos: percepción de toxicidad y riesgo.
           </p>
           <p class="text-gray-500 text-[11px] leading-tight italic">
             PRONACE-TÓXICOS. En colaboración con IIB, IIA, FI UNAM, UATx, UACH, Centro Fray Julián Garcés y Coordinadora Atoyac con Vida.
@@ -286,16 +286,16 @@
         <div class="p-6">
           <div class="flex items-center gap-2 mb-3">
             <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2022 - 2024</span>
-            <span class="text-[11px] bg-purple-100 text-purple-800 font-semibold px-2 py-0.5 rounded">FORDECyT No 318959</span>
+            <span class="text-[11px] bg-purple-100 text-purple-800 font-semibold px-2 py-0.5 rounded">CONACYT No 318959</span>
           </div>
           <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
-            Reapropiación socioambiental para el manejo integral y comunitario de la cuenca Atoyac-Zahuapan
+            Reapropiación socioambiental para el manejo integral de la cuenca Atoyac-Zahuapan
           </h3>
           <p class="text-gray-600 text-xs leading-relaxed mb-2">
             <strong>Rol:</strong> Investigador invitado participante del equipo de investigación e incidencia.
           </p>
           <p class="text-gray-600 text-xs leading-relaxed mb-2">
-            <strong>Trabajo específico:</strong> Con las comunidades rurales de la cuenca del Alto Atoyac en el Valle Puebla-Tlaxcala.
+            <strong>Trabajo específico:</strong> Con las localidades rurales de la cuenca del Alto Atoyac en el Valle Puebla-Tlaxcala.
           </p>
           <p class="text-gray-500 text-[11px] leading-tight italic">
             PRONACE-AGUAS. Coordinado desde la UATx en alianza interinstitucional y comunitaria.
@@ -342,7 +342,7 @@
             <span class="text-[11px] bg-emerald-100 text-emerald-800 font-semibold px-2 py-0.5 rounded">PAPIIT IN300115</span>
           </div>
           <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
-            Ruralidades, sujetos sociales y respuestas comunitarias en el valle Puebla-Tlaxcala
+            Ruralidades, sujetos sociales y respuestas locales en el valle Puebla-Tlaxcala
           </h3>
           <p class="text-gray-600 text-xs leading-relaxed mb-3">
             <strong>Rol:</strong> Investigador responsable del proyecto colectivo.
@@ -997,7 +997,7 @@
           <span>🗣️</span> Pláticas y Talleres
         </h4>
         <p class="text-gray-500 text-xs leading-relaxed mb-3">
-          Lista de charlas de divulgación, talleres y eventos de comunicación social impartidos en comunidades e instituciones.
+          Lista de charlas de divulgación, talleres y eventos de comunicación social impartidos en localidades e instituciones.
         </p>
         <span class="text-xs text-orange-600 font-medium italic">Próximamente registros</span>
       </div>
@@ -1165,7 +1165,7 @@
             Acervo Fotográfico
           </h3>
           <p class="text-gray-600 text-sm leading-relaxed mb-6">
-            Galería visual y fotográfica que documenta el paisaje, las faenas comunitarias, las asambleas, los procesos productivos y el trabajo de campo etnográfico en las comunidades de la región.
+            Galería visual y fotográfica que documenta el paisaje, las faenas comunitarias, las asambleas, los procesos productivos y el trabajo de campo etnográfico en las localidades de la región.
           </p>
         </div>
 
@@ -1185,7 +1185,7 @@
             Repositorio de Mapas
           </h3>
           <p class="text-gray-600 text-sm leading-relaxed mb-6">
-            Mapas comunitarios, diagnósticos socioambientales espaciales, capas geográficas y modelos territoriales elaborados mediante Sistemas de Información Geográfica (SIG) y talleres colaborativos.
+            Mapas participativos, diagnósticos socioambientales espaciales, capas geográficas y modelos territoriales elaborados mediante Sistemas de Información Geográfica (SIG) y talleres colaborativos.
           </p>
         </div>
 
@@ -1204,7 +1204,7 @@
   <div class="max-w-6xl mx-auto px-6">
     <div class="text-center mb-12">
       <h2 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4 border-b-4 border-orange-500 pb-2 inline-block">
-        Vinculación Comunitaria e Institucional
+        Vinculación Social e Institucional
       </h2>
       <p class="text-gray-600 max-w-2xl mx-auto text-sm md:text-base">
         Procesos de retribución social, trabajo colaborativo con actores locales e intercambio con instituciones de la región.
@@ -1219,7 +1219,7 @@
   <div>
     <div class="flex items-center justify-between mb-4 border-b pb-3">
       <h3 class="text-xl font-bold text-gray-800 flex items-center gap-2">
-        <span class="text-orange-600">📖</span> Monografías Comunitarias
+        <span class="text-orange-600">📖</span> Monografías Socio-antropológicas de la Región
       </h3>
       <span class="text-xs bg-orange-100 text-orange-800 font-semibold px-3 py-1 rounded-full">
         Publicación 2025
@@ -1240,7 +1240,7 @@
           <strong>Elaborado por:</strong> Paola Velasco Santos, Hernán Salas Quintanal, Celia López Miguel y Leonor Alejandra González Nava (2025).
         </p>
         <p class="text-xs text-gray-500 leading-relaxed italic">
-          Estudio monográfico sobre la historia socioambiental, bosques, ejidos, gestión del agua, industria del calcetín y patrimonio de la comunidad. (Proyectos CONAHCYT 318959 y 318962; PAPIIT-UNAM IN303322).
+          Estudio monográfico sobre la historia socioambiental, bosques, ejidos, gestión del agua, industria del calcetín y patrimonio de la población. (Proyectos CONAHCYT 318959 y 318962; PAPIIT-UNAM IN303322).
         </p>
       </div>
 
@@ -1281,7 +1281,7 @@
           </div>
           <h3 class="text-xl font-bold text-gray-800 mb-2">Devolución de Conocimiento</h3>
           <p class="text-gray-600 text-sm leading-relaxed mb-4">
-            Talleres, asambleas informativas y entrega de diagnósticos participativos a los ejidos y comunidades colaboradoras.
+            Talleres, asambleas informativas y entrega de diagnósticos participativos a los ejidos y poblaciones colaboradoras.
           </p>
         </div>
         <div class="pt-4 border-t border-gray-100 flex items-center justify-between">
@@ -1303,7 +1303,7 @@
           </div>
           <h3 class="text-xl font-bold text-gray-800 mb-2">Cartografía Colaborativa</h3>
           <p class="text-gray-600 text-sm leading-relaxed mb-4">
-            Mapas comunitarios y talleres de mapeo participativo construidos de la mano con los habitantes de la región.
+            Mapas y talleres de mapeo participativo construidos de la mano con los habitantes de la región.
           </p>
         </div>
         <div class="pt-4 border-t border-gray-100 flex items-center justify-between">
@@ -1340,7 +1340,7 @@
         Mapa interactivo de los lugares en que se ha trabajado
       </h2>
       <p class="text-gray-600 max-w-2xl mx-auto text-sm md:text-base">
-        Visualización de los municipios, comunidades y regiones de Puebla y Tlaxcala donde se desarrollan los proyectos de investigación y trabajo comunitario.
+        Visualización de los municipios, localidades y regiones de Puebla y Tlaxcala donde se desarrollan los proyectos de investigación y trabajo con poblaciones.
       </p>
     </div>
 
