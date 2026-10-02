@@ -115,7 +115,7 @@
       
       <!-- Lado derecho: Tarjeta de Nuestro Equipo -->
       <div class="bg-gray-50 p-8 rounded-lg research-card">
-        <h3 class="text-2xl font-semibold text-gray-800 mb-6">Nuestro Equipo</h3>
+        <h3 class="text-2xl font-semibold text-gray-800 mb-6">Investigadores que participan</h3>
         <ul class="space-y-3">
           <li class="flex items-start">
             <span class="research-bullet"></span>
@@ -155,7 +155,7 @@
         </ul>
         <div class="mt-6 text-center">
           <a href="{base}/equipo" class="btn-secondary text-white px-6 py-3 rounded-lg font-semibold transition-colors btn-academic inline-block">
-            Ver Equipo Completo →
+            Ver semblanzas →
           </a>
         </div>
       </div>
@@ -171,8 +171,7 @@
         Proyectos de Investigación
       </h2>
       <p class="text-gray-600 max-w-3xl mx-auto text-sm md:text-base">
-        Proyectos vigentes y concluidos en la región Tlaxcala-Puebla coordinados o integrados por Hernán Salas Quintanal como investigador responsable e invitado.
-      </p>
+        Proyectos vigentes y concluidos en la región Tlaxcala-Puebla.
     </div>
 
     <!-- Grilla de Tarjetas / 9 Proyectos de Investigación -->
@@ -188,9 +187,6 @@
           <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
             Estudio de la organización colectiva del agua potable en pueblos rurales del Valle Tlaxcala-Puebla
           </h3>
-          <p class="text-gray-600 text-xs leading-relaxed mb-3">
-            <strong>Rol:</strong> Investigador responsable del proyecto colectivo.
-          </p>
           <p class="text-gray-500 text-xs leading-relaxed">
             Instituto de Investigaciones Antropológicas UNAM, financiamiento PAPIIT-DGAPA.
           </p>
@@ -213,9 +209,6 @@
           <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
             Gestión asociativa del agua potable en pueblos rurales del valle Tlaxcala-Puebla
           </h3>
-          <p class="text-gray-600 text-xs leading-relaxed mb-3">
-            <strong>Rol:</strong> Investigador responsable del proyecto colectivo.
-          </p>
           <p class="text-gray-500 text-xs leading-relaxed">
             Financiamiento Proyectos de Humanidades SECIHTI (Secretaría de Ciencia, Humanidades, Tecnología e Innovación).
           </p>
@@ -238,9 +231,6 @@
           <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
             Modo de vida en las ruralidades actuales: precariedad, fragmentación y desigualdad en Tlahuapan, Puebla
           </h3>
-          <p class="text-gray-600 text-xs leading-relaxed mb-3">
-            <strong>Rol:</strong> Investigador responsable del proyecto colectivo.
-          </p>
           <p class="text-gray-500 text-xs leading-relaxed">
             Instituto de Investigaciones Antropológicas UNAM, financiamiento PAPIIT-DGAPA.
           </p>
@@ -263,9 +253,6 @@
           <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
             Sistema Comunitario de Vigilancia y Monitoreo Ambiental en la Cuenca Atoyac-Zahuapan
           </h3>
-          <p class="text-gray-600 text-xs leading-relaxed mb-2">
-            <strong>Rol:</strong> Investigador invitado.
-          </p>
           <p class="text-gray-600 text-xs leading-relaxed mb-2">
             <strong>Proyecto específico IIA-UNAM:</strong> Estudio sociocultural sobre la relación entre localidades de la cuenca y uso de compuestos químicos: percepción de toxicidad y riesgo.
           </p>
@@ -292,9 +279,6 @@
             Reapropiación socioambiental para el manejo integral de la cuenca Atoyac-Zahuapan
           </h3>
           <p class="text-gray-600 text-xs leading-relaxed mb-2">
-            <strong>Rol:</strong> Investigador invitado participante del equipo de investigación e incidencia.
-          </p>
-          <p class="text-gray-600 text-xs leading-relaxed mb-2">
             <strong>Trabajo específico:</strong> Con las localidades rurales de la cuenca del Alto Atoyac en el Valle Puebla-Tlaxcala.
           </p>
           <p class="text-gray-500 text-[11px] leading-tight italic">
@@ -319,9 +303,6 @@
           <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
             Estudio etnográfico de pueblos rurales del sur de Tlaxcala especializados en actividades productivas no agrícolas
           </h3>
-          <p class="text-gray-600 text-xs leading-relaxed mb-3">
-            <strong>Rol:</strong> Investigador responsable del proyecto colectivo.
-          </p>
           <p class="text-gray-500 text-xs leading-relaxed">
             Instituto de Investigaciones Antropológicas UNAM, financiamiento PAPIIT-DGAPA.
           </p>
@@ -344,9 +325,6 @@
           <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
             Ruralidades, sujetos sociales y respuestas locales en el valle Puebla-Tlaxcala
           </h3>
-          <p class="text-gray-600 text-xs leading-relaxed mb-3">
-            <strong>Rol:</strong> Investigador responsable del proyecto colectivo.
-          </p>
           <p class="text-gray-500 text-xs leading-relaxed">
             Instituto de Investigaciones Antropológicas UNAM, financiamiento PAPIIT-DGAPA.
           </p>
@@ -369,9 +347,6 @@
           <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
             Repensar lo rural y el concepto de nueva ruralidad como propuesta para entender las transformaciones contemporáneas en el Valle Puebla Tlaxcala
           </h3>
-          <p class="text-gray-600 text-xs leading-relaxed mb-3">
-            <strong>Rol:</strong> Investigador responsable del proyecto colectivo.
-          </p>
           <p class="text-gray-500 text-xs leading-relaxed">
             Instituto de Investigaciones Antropológicas UNAM, financiamiento CONACYT.
           </p>
@@ -394,9 +369,6 @@
           <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
             Continuidades y transformaciones socioeconómicas y culturales en el municipio de Nativitas, Tlaxcala ¿hacia la conformación de una nueva ruralidad?
           </h3>
-          <p class="text-gray-600 text-xs leading-relaxed mb-3">
-            <strong>Rol:</strong> Investigador responsable del proyecto colectivo.
-          </p>
           <p class="text-gray-500 text-xs leading-relaxed">
             Instituto de Investigaciones Antropológicas UNAM, financiamiento PAPIIT-DGAPA.
           </p>
