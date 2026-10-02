@@ -16,7 +16,7 @@
 <section class="py-16 bg-white">
   <div class="max-w-6xl mx-auto px-6">
     <div class="text-center mb-12">
-      <h1 class="text-5xl font-bold text-gray-800 mb-6">Sobre las personas que forman parte de este Proyecto</h1>
+      <h1 class="text-5xl font-bold text-gray-800 mb-6">Integrantes</h1>
       <div class="w-32 h-1 bg-teal-600 mx-auto mb-6"></div>
       <p class="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
         ¿Quiénes forman parte del Proyecto Tlaxcala-Puebla y cuáles son sus áreas de especialización?
