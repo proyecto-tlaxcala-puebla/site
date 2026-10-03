@@ -584,473 +584,722 @@
       </p>
     </div>
 
-    <!-- SUBSECCIÓN 1: LIBROS Y CAPÍTULOS DE LIBRO -->
-    <div class="mb-14">
-      <h3 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-2 border-b pb-2">
-        <span class="text-orange-600">📚</span> Libros y Capítulos de Libro
-      </h3>
+   <!-- SUBSECCIÓN 1: LIBROS Y CAPÍTULOS DE LIBRO -->
+<div class="mb-14">
+  <h3 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-2 border-b pb-2">
+    <span class="text-orange-600">📚</span> Libros y Capítulos de Libro
+  </h3>
 
-      <!-- Contenedor de Libros y Capítulos -->
-      <div class="space-y-4">
+  <!-- Contenedor de Libros y Capítulos -->
+  <div class="space-y-4">
 
-        <!-- LIBROS -->
-        <!-- Libro 1 (2025) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-orange-100 text-orange-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2025</span>
-              <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Libro • Coordinación</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Velasco, P. y Salas, H. (Coords.)</strong> (2025). <em>Glosario etnográfico de las ruralidades mexicanas</em>. Secretaría de Desarrollo Institucional UNAM, 320 pp.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-587-807-2</p>
-          </div>
-          <a href="https://estudiosrurales.sdi.unam.mx/index.php/es/component/sppagebuilder/page/45" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-orange-600 hover:bg-orange-700 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver Libro</span> &rarr;
-          </a>
+    <!-- LIBROS -->
+    <!-- Libro 1 (2025) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-orange-100 text-orange-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2025</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Libro • Coordinación</span>
         </div>
-
-        <!-- Libro 2 (2014) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-orange-100 text-orange-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2014</span>
-              <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Libro • IIA-UNAM</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Salas, Hernán y Rivermar, Ma. Leticia</strong> (2014). <em>Nativitas, Tlaxcala. La construcción en el tiempo de un territorio rural</em>. IIA-UNAM, 310 pp.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-02-5543-4</p>
-          </div>
-          <a href="https://www.iia.unam.mx/publicacion/nativitas-tlaxcala-la-construccion-en-el-tiempo-de-un-territorio-rural" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-orange-600 hover:bg-orange-700 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver Publicación</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Libro 3 (2011) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-orange-100 text-orange-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2011</span>
-              <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Libro • Edición</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Salas, Hernán, Rivermar, Ma. Leticia y Velasco, Paola (Eds.)</strong> (2011). <em>Nuevas ruralidades. Expresiones de la transformación social en México</em>. Ed. Juan Pablos, PAPIIT – DGAPA, IIA-UNAM, 221 pp.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-02-2393-8</p>
-          </div>
-          <a href="https://www.iia.unam.mx/publicacion/nuevas-ruralidades-expresiones-de-la-transformacion-social-en-mexico" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-orange-600 hover:bg-orange-700 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver Publicación</span> &rarr;
-          </a>
-        </div>
-
-        <!-- CAPÍTULOS DE LIBRO -->
-        <!-- Capítulo 1 (2025) -->
-        <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2025</span>
-              <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Salas, H.</strong> (2025). “Precariedades”. En Velasco, P. y Salas, H. (Coords.) <em>Glosario etnográfico de las ruralidades mexicanas</em>. Secretaría de Desarrollo Institucional UNAM, pp. 24-55.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-587-807-2</p>
-          </div>
-          <a href="https://estudiosrurales.sdi.unam.mx/index.php/es/component/sppagebuilder/page/45" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-amber-700 hover:bg-amber-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver Capítulo</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Capítulo 2 (2025) -->
-        <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2025</span>
-              <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • CLACSO</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Salas, H. y Velasco, P.</strong> (2025). “Historia sociolaboral de la Cuenca Atoyac-Zahuapan en el Altiplano Mexicano”. En Carton de Grammont, H. et al. (Coords.) <em>Mercados de trabajo rurales, desigualdades y vulnerabilidad social en América Latina</em>. CLACSO, Argentina, pp. 323-350.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISBN: 978-987-813-957-9</p>
-          </div>
-          <a href="https://estudiosrurales.sdi.unam.mx/media/attachments/2025/02/19/mercados-trabajo-rurales.pdf" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-amber-700 hover:bg-amber-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver PDF</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Capítulo 3 (2025) -->
-        <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2025</span>
-              <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • CONAHCYT</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Velasco, P. y Salas, H.</strong> (2025). “Historia socioambiental de la Cuenca Alta del Atoyac-Zahuapan”. En Delgado, A. et al. (Coords.) <em>Problemas socioambientales en la Cuenca del Alto Atoyac: diálogos transdisciplinarios</em>. CONAHCYT, Inst. MORA, pp. 109-128.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-8273-87-4</p>
-          </div>
-        </div>
-
-        <!-- Capítulo 4 (2023) -->
-        <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2023</span>
-              <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • UNAM</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Salas, Hernán</strong> (2023). “El modo de vida rural: vulnerabilidad y desafíos por la pandemia de COVID-19 en Tlahuapan, Puebla”. En Salas, H. y Pérez Castro, A. B. (Eds.) <em>La década COVID en México: afectaciones a las poblaciones Rurales en México</em>. Tomo 3, UNAM, pp. 149-191.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">e-ISBN: 978-607-30-7278-6</p>
-          </div>
-          <a href="https://decadacovid.humanidades.unam.mx/wp-content/uploads/DCM_tomo-3_C07.pdf" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-amber-700 hover:bg-amber-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver PDF</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Capítulo 5 (2021) -->
-        <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2021</span>
-              <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • IIA UNAM</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Salas, Hernán</strong> (2021). “Reacomodos del grupo doméstico rural. Agricultura y pluriactividad en Nativitas, Tlaxcala (México)”. En Pérez Castro, A. et al. (Eds.) <em>Ganarse la vida. La reproducción social en el mundo contemporáneo</em>. IIA UNAM, pp. 103-132.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-30-5237-5</p>
-          </div>
-        </div>
-
-        <!-- Capítulo 6 (2018) -->
-        <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2018</span>
-              <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • CEIICH UNAM</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Vallejo, Janett y Salas, Hernán</strong> (2018). “Trabajo y educación: ser jóvenes en Tepetitla de Lardizábal, Tlaxcala, un espacio de alta especialización textil y de confección”. En Contreras, E. y Contreras, F. (Coords.) <em>Empleo, capacitación y jóvenes rurales de México</em>. Ed. CEIICH UNAM, pp. 111-131.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-30-0464-0</p>
-          </div>
-        </div>
-
-        <!-- Capítulo 7 (2013) -->
-        <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2013</span>
-              <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • IIA UNAM</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Salas, Hernán y Velasco, Paola</strong> (2013). “Paisaje cultural y pertenencia socioterritorial en San Miguel del Milagro, Nativitas, Tlaxcala”. En Salas, H. et al. (Eds.) <em>Identidad y Patrimonio cultural en América Latina. La diversidad en el mundo globalizado</em>. IIA – UNAM, pp. 301-329.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-02-4993-8</p>
-          </div>
-        </div>
-
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Velasco, P. y Salas, H. (Coords.)</strong> (2025). <em>Glosario etnográfico de las ruralidades mexicanas</em>. Secretaría de Desarrollo Institucional UNAM, 320 pp.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-587-807-2</p>
       </div>
+      <a href="https://estudiosrurales.sdi.unam.mx/index.php/es/component/sppagebuilder/page/45" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-orange-600 hover:bg-orange-700 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Libro</span> &rarr;
+      </a>
     </div>
 
-    <!-- SUBSECCIÓN 2: ARTÍCULOS ACADÉMICOS -->
-    <div class="mb-14">
-      <h3 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-2 border-b pb-2">
-        <span class="text-teal-700">📄</span> Artículos Académicos
-      </h3>
-
-      <div class="space-y-4">
-
-        <!-- Artículo 1 (2026) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2026</span>
-              <span class="text-xs text-gray-500 font-semibold">Empiria. Revista de metodología de Ciencias Sociales</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Salas, Hernán y González-Fuente, Iñigo</strong> (2026). “The inexorable and precarious work-consumption articulation in the transition to adulthood of young people in rural Mexico”. <em>Empiria</em>, 67: 77-95.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISSN: 1139-5737 | DOI: empiria.67.2026.48253</p>
-          </div>
-          <a href="https://revistas.uned.es/index.php/empiria/article/view/48253/34407" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver Artículo</span> &rarr;
-          </a>
+    <!-- Libro 2 (2017) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-orange-100 text-orange-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2017</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Libro • IIA-UNAM</span>
         </div>
-
-        <!-- Artículo 2 (2024) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2024</span>
-              <span class="text-xs text-gray-500 font-semibold">Anthropological Notebooks</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>González-Fuente, Iñigo, Salas Quintanal, Hernán y López Miguel, Celia</strong> (2024). “Towards a hegemonic consumption-based model of shopping-tourist-residential territory (consumpnity): A comparative case study in China, Mexico, Spain, and the United Arab Emirates”. <em>Anthropological Notebooks</em>, 30(2): 1–27.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISSN: 1408-032X</p>
-          </div>
-          <a href="https://doi.org/10.5281/zenodo.14149025" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver DOI</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Artículo 3 (2024) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2024</span>
-              <span class="text-xs text-gray-500 font-semibold">Encrucijadas. Revista Crítica de Ciencias Sociales</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>González-Fuente, Iñigo, Salas Quintanal, Hernán y López Miguel, Celia</strong> (2024). “Consumidad: una categoría para el análisis de las prácticas de explotación socio-espacial en el medio rural a nivel global”. <em>Encrucijadas</em>, 24(2): a2408.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISSN-e: 2174-6753</p>
-          </div>
-          <a href="https://recyt.fecyt.es/index.php/encrucijadas/article/view/102954" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver Artículo</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Artículo 4 (2022) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2022</span>
-              <span class="text-xs text-gray-500 font-semibold">Profesorado. Revista de Currículum y Formación de Profesorado</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Salas Quintanal, Hernán, González-Fuente, Iñigo y Hernández Flores, Daniel</strong> (2022). “Mobility and vulnerability in the school-to-work transition of rural youth in Mexico”. <em>Profesorado</em>, 26(3): 32-50.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISSN: 1138-414X | ISSNe: 1989-6395</p>
-          </div>
-          <a href="https://revistaseug.ugr.es/index.php/profesorado/article/view/22766" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver Artículo</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Artículo 5 (2022) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2022</span>
-              <span class="text-xs text-gray-500 font-semibold">Boletín del GT CLACSO</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Salas Quintanal, Hernán</strong> (2022). “Precariedad laboral en pueblos rurales del centro de México”. <em>Boletín del GT CLACSO Trabajo agrario, desigualdades y ruralidades</em>, junio # 6: 28-40.
-            </p>
-          </div>
-          <a href="https://www.clacso.org/boletin-6-trabajo-agrario-y-ruralidades-en-transformacion/" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver Boletín</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Artículo 6 (2022) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2022</span>
-              <span class="text-xs text-gray-500 font-semibold">Revista Latinoamericana de Estudios Rurales</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Salas Quintanal, Hernán y González-Fuente, Iñigo</strong> (2022). “Gentrificación rural en México. Fragmentar el espacio, desplazar la civitas, explotar lo cotidiano”. <em>Revista Latinoamericana de Estudios Rurales</em>, 7(13): 1-27.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISSN: 2525-1635</p>
-          </div>
-          <a href="http://id.caicyt.gov.ar/ark:/s25251635/fh90m1wu2" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver Artículo</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Artículo 7 (2021) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2021</span>
-              <span class="text-xs text-gray-500 font-semibold">Revista Antropología Experimental</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>González-Fuente, Iñigo y Salas Quintanal, Hernán</strong> (2021). “Fragmentar, descolectivizar, acumular. Surgimiento y desarrollo de la consumidad del Val’Quirico, México”. <em>Revista Antropología Experimental</em>, nº 21, 07: 91-106.
-            </p>
-          </div>
-          <a href="https://dx.doi.org/10.17561/rae.v21.5397" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver DOI</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Artículo 8 (2021) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2021</span>
-              <span class="text-xs text-gray-500 font-semibold">Revista Mexicana de Sociología</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Salas, H., Velasco, P., González, A. y López, C.</strong> (2021). “La pandemia de COVID-19: Significados y consecuencias en los modos de vida en Tlahuapan, Puebla”. <em>Revista Mexicana de Sociología</em>, vol. 83, núm. especial, 159-191.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISSN: 0188-2503 | e-ISSN: 2594-0651</p>
-          </div>
-          <a href="http://revistamexicanadesociologia.unam.mx/index.php/rms/article/view/60172/53164" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver Artículo</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Artículo 9 (2020) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2020</span>
-              <span class="text-xs text-gray-500 font-semibold">Revista Antropología Americana</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Salas, Hernán</strong> (2020). “Ruralidades interrumpidas. El comportamiento de los ciclos agrícola y festivo en tiempos de pandemia”. <em>Revista Antropología Americana</em>, vol. 5, n° 10, pp. 193-222.
-            </p>
-          </div>
-          <a href="https://revistasipgh.org/index.php/anam/article/view/817/1225" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver Artículo</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Artículo 10 (2019) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2019</span>
-              <span class="text-xs text-gray-500 font-semibold">Biblio3W. Revista Bibliográfica de Geografía y Ciencias Sociales</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>González-Fuente, Iñigo y Salas Quintanal, Hernán</strong> (2019). “Plantar la Toscana en México. Comunidad-consumo, patrimonio franquicia y gentrificación rural”. <em>Biblio3W</em>, vol. XXIV, nº 1.272, pp. 1-25.
-            </p>
-          </div>
-          <a href="http://revistes.ub.edu/index.php/b3w/article/view/28439/29317" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver Artículo</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Artículo 11 (2019) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2019</span>
-              <span class="text-xs text-gray-500 font-semibold">Revista Euroamericana de Antropología</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>González-Fuente, Iñigo y Salas Quintanal, Hernán</strong> (2019). “La consumidad: vida cotidiana, consumo y espacio rural”. <em>Revista Euroamericana de Antropología</em>, n° 7, pp. 13-26.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISSN: 2387-1555</p>
-          </div>
-          <a href="http://revistas.usal.es/index.php/2387-1555/article/view/20127" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver Artículo</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Artículo 12 (2018) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2018</span>
-              <span class="text-xs text-gray-500 font-semibold">Revista Mexicana de Sociología</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>González-Fuente, Iñigo, Salas Quintanal, Hernán y Hernández Flores, Daniel</strong> (2018). “Jóvenes rurales y empleo en Tlaxcala, México: trayectorias inciertas”. <em>Revista Mexicana de Sociología</em>, vol. 80, n° 3, pp. 549-575.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISSN: 0188-2503</p>
-          </div>
-          <a href="http://revistamexicanadesociologia.unam.mx/index.php/rms/article/view/57737/51191" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver Artículo</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Artículo 13 (2017) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2017</span>
-              <span class="text-xs text-gray-500 font-semibold">Revista San Gregorio</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Salas, Hernán y González de la Fuente, Iñigo</strong> (2017). “De la producción al consumo. La transformación de los sujetos rurales”. <em>Revista San Gregorio</em>, n° 18, pp. 6-19.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISSN: 2528-7907</p>
-          </div>
-          <a href="http://revista.sangregorio.edu.ec/index.php/REVISTASANGREGORIO/issue/view/14/showToc" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver Revista</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Artículo 14 (2014) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2014</span>
-              <span class="text-xs text-gray-500 font-semibold">Revista Papeles de población</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Salas, Hernán y González de la Fuente, Iñigo</strong> (2014). “La reproducción de la pluriactividad laboral entre los jóvenes rurales en Tlaxcala, México”. <em>Papeles de población</em>, vol. 20, núm. 79, pp. 281-307.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISSN: 1405-7425</p>
-          </div>
-          <a href="http://www.redalyc.org/articulo.oa?id=11230198010" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver Redalyc</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Artículo 15 (2013) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2013</span>
-              <span class="text-xs text-gray-500 font-semibold">Revista Márgenes</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Salas, Hernán y Velasco, Paola</strong> (2013). “Los rostros rurales de dominación en el neoliberalismo actual”. <em>Revista Márgenes</em>, vol. 10, n° 13, pp. 7-14.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISSN: 0718-4034 | eISSN: 0719-4463</p>
-          </div>
-          <a href="http://revistamargenes.weebly.com/uploads/1/1/1/8/11182415/salas-velasco_margenes_13_dic_2013.pdf" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver PDF</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Artículo 16 (2013) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2013</span>
-              <span class="text-xs text-gray-500 font-semibold">Revista Gazeta de Antropología</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>Salas, Hernán y González de la Fuente, Iñigo</strong> (2013). “Nueva Ruralidad: procesos sociolaborales y desagrarización de una sociedad local en México (1980-2010)”. <em>Gazeta de Antropología</em>, 29 (2).
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISSN: 2340-2792 | DOI: 10.30827/Digibug.28504</p>
-          </div>
-          <a href="http://www.gazeta-antropologia.es/?p=4295" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver Artículo</span> &rarr;
-          </a>
-        </div>
-
-        <!-- Artículo 17 (2012) -->
-        <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div class="space-y-1 max-w-4xl">
-            <div class="flex items-center gap-2">
-              <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2012</span>
-              <span class="text-xs text-gray-500 font-semibold">Anthropological Notebooks</span>
-            </div>
-            <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
-              <strong>González de la Fuente, Iñigo y Salas, Hernán</strong> (2012). “Community Projects in the Era of Globalization: The Case of a Local Rural Society in Mexico”. <em>Anthropological Notebooks</em>, 18 (1): 41–64.
-            </p>
-            <p class="text-xs text-gray-500 font-mono">ISSN: 1408-032X</p>
-          </div>
-          <a href="http://www.drustvo-antropologov.si/AN/PDF/2012_1/Anthropological_Notebooks_XVIII_1_delaFuente.pdf" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-            <span>Ver PDF</span> &rarr;
-          </a>
-        </div>
-
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Velasco Santos, Paola</strong> (2017). <em>Ríos de contradicción. Contaminación, ecología política y sujetos rurales en Natívitas, Tlaxcala</em>. México: Instituto de Investigaciones Antropológicas, UNAM.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-02-9214-9</p>
       </div>
+      <a href="https://editorialiia.unam.mx/omp/index.php/publicaciones/catalog/book/rios_contradiccion_tlaxcala" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-orange-600 hover:bg-orange-700 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Libro</span> &rarr;
+      </a>
     </div>
+
+    <!-- Libro 3 (2014) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-orange-100 text-orange-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2014</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Libro • IIA-UNAM</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Salas, Hernán y Rivermar, Ma. Leticia</strong> (2014). <em>Nativitas, Tlaxcala. La construcción en el tiempo de un territorio rural</em>. IIA-UNAM, 310 pp.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-02-5543-4</p>
+      </div>
+      <a href="https://www.iia.unam.mx/publicacion/nativitas-tlaxcala-la-construccion-en-el-tiempo-de-un-territorio-rural" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-orange-600 hover:bg-orange-700 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Publicación</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Libro 4 (2011) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-orange-100 text-orange-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2011</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Libro • Edición</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Salas, Hernán, Rivermar, Ma. Leticia y Velasco, Paola (Eds.)</strong> (2011). <em>Nuevas ruralidades. Expresiones de la transformación social en México</em>. Ed. Juan Pablos, PAPIIT – DGAPA, IIA-UNAM, 221 pp.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-02-2393-8</p>
+      </div>
+      <a href="https://www.iia.unam.mx/publicacion/nuevas-ruralidades-expresiones-de-la-transformacion-social-en-mexico" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-orange-600 hover:bg-orange-700 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Publicación</span> &rarr;
+      </a>
+    </div>
+
+    <!-- CAPÍTULOS DE LIBRO -->
+    <!-- Capítulo 1 (2025) -->
+    <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2025</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Salas, H.</strong> (2025). “Precariedades”. En Velasco, P. y Salas, H. (Coords.) <em>Glosario etnográfico de las ruralidades mexicanas</em>. Secretaría de Desarrollo Institucional UNAM, pp. 24-55.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-587-807-2</p>
+      </div>
+      <a href="https://estudiosrurales.sdi.unam.mx/index.php/es/component/sppagebuilder/page/45" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-amber-700 hover:bg-amber-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Capítulo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Capítulo 2 (2025) -->
+    <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2025</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • CLACSO</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Salas, H. y Velasco, P.</strong> (2025). “Historia sociolaboral de la Cuenca Atoyac-Zahuapan en el Altiplano Mexicano”. En Carton de Grammont, H. et al. (Coords.) <em>Mercados de trabajo rurales, desigualdades y vulnerabilidad social en América Latina</em>. CLACSO, Argentina, pp. 323-350.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISBN: 978-987-813-957-9</p>
+      </div>
+      <a href="https://estudiosrurales.sdi.unam.mx/media/attachments/2025/02/19/mercados-trabajo-rurales.pdf" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-amber-700 hover:bg-amber-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver PDF</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Capítulo 3 (2025) -->
+    <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2025</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • CONAHCYT</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Velasco, P. y Salas, H.</strong> (2025). “Historia socioambiental de la Cuenca Alta del Atoyac-Zahuapan”. En Delgado, A. et al. (Coords.) <em>Problemas socioambientales en la Cuenca del Alto Atoyac: diálogos transdisciplinarios</em>. CONAHCYT, Inst. MORA, pp. 109-128.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-8273-87-4</p>
+      </div>
+      <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20cap%C3%ADtulo:%20Historia%20socioambiental%20de%20la%20Cuenca%20Alta%20del%20Atoyac-Zahuapan" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Solicitar por correo</span> ✉
+      </a>
+    </div>
+
+    <!-- Capítulo 4 (2023) -->
+    <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2023</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • UNAM</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Salas, Hernán</strong> (2023). “El modo de vida rural: vulnerabilidad y desafíos por la pandemia de COVID-19 en Tlahuapan, Puebla”. En Salas, H. y Pérez Castro, A. B. (Eds.) <em>La década COVID en México: afectaciones a las poblaciones Rurales en México</em>. Tomo 3, UNAM, pp. 149-191.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">e-ISBN: 978-607-30-7278-6</p>
+      </div>
+      <a href="https://decadacovid.humanidades.unam.mx/wp-content/uploads/DCM_tomo-3_C07.pdf" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-amber-700 hover:bg-amber-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver PDF</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Capítulo 5 (2021) -->
+    <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2021</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • UdeG</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Velasco Santos, Paola</strong> (2021). “Sujetos de mezclilla. Especialización y precariedad tóxica en el suroeste de Tlaxcala” (Capítulo 4). Universidad de Guadalajara.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-571-076-1</p>
+      </div>
+      <a href="https://www.academia.edu/48952789/Sujetos_de_Mezclilla_especializaci%C3%B3n_y_precariedad_t%C3%B3xica_en_el_suroeste_de_Tlaxcala" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-amber-700 hover:bg-amber-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Capítulo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Capítulo 6 (2021) -->
+    <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2021</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • IIA UNAM</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Velasco Santos, Paola y Rojas Contreras, Janeth</strong> (2021). “Manufacturando familias precarias. Implicaciones de la producción de pantalones mezclilla en el suroeste de Tlaxcala” (Capítulo 5). Instituto de Investigaciones Antropológicas, UNAM.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-305-237-5</p>
+      </div>
+      <a href="https://www.humanindex.unam.mx/humanindex/consultas/detalle_capitulos.php?id=33299&rfc=VkVTUDgwMDEwNA==&idi=1" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-amber-700 hover:bg-amber-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Capítulo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Capítulo 7 (2021) -->
+    <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2021</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • IIA UNAM</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Salas, Hernán</strong> (2021). “Reacomodos del grupo doméstico rural. Agricultura y pluriactividad en Nativitas, Tlaxcala (México)”. En Pérez Castro, A. et al. (Eds.) <em>Ganarse la vida. La reproducción social en el mundo contemporáneo</em>. IIA UNAM, pp. 103-132.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-30-5237-5</p>
+      </div>
+      <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20cap%C3%ADtulo:%20Reacomodos%20del%20grupo%20dom%C3%A9stico%20rural" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Solicitar por correo</span> ✉
+      </a>
+    </div>
+
+    <!-- Capítulo 8 (2018) -->
+    <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2018</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • CEIICH UNAM</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Vallejo, Janett y Salas, Hernán</strong> (2018). “Trabajo y educación: ser jóvenes en Tepetitla de Lardizábal, Tlaxcala, un espacio de alta especialización textil y de confección”. En Contreras, E. y Contreras, F. (Coords.) <em>Empleo, capacitación y jóvenes rurales de México</em>. Ed. CEIICH UNAM, pp. 111-131.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-30-0464-0</p>
+      </div>
+      <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20cap%C3%ADtulo:%20Trabajo%20y%20educaci%C3%B3n:%20ser%20j%C3%B3venes%20en%20Tepetitla" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Solicitar por correo</span> ✉
+      </a>
+    </div>
+
+    <!-- Capítulo 9 (2015) -->
+    <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2015</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • BUAP</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>González Nava, Leonor Alejandra</strong> (2015). "Las fiestas patronales en los espacios rurales actuales. El caso de San Miguel del Milagro, Nativitas, Tlaxcala", en Fuentes Díaz, Antonio (ed.). <em>Conflictos y sujetos emergentes. Episodios en la transformación rural neoliberal</em>. Puebla: ICSH "Alfonso Vélez Pliego", BUAP: 197-222.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-487-910-0</p>
+      </div>
+      <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20cap%C3%ADtulo:%20Las%20fiestas%20patronales%20en%20los%20espacios%20rurales%20actuales" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Solicitar por correo</span> ✉
+      </a>
+    </div>
+
+    <!-- Capítulo 10 (2015) -->
+    <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2015</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Artículo / Capítulo • Ruta Antropológica</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>González Nava, Leonor Alejandra y Ramírez, Led</strong> (2015). "El mercado del México-Mágico: una crítica visual al Programa de los Pueblos Mágicos". <em>Ruta Antropológica</em>, Unidad de Posgrado Antropología, 2(3): 48-61.
+        </p>
+      </div>
+      <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20art%C3%ADculo:%20El%20mercado%20del%20M%C3%A9xico-M%C3%A1gico" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Solicitar por correo</span> ✉
+      </a>
+    </div>
+
+    <!-- Capítulo 11 (2014) -->
+    <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2014</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • IIA UNAM</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Velasco Santos, Paola</strong> (2014). “Re-pensando el pasado agrícola para entender el presente rural” (Capítulo 7). IIA, UNAM.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-02-5543-4</p>
+      </div>
+      <a href="https://www.academia.edu/21062351/Re_pensando_el_pasado_agr%C3%ADcola_para_entender_el_presente_rural" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-amber-700 hover:bg-amber-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Capítulo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Capítulo 12 (2013) -->
+    <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2013</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • IIA UNAM</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Salas, Hernán y Velasco, Paola</strong> (2013). “Paisaje cultural y pertenencia socioterritorial en San Miguel del Milagro, Nativitas, Tlaxcala”. En Salas, H. et al. (Eds.) <em>Identidad y Patrimonio cultural en América Latina. La diversidad en el mundo globalizado</em>. IIA – UNAM, pp. 301-329.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-02-4993-8</p>
+      </div>
+      <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20cap%C3%ADtulo:%20Paisaje%20cultural%20y%20pertenencia%20socioterritorial" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Solicitar por correo</span> ✉
+      </a>
+    </div>
+
+    <!-- Capítulo 13 (2012) -->
+    <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2012</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • BUAP</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Velasco Santos, Paola</strong> (2012). “Nueva ruralidad y ecología política. ¿Cómo acercarnos a las transformaciones socioambientales en Natívitas, Tlaxcala?” (Capítulo 9). BUAP, Puebla.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-487-455-6</p>
+      </div>
+      <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20cap%C3%ADtulo:%20Nueva%20ruralidad%20y%20ecolog%C3%ADa%20pol%C3%ADtica" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Solicitar por correo</span> ✉
+      </a>
+    </div>
+
+    <!-- Capítulo 14 (2011) -->
+    <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2011</span>
+          <span class="text-xs text-gray-500 font-semibold uppercase tracking-wider">Capítulo de Libro • IIA UNAM</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Velasco Santos, Paola</strong> (2011). “Cambios, reacomodos y permanencias en San Andrés Cholula, Puebla: la construcción de una forma actual de ruralidad” (Capítulo 5). En: <em>Nuevas ruralidades. Expresiones de la transformación social en México</em>. IIA, UNAM y Juan Pablos Editor.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-02-2393-8</p>
+      </div>
+      <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20cap%C3%ADtulo:%20Cambios,%20reacomodos%20y%20permanencias%20en%20San%20Andr%C3%A9s%20Cholula" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Solicitar por correo</span> ✉
+      </a>
+    </div>
+
+  </div>
+</div>
+
+<!-- SUBSECCIÓN 2: ARTÍCULOS ACADÉMICOS -->
+<div class="mb-14">
+  <h3 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-2 border-b pb-2">
+    <span class="text-teal-700">📄</span> Artículos Académicos
+  </h3>
+
+  <div class="space-y-4">
+
+    <!-- Artículo 1 (2026) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2026</span>
+          <span class="text-xs text-gray-500 font-semibold">Empiria. Revista de metodología de Ciencias Sociales</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Salas, Hernán y González-Fuente, Iñigo</strong> (2026). “The inexorable and precarious work-consumption articulation in the transition to adulthood of young people in rural Mexico”. <em>Empiria</em>, 67: 77-95.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN: 1139-5737 | DOI: empiria.67.2026.48253</p>
+      </div>
+      <a href="https://revistas.uned.es/index.php/empiria/article/view/48253/34407" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Artículo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 2 (2024) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2024</span>
+          <span class="text-xs text-gray-500 font-semibold">Anthropological Notebooks</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>González-Fuente, Iñigo, Salas Quintanal, Hernán y López Miguel, Celia</strong> (2024). “Towards a hegemonic consumption-based model of shopping-tourist-residential territory (consumpnity): A comparative case study in China, Mexico, Spain, and the United Arab Emirates”. <em>Anthropological Notebooks</em>, 30(2): 1–27.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN: 1408-032X</p>
+      </div>
+      <a href="https://doi.org/10.5281/zenodo.14149025" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver DOI</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 3 (2024) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2024</span>
+          <span class="text-xs text-gray-500 font-semibold">Encrucijadas. Revista Crítica de Ciencias Sociales</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>González-Fuente, Iñigo, Salas Quintanal, Hernán y López Miguel, Celia</strong> (2024). “Consumidad: una categoría para el análisis de las prácticas de explotación socio-espacial en el medio rural a nivel global”. <em>Encrucijadas</em>, 24(2): a2408.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN-e: 2174-6753</p>
+      </div>
+      <a href="https://recyt.fecyt.es/index.php/encrucijadas/article/view/102954" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Artículo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 4 (2023) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2023</span>
+          <span class="text-xs text-gray-500 font-semibold">Anales de Antropología</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Velasco Santos, Paola & González Nava, Leonor</strong> (2023). “La luz del ecoturismo: la producción social de las luciérnagas y las trampas de la fe neoliberal”. <em>Anales de Antropología</em>.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN (E): 2448-6221 | ISSN (P): 0185-1225</p>
+      </div>
+      <a href="HTTPS://DOI.ORG/10.22201/IIA.24486221E.2023.85391" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver DOI</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 5 (2022) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2022</span>
+          <span class="text-xs text-gray-500 font-semibold">Profesorado. Revista de Currículum y Formación de Profesorado</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Salas Quintanal, Hernán, González-Fuente, Iñigo y Hernández Flores, Daniel</strong> (2022). “Mobility and vulnerability in the school-to-work transition of rural youth in Mexico”. <em>Profesorado</em>, 26(3): 32-50.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN: 1138-414X | ISSNe: 1989-6395</p>
+      </div>
+      <a href="https://revistaseug.ugr.es/index.php/profesorado/article/view/22766" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Artículo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 6 (2022) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2022</span>
+          <span class="text-xs text-gray-500 font-semibold">Boletín del GT CLACSO</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Salas Quintanal, Hernán</strong> (2022). “Precariedad laboral en pueblos rurales del centro de México”. <em>Boletín del GT CLACSO Trabajo agrario, desigualdades y ruralidades</em>, junio # 6: 28-40.
+        </p>
+      </div>
+      <a href="https://www.clacso.org/boletin-6-trabajo-agrario-y-ruralidades-en-transformacion/" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Boletín</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 7 (2022) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2022</span>
+          <span class="text-xs text-gray-500 font-semibold">Revista Latinoamericana de Estudios Rurales</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Salas Quintanal, Hernán y González-Fuente, Iñigo</strong> (2022). “Gentrificación rural en México. Fragmentar el espacio, desplazar la civitas, explotar lo cotidiano”. <em>Revista Latinoamericana de Estudios Rurales</em>, 7(13): 1-27.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN: 2525-1635</p>
+      </div>
+      <a href="http://id.caicyt.gov.ar/ark:/s25251635/fh90m1wu2" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Artículo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 8 (2021) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2021</span>
+          <span class="text-xs text-gray-500 font-semibold">Conservation Science and Practice</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Lewis, Sara M.; Thancharoen, Anchana; Wong, Choong Hay; López Palafox, Tania; Velasco Santos, Paola et al.</strong> (2021). “Firefly tourism: Advancing a global phenomenon toward a brighter future”. <em>Conservation Science and Practice</em>.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN (E): 2578-4854</p>
+      </div>
+      <a href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/csp2.391" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Artículo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 9 (2021) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2021</span>
+          <span class="text-xs text-gray-500 font-semibold">Revista Antropología Experimental</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>González-Fuente, Iñigo y Salas Quintanal, Hernán</strong> (2021). “Fragmentar, descolectivizar, acumular. Surgimiento y desarrollo de la consumidad del Val’Quirico, México”. <em>Revista Antropología Experimental</em>, nº 21, 07: 91-106.
+        </p>
+      </div>
+      <a href="https://dx.doi.org/10.17561/rae.v21.5397" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver DOI</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 10 (2021) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2021</span>
+          <span class="text-xs text-gray-500 font-semibold">Revista Mexicana de Sociología</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Salas, H., Velasco, P., González, A. y López, C.</strong> (2021). “La pandemia de COVID-19: Significados y consecuencias en los modos de vida en Tlahuapan, Puebla”. <em>Revista Mexicana de Sociología</em>, vol. 83, núm. especial, 159-191.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN: 0188-2503 | e-ISSN: 2594-0651</p>
+      </div>
+      <a href="http://revistamexicanadesociologia.unam.mx/index.php/rms/article/view/60172/53164" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Artículo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 11 (2020) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2020</span>
+          <span class="text-xs text-gray-500 font-semibold">Collectivus, Revista de Ciencias Sociales</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Velasco Santos, Paola</strong> (2020). “El ciclo hidropolítico en Tlahuapan, Puebla: reflexiones en el Capitaloceno”. <em>Collectivus, Revista de Ciencias Sociales</em>.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN (E): 2382-4018</p>
+      </div>
+      <a href="https://dialnet.unirioja.es/servlet/articulo?codigo=7671897" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Artículo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 12 (2020) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2020</span>
+          <span class="text-xs text-gray-500 font-semibold">Revista Antropología Americana</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Salas, Hernán</strong> (2020). “Ruralidades interrumpidas. El comportamiento de los ciclos agrícola y festivo en tiempos de pandemia”. <em>Revista Antropología Americana</em>, vol. 5, n° 10, pp. 193-222.
+        </p>
+      </div>
+      <a href="https://revistasipgh.org/index.php/anam/article/view/817/1225" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Artículo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 13 (2019) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2019</span>
+          <span class="text-xs text-gray-500 font-semibold">Biblio3W. Revista Bibliográfica de Geografía y Ciencias Sociales</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>González-Fuente, Iñigo y Salas Quintanal, Hernán</strong> (2019). “Plantar la Toscana en México. Comunidad-consumo, patrimonio franquicia y gentrificación rural”. <em>Biblio3W</em>, vol. XXIV, nº 1.272, pp. 1-25.
+        </p>
+      </div>
+      <a href="http://revistes.ub.edu/index.php/b3w/article/view/28439/29317" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Artículo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 14 (2019) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2019</span>
+          <span class="text-xs text-gray-500 font-semibold">Revista Euroamericana de Antropología</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>González-Fuente, Iñigo y Salas Quintanal, Hernán</strong> (2019). “La consumidad: vida cotidiana, consumo y espacio rural”. <em>Revista Euroamericana de Antropología</em>, n° 7, pp. 13-26.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN: 2387-1555</p>
+      </div>
+      <a href="http://revistas.usal.es/index.php/2387-1555/article/view/20127" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Artículo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 15 (2018) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2018</span>
+          <span class="text-xs text-gray-500 font-semibold">Revista Mexicana de Sociología</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>González-Fuente, Iñigo, Salas Quintanal, Hernán y Hernández Flores, Daniel</strong> (2018). “Jóvenes rurales y empleo en Tlaxcala, México: trayectorias inciertas”. <em>Revista Mexicana de Sociología</em>, vol. 80, n° 3, pp. 549-575.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN: 0188-2503</p>
+      </div>
+      <a href="http://revistamexicanadesociologia.unam.mx/index.php/rms/article/view/57737/51191" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Artículo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 16 (2017) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2017</span>
+          <span class="text-xs text-gray-500 font-semibold">Alteridades</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Velasco Santos, Paola</strong> (2017). “Deshilando etnográficamente la mezclilla: materialidad y entramados socioambientales paradójicos”. <em>Alteridades</em>.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN (P): 0188-7017, ISSN (E): 2448-850X</p>
+      </div>
+      <a href="https://www.scielo.org.mx/scielo.php?pid=S0188-70172017000200095&script=sci_abstract" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Artículo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 17 (2017) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2017</span>
+          <span class="text-xs text-gray-500 font-semibold">Revista San Gregorio</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Velasco Santos, Paola</strong> (2017). “Mezclilla, consumo y la configuración de los sujetos rurales neoliberales en Tlaxcala, México”. <em>Revista San Gregorio</em>, monográfico: “Del arado al smartphone: consumo, empleo, precariedad en el medio rural”.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN (P): 1390-7247, ISSN (E): 2528-7907</p>
+      </div>
+      <a href="https://revista.sangregorio.edu.ec/index.php/REVISTASANGREGORIO/article/view/397" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Artículo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 18 (2017) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2017</span>
+          <span class="text-xs text-gray-500 font-semibold">Revista San Gregorio</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Salas, Hernán y González de la Fuente, Iñigo</strong> (2017). “De la producción al consumo. La transformación de los sujetos rurales”. <em>Revista San Gregorio</em>, n° 18, pp. 6-19.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN: 2528-7907</p>
+      </div>
+      <a href="http://revista.sangregorio.edu.ec/index.php/REVISTASANGREGORIO/issue/view/14/showToc" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Revista</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 19 (2014) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2014</span>
+          <span class="text-xs text-gray-500 font-semibold">Revista Papeles de población</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Salas, Hernán y González de la Fuente, Iñigo</strong> (2014). “La reproducción de la pluriactividad laboral entre los jóvenes rurales en Tlaxcala, México”. <em>Papeles de población</em>, vol. 20, núm. 79, pp. 281-307.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN: 1405-7425</p>
+      </div>
+      <a href="http://www.redalyc.org/articulo.oa?id=11230198010" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Redalyc</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 20 (2013) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2013</span>
+          <span class="text-xs text-gray-500 font-semibold">Revista Márgenes</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Salas, Hernán y Velasco, Paola</strong> (2013). “Los rostros rurales de dominación en el neoliberalismo actual”. <em>Revista Márgenes</em>, vol. 10, n° 13, pp. 7-14.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN: 0718-4034 | eISSN: 0719-4463</p>
+      </div>
+      <a href="http://revistamargenes.weebly.com/uploads/1/1/1/8/11182415/salas-velasco_margenes_13_dic_2013.pdf" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver PDF</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 21 (2013) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2013</span>
+          <span class="text-xs text-gray-500 font-semibold">Revista Gazeta de Antropología</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Salas, Hernán y González de la Fuente, Iñigo</strong> (2013). “Nueva Ruralidad: procesos sociolaborales y desagrarización de una sociedad local en México (1980-2010)”. <em>Gazeta de Antropología</em>, 29 (2).
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN: 2340-2792 | DOI: 10.30827/Digibug.28504</p>
+      </div>
+      <a href="http://www.gazeta-antropologia.es/?p=4295" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver Artículo</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 22 (2012) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2012</span>
+          <span class="text-xs text-gray-500 font-semibold">Anthropological Notebooks</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>González de la Fuente, Iñigo y Salas, Hernán</strong> (2012). “Community Projects in the Era of Globalization: The Case of a Local Rural Society in Mexico”. <em>Anthropological Notebooks</em>, 18 (1): 41–64.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISSN: 1408-032X</p>
+      </div>
+      <a href="http://www.drustvo-antropologov.si/AN/PDF/2012_1/Anthropological_Notebooks_XVIII_1_delaFuente.pdf" target="_blank" rel="noopener noreferrer" class="shrink-0 bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Ver PDF</span> &rarr;
+      </a>
+    </div>
+
+    <!-- Artículo 23 (2009) -->
+    <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div class="space-y-1 max-w-4xl">
+        <div class="flex items-center gap-2">
+          <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2009</span>
+          <span class="text-xs text-gray-500 font-semibold">Cuadernos de Trabajo de Posgrado. Estudios Regionales</span>
+        </div>
+        <p class="text-gray-800 text-sm md:text-base leading-relaxed academic-text">
+          <strong>Velasco Santos, Paola</strong> (2009). “Formas actuales de ruralidad: el caso de la región sociocultural de Cholula, Puebla”. <em>Cuadernos de Trabajo de Posgrado. Estudios Regionales</em>.
+        </p>
+        <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-7613-25-1</p>
+      </div>
+      <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20art%C3%ADculo:%20Formas%20actuales%20de%20ruralidad" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
+        <span>Solicitar por correo</span> ✉
+      </a>
+    </div>
+
+  </div>
+</div>
 
     <!-- Subsección: VIDEOS DE CONFERENCIAS Y PONENCIAS -->
     <div class="bg-gray-50 p-6 rounded-xl border border-gray-200 shadow-sm mt-8 mb-8">
