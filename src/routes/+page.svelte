@@ -165,14 +165,29 @@
 <!-- Sección: Seminario Permanente de Antropología, Poder y Ruralidades -->
 <section id="seminario" class="py-16 bg-gray-50 border-b">
   <div class="max-w-6xl mx-auto px-6">
-    <!-- Encabezado y Descripción del Seminario -->
-    <div class="mb-12">
-      <div class="text-center mb-8">
-        <h2 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4 border-b-4 border-orange-500 pb-2 inline-block">
-          Seminario Permanente de Antropología, Poder y Ruralidades
-        </h2>
-      </div>
+    
+    <!-- Encabezado del Seminario -->
+    <div class="text-center mb-8">
+      <h2 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4 border-b-4 border-orange-500 pb-2 inline-block">
+        Seminario Permanente de Antropología, Poder y Ruralidades
+      </h2>
+    </div>
 
+    <!-- Foto de Portada / Banner de la Sección -->
+    <div class="relative w-full h-72 md:h-96 rounded-2xl overflow-hidden shadow-lg border border-gray-200 mb-10">
+      <img 
+        src="{base}/foto_seminario.jpg" 
+        alt="Vista aérea del territorio rural del Valle Tlaxcala-Puebla" 
+        class="w-full h-full object-cover"
+      />
+      <!-- Pie de foto superpuesto -->
+      <div class="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent p-4 text-white text-xs md:text-sm italic text-right">
+        Vista panorámica del territorio y paisajes rurales en el Valle Tlaxcala-Puebla.
+      </div>
+    </div>
+
+    <!-- Descripción del Seminario -->
+    <div class="mb-12">
       <div class="bg-white p-8 rounded-xl border border-gray-200 shadow-sm space-y-4 text-gray-700 academic-text leading-relaxed">
         <p>
           El seminario es un lugar de encuentro para estudiantes de licenciatura y posgrado, así como para investigadores interesados en temas rurales. Con una perspectiva multidisciplinaria desde la antropología, sociología, geografía y estudios interculturales, se abordan problemáticas del mundo rural como el debilitamiento de las actividades agrícolas, la múltiple ocupación en trabajos precarios y flexibles, la migración laboral; los embates ocasionados por el avance de la frontera agroindustrial, industrial o urbana, que traen aparejados constantes despojos territoriales (a través de la minería, la construcción de infraestructura hidráulica o eólica, la instalación de aeropuertos, la apertura de carreteras, por ejemplo).
@@ -184,7 +199,7 @@
           El interés del seminario es doble, ya que se ocupa de discutir tanto los procesos como el contexto en el que estas dinámicas toman forma y busca rastrear el papel que las relaciones desiguales de poder tienen en la construcción de los entramados sociales, políticos, económicos, ambientales y culturales. Es por eso que ponemos especial atención en discutir cómo estas problemáticas son experimentadas, negociadas, adaptadas o resistidas de múltiples y diversas maneras a nivel local.
         </p>
         <p>
-          Los miembros del seminario realizan trabajo de campo en diferentes localidades rurales. El seminario se ha organizado en 5 líneas temáticas generales:
+          Los miembros del seminario realizan trabajo de campo en diferentes localidades rurales. El seminario se ha organized en 5 líneas temáticas generales:
         </p>
 
         <!-- 5 Líneas Temáticas Generales -->
@@ -333,6 +348,10 @@
         </div>
 
       </div>
+    </div>
+
+  </div>
+</section>      </div>
     </div>
   </div>
 </section>
