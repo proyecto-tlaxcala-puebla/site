@@ -1221,7 +1221,7 @@
             <span>Ver Artículo</span> &rarr;
           </a>
         </div>
-        <!-- Artículo 22 (2012) -->
+      <!-- Artículo 22 (2012) -->
         <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
           <div class="space-y-1 max-w-4xl">
             <div class="flex items-center gap-2">
@@ -1255,9 +1255,8 @@
         </div>
       </div>
     </div>
-  </div>
-</section>
-<!-- Subsección: VIDEOS DE CONFERENCIAS Y PONENCIAS -->
+
+    <!-- SUBSECCIÓN 3: VIDEOS DE CONFERENCIAS Y PONENCIAS -->
     <div class="bg-gray-50 p-6 rounded-xl border border-gray-200 shadow-sm mt-8 mb-8">
       <h3 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-2 border-b pb-3">
         <span class="text-orange-600">🎥</span> Videos de Conferencias y Ponencias
@@ -1281,7 +1280,7 @@
             rel="noopener noreferrer"
             class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors pt-3 border-t border-gray-100"
           >
-            ▶️ Ver Conferencia en YouTube →
+            ▶️ Ver Conferencia en YouTube &rarr;
           </a>
         </div>
 
@@ -1301,7 +1300,7 @@
             rel="noopener noreferrer"
             class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors pt-3 border-t border-gray-100"
           >
-            ▶️ Ver Conferencia en YouTube →
+            ▶️ Ver Conferencia en YouTube &rarr;
           </a>
         </div>
 
@@ -1321,7 +1320,7 @@
             rel="noopener noreferrer"
             class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors pt-3 border-t border-gray-100"
           >
-            ▶️ Ver Conferencia en YouTube →
+            ▶️ Ver Conferencia en YouTube &rarr;
           </a>
         </div>
 
@@ -1341,7 +1340,7 @@
             rel="noopener noreferrer"
             class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors pt-3 border-t border-gray-100"
           >
-            ▶️ Ver Conferencia en YouTube →
+            ▶️ Ver Conferencia en YouTube &rarr;
           </a>
         </div>
 
@@ -1361,26 +1360,26 @@
             rel="noopener noreferrer"
             class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors pt-3 border-t border-gray-100"
           >
-            ▶️ Ver Conferencia en YouTube →
+            ▶️ Ver Conferencia en YouTube &rarr;
           </a>
         </div>
 
       </div>
     </div>
 
-    <!-- Subsección: PLÁTICAS Y TALLERES -->
+    <!-- SUBSECCIÓN 4: PLÁTICAS Y TALLERES -->
     <div class="bg-gray-50/60 p-6 rounded-xl border-2 border-dashed border-gray-300 mb-8">
       <h4 class="font-bold text-gray-800 mb-2 flex items-center gap-2">
-        <span>🗣️️</span> Pláticas y Talleres
+        <span>🗣️</span> Pláticas y Talleres
       </h4>
       <p class="text-gray-500 text-xs leading-relaxed mb-3">
-        Lista de charlas de divulgación, talleres y eventos de comunicación social impartidos en comunidades e instituciones.
+        Lista de charlas de divulgación, talleres y eventos de comunicación social impartidos en localidades e instituciones.
       </p>
       <span class="text-xs text-orange-600 font-medium italic">Próximamente registros</span>
     </div>
+
   </div>
 </section>
-
 <!-- Sección: Acervo -->
 <section id="acervo" class="py-16 bg-white border-b">
   <div class="max-w-6xl mx-auto px-6">
