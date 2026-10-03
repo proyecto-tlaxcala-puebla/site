@@ -1262,35 +1262,147 @@
       </span>
     </div>
     
-    <!-- Ficha de la Monografía: San Rafael Ixtapalucan -->
-    <div class="bg-gray-50 p-5 rounded-lg border border-gray-200 flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-      <div class="space-y-2 max-w-4xl">
-        <div class="flex items-center gap-2">
-          <span class="bg-orange-600 text-white text-xs font-bold px-2.5 py-0.5 rounded">PDF</span>
-          <span class="text-xs font-bold text-gray-700">Tlahuapan, Puebla</span>
+<!-- 1. Monografías y Cuadernillos Comunitarios (Pasa a abarcar todo el ancho) -->
+    <div class="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col justify-between mb-8">
+      <div>
+        <div class="flex items-center justify-between mb-4 border-b pb-3">
+          <h3 class="text-2xl font-bold text-gray-800 flex items-center gap-2">
+            <span class="text-orange-600">📖</span> Monografías y Cuadernillos Comunitarios
+          </h3>
+          <span class="text-xs bg-orange-100 text-orange-800 font-semibold px-3 py-1 rounded-full">
+            Publicaciones 2025
+          </span>
         </div>
-        <h4 class="text-lg font-bold text-gray-800 leading-tight">
-          San Rafael Ixtapalucan, Municipio de Tlahuapan, Estado de Puebla
-        </h4>
-        <p class="text-xs text-gray-600 leading-relaxed">
-          <strong>Elaborado por:</strong> Paola Velasco Santos, Hernán Salas Quintanal, Celia López Miguel y Leonor Alejandra González Nava (2025).
-        </p>
-        <p class="text-xs text-gray-500 leading-relaxed italic">
-          Estudio monográfico sobre la historia socioambiental, bosques, ejidos, gestión del agua, industria del calcetín y patrimonio de la población. (Proyectos CONAHCYT 318959 y 318962; PAPIIT-UNAM IN303322).
-        </p>
-      </div>
 
-      <a 
-        href="{base}/documentos/san_rafael_cuad.pdf" 
-        target="_blank" 
-        rel="noopener noreferrer" 
-        class="shrink-0 bg-orange-600 hover:bg-orange-700 text-white text-xs font-bold px-5 py-3 rounded-lg transition-colors flex items-center gap-2 shadow-sm"
-      >
-        📄 Descargar Monografía (PDF)
-      </a>
+        <p class="text-gray-600 text-xs md:text-sm mb-6 leading-relaxed">
+          <strong>Elaborados por:</strong> Paola Velasco Santos, Hernán Salas Quintanal, Celia López Miguel y Leonor Alejandra González Nava (IIA-UNAM, Proyectos CONAHCYT 318959, 318962 y PAPIIT-UNAM IN303322).
+        </p>
+
+        <!-- Grilla de los 7 Cuadernillos -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+
+          <!-- 1. San Rafael Ixtapalucan -->
+          <div class="bg-gray-50 p-4 rounded-lg border border-gray-200 flex flex-col justify-between">
+            <div>
+              <span class="bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded">Tlahuapan, Puebla</span>
+              <h4 class="text-sm font-bold text-gray-800 mt-2 mb-1">San Rafael Ixtapalucan</h4>
+              <p class="text-xs text-gray-500 mb-3">Historia socioambiental, bosques, ejidos, gestión del agua y producción de calcetín.</p>
+            </div>
+            <a 
+              href="{base}/documentos/san_rafael_cuad.pdf" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              class="bg-orange-600 hover:bg-orange-700 text-white text-xs font-bold px-3 py-2 rounded transition-colors text-center shadow-sm"
+            >
+              📄 Descargar PDF
+            </a>
+          </div>
+
+          <!-- 2. Santa María Tepetzala -->
+          <div class="bg-gray-50 p-4 rounded-lg border border-gray-200 flex flex-col justify-between">
+            <div>
+              <span class="bg-orange-600 text-white text-[10px] font-bold px-2 py-0.5 rounded">Atlangatepec, Tlaxcala</span>
+              <h4 class="text-sm font-bold text-gray-800 mt-2 mb-1">Santa María Tepetzala</h4>
+              <p class="text-xs text-gray-500 mb-3">Historia social, vida actual, patrimonio y cartografía comunitaria.</p>
+            </div>
+            <a 
+              href="{base}/documentos/cuadernillo_santa_maria_tepetzala.pdf" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              class="bg-orange-600 hover:bg-orange-700 text-white text-xs font-bold px-3 py-2 rounded transition-colors text-center shadow-sm"
+            >
+              📄 Descargar PDF
+            </a>
+          </div>
+
+          <!-- 3. San Pedro Ecatepec -->
+          <div class="bg-gray-50 p-4 rounded-lg border border-gray-200 flex flex-col justify-between">
+            <div>
+              <span class="bg-orange-600 text-white text-[10px] font-bold px-2 py-0.5 rounded">Atlangatepec, Tlaxcala</span>
+              <h4 class="text-sm font-bold text-gray-800 mt-2 mb-1">San Pedro Ecatepec</h4>
+              <p class="text-xs text-gray-500 mb-3">Luchas por la tierra, haciendas, jaguarismo y transformaciones rurales.</p>
+            </div>
+            <a 
+              href="{base}/documentos/cuadernillo_san_pedro_ecatepec.pdf" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              class="bg-orange-600 hover:bg-orange-700 text-white text-xs font-bold px-3 py-2 rounded transition-colors text-center shadow-sm"
+            >
+              📄 Descargar PDF
+            </a>
+          </div>
+
+          <!-- 4. Santa Rita Tlahuapan -->
+          <div class="bg-gray-50 p-4 rounded-lg border border-gray-200 flex flex-col justify-between">
+            <div>
+              <span class="bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded">Tlahuapan, Puebla</span>
+              <h4 class="text-sm font-bold text-gray-800 mt-2 mb-1">Santa Rita Tlahuapan</h4>
+              <p class="text-xs text-gray-500 mb-3">Bosques de la Sierra Nevada, agua, ameyales, ecoturismo y luciérnagas.</p>
+            </div>
+            <a 
+              href="{base}/documentos/cuadernillo_santa_rita_tlahuapan.pdf" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              class="bg-amber-600 hover:bg-amber-700 text-white text-xs font-bold px-3 py-2 rounded transition-colors text-center shadow-sm"
+            >
+              📄 Descargar PDF
+            </a>
+          </div>
+
+          <!-- 5. Villa de las Flores -->
+          <div class="bg-gray-50 p-4 rounded-lg border border-gray-200 flex flex-col justify-between">
+            <div>
+              <span class="bg-orange-600 text-white text-[10px] font-bold px-2 py-0.5 rounded">Atlangatepec, Tlaxcala</span>
+              <h4 class="text-sm font-bold text-gray-800 mt-2 mb-1">Villa de las Flores</h4>
+              <p class="text-xs text-gray-500 mb-3">Historia habitacional, rellenos sanitarios, reciclaje e industrias.</p>
+            </div>
+            <a 
+              href="{base}/documentos/cuadernillo_villa_de_las_flores.pdf" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              class="bg-orange-600 hover:bg-orange-700 text-white text-xs font-bold px-3 py-2 rounded transition-colors text-center shadow-sm"
+            >
+              📄 Descargar PDF
+            </a>
+          </div>
+
+          <!-- 6. Santa Ana Nopalucan -->
+          <div class="bg-gray-50 p-4 rounded-lg border border-gray-200 flex flex-col justify-between">
+            <div>
+              <span class="bg-orange-600 text-white text-[10px] font-bold px-2 py-0.5 rounded">Nopalucan, Tlaxcala</span>
+              <h4 class="text-sm font-bold text-gray-800 mt-2 mb-1">Santa Ana Nopalucan</h4>
+              <p class="text-xs text-gray-500 mb-3">Pasado lacustre, Laguna del Rosario, chinampas y feria de la quesadilla.</p>
+            </div>
+            <a 
+              href="{base}/documentos/cuadernillo_santa_ana_nopalucan.pdf" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              class="bg-orange-600 hover:bg-orange-700 text-white text-xs font-bold px-3 py-2 rounded transition-colors text-center shadow-sm"
+            >
+              📄 Descargar PDF
+            </a>
+          </div>
+
+          <!-- 7. San Luis Apizaquito -->
+          <div class="bg-gray-50 p-4 rounded-lg border border-gray-200 flex flex-col justify-between">
+            <div>
+              <span class="bg-orange-600 text-white text-[10px] font-bold px-2 py-0.5 rounded">Apizaco, Tlaxcala</span>
+              <h4 class="text-sm font-bold text-gray-800 mt-2 mb-1">San Luis Apizaquito</h4>
+              <p class="text-xs text-gray-500 mb-3">Historia textil, Laguna del Ojito, patrimonio industrial y manantiales.</p>
+            </div>
+            <a 
+              href="{base}/documentos/cuadernillo_san_luis_apizaquito.pdf" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              class="bg-orange-600 hover:bg-orange-700 text-white text-xs font-bold px-3 py-2 rounded transition-colors text-center shadow-sm"
+            >
+              📄 Descargar PDF
+            </a>
+          </div>
+
+        </div>
+      </div>
     </div>
-  </div>
-</div>
 
       <!-- 2. Carteles -->
       <div class="bg-white p-6 rounded-xl border-2 border-dashed border-gray-300 shadow-sm flex flex-col justify-between">
