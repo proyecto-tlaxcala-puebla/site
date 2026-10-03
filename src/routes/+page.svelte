@@ -1052,17 +1052,116 @@
       </div>
     </div>
 
-    <!-- SUBSECCIÓN 3: VIDEOS, PLÁTICAS Y GALERÍA DE CARTELES -->
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 pt-4 mb-10">
-      <div class="bg-gray-50/60 p-6 rounded-xl border-2 border-dashed border-gray-300">
-        <h4 class="font-bold text-gray-800 mb-2 flex items-center gap-2">
-          <span>🎥</span> Videos de Conferencias
+    <!-- Subsección: VIDEOS DE CONFERENCIAS -->
+<div class="bg-gray-50 p-6 rounded-xl border border-gray-200 shadow-sm mt-8">
+  <h3 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-2 border-b pb-3">
+    <span class="text-orange-600">🎥</span> Videos de Conferencias y Ponencias
+  </h3>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+    
+    <!-- Video 1 -->
+    <div class="bg-white p-5 rounded-lg border border-gray-200 shadow-sm flex flex-col justify-between">
+      <div>
+        <h4 class="font-bold text-gray-800 text-base mb-2">
+          Gestión comunitaria e hidropolítica en el Valle Tlaxcala-Puebla
         </h4>
-        <p class="text-gray-500 text-xs leading-relaxed mb-3">
-          Aquí se incrustarán los enlaces a YouTube de ponencias y conferencias grabadas.
+        <p class="text-gray-600 text-xs leading-relaxed mb-4">
+          Análisis sobre las dinámicas de organización colectiva, gestión asociativa del agua potable y respuestas comunitarias ante la contaminación e hidropolítica en la región.
         </p>
-        <span class="text-xs text-orange-600 font-medium italic">Próximamente enlaces</span>
       </div>
+      <a 
+        href="https://www.youtube.com/watch?v=WniosHPojIM&t=2820s" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors pt-3 border-t border-gray-100"
+      >
+        ▶️ Ver Conferencia en YouTube →
+      </a>
+    </div>
+
+    <!-- Video 2 -->
+    <div class="bg-white p-5 rounded-lg border border-gray-200 shadow-sm flex flex-col justify-between">
+      <div>
+        <h4 class="font-bold text-gray-800 text-base mb-2">
+          Transformaciones rurales, precariedad y modos de vida contemporáneos
+        </h4>
+        <p class="text-gray-600 text-xs leading-relaxed mb-4">
+          Discusión sobre los cambios socioeconómicos, trabajo precario, fragmentación territorial y resiliencia rural en el centro de México.
+        </p>
+      </div>
+      <a 
+        href="https://www.youtube.com/watch?v=IcZ5EnMlNGQ&t=5180s" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors pt-3 border-t border-gray-100"
+      >
+        ▶️ Ver Conferencia en YouTube →
+      </a>
+    </div>
+
+    <!-- Video 3 -->
+    <div class="bg-white p-5 rounded-lg border border-gray-200 shadow-sm flex flex-col justify-between">
+      <div>
+        <h4 class="font-bold text-gray-800 text-base mb-2">
+          Ecoturismo, conservación y producción social de la naturaleza
+        </h4>
+        <p class="text-gray-600 text-xs leading-relaxed mb-4">
+          Exploración de cómo las áreas protegidas y el ecoturismo transforman las economías locales y la organización comunitaria en Tlaxcala y Puebla.
+        </p>
+      </div>
+      <a 
+        href="https://www.youtube.com/watch?v=skFIO2OARAA&t=35s" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors pt-3 border-t border-gray-100"
+      >
+        ▶️ Ver Conferencia en YouTube →
+      </a>
+    </div>
+
+    <!-- Video 4 -->
+    <div class="bg-white p-5 rounded-lg border border-gray-200 shadow-sm flex flex-col justify-between">
+      <div>
+        <h4 class="font-bold text-gray-800 text-base mb-2">
+          Riesgo socioambiental y monitoreo comunitario en la Cuenca Atoyac-Zahuapan
+        </h4>
+        <p class="text-gray-600 text-xs leading-relaxed mb-4">
+          Presentación de resultados e investigación-acción sobre percepción de toxicidad, riesgo y salud en comunidades afectadas por contaminación hídrica.
+        </p>
+      </div>
+      <a 
+        href="https://www.youtube.com/watch?v=7qigfOTzd6k&t=109s" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors pt-3 border-t border-gray-100"
+      >
+        ▶️ Ver Conferencia en YouTube →
+      </a>
+    </div>
+
+    <!-- Video 5 -->
+    <div class="bg-white p-5 rounded-lg border border-gray-200 shadow-sm flex flex-col justify-between">
+      <div>
+        <h4 class="font-bold text-gray-800 text-base mb-2">
+          Antropología de las ruralidades: memoria, territorio y resistencias
+        </h4>
+        <p class="text-gray-600 text-xs leading-relaxed mb-4">
+          Reflexión etnográfica sobre la defensa de la vida, el agua y la memoria histórica frente a procesos de despojo en los territorios rurales.
+        </p>
+      </div>
+      <a 
+        href="https://www.youtube.com/watch?v=fhH8aQ-7AQU&t=271s" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors pt-3 border-t border-gray-100"
+      >
+        ▶️ Ver Conferencia en YouTube →
+      </a>
+    </div>
+
+  </div>
+</div>
 
       <div class="bg-gray-50/60 p-6 rounded-xl border-2 border-dashed border-gray-300 md:col-span-2">
         <h4 class="font-bold text-gray-800 mb-2 flex items-center gap-2">
