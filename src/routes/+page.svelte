@@ -589,10 +589,8 @@
   <h3 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-2 border-b pb-2">
     <span class="text-orange-600">📚</span> Libros y Capítulos de Libro
   </h3>
-
   <!-- Contenedor de Libros y Capítulos -->
   <div class="space-y-4">
-
     <!-- LIBROS -->
     <!-- Libro 1 (2025) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
@@ -610,7 +608,6 @@
         <span>Ver Libro</span> &rarr;
       </a>
     </div>
-
     <!-- Libro 2 (2017) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -627,7 +624,6 @@
         <span>Ver Libro</span> &rarr;
       </a>
     </div>
-
     <!-- Libro 3 (2014) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -644,7 +640,6 @@
         <span>Ver Publicación</span> &rarr;
       </a>
     </div>
-
     <!-- Libro 4 (2011) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -661,7 +656,6 @@
         <span>Ver Publicación</span> &rarr;
       </a>
     </div>
-
     <!-- CAPÍTULOS DE LIBRO -->
     <!-- Capítulo 1 (2025) -->
     <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
@@ -679,7 +673,6 @@
         <span>Ver Capítulo</span> &rarr;
       </a>
     </div>
-
     <!-- Capítulo 2 (2025) -->
     <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -696,7 +689,6 @@
         <span>Ver PDF</span> &rarr;
       </a>
     </div>
-
     <!-- Capítulo 3 (2025) -->
     <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -710,10 +702,9 @@
         <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-8273-87-4</p>
       </div>
       <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20cap%C3%ADtulo:%20Historia%20socioambiental%20de%20la%20Cuenca%20Alta%20del%20Atoyac-Zahuapan" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-        <span>Solicitar por correo</span> ✉
+        <span>Pedir por correo</span> ✉
       </a>
     </div>
-
     <!-- Capítulo 4 (2023) -->
     <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -730,7 +721,6 @@
         <span>Ver PDF</span> &rarr;
       </a>
     </div>
-
     <!-- Capítulo 5 (2021) -->
     <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -747,7 +737,6 @@
         <span>Ver Capítulo</span> &rarr;
       </a>
     </div>
-
     <!-- Capítulo 6 (2021) -->
     <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -764,7 +753,6 @@
         <span>Ver Capítulo</span> &rarr;
       </a>
     </div>
-
     <!-- Capítulo 7 (2021) -->
     <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -778,10 +766,9 @@
         <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-30-5237-5</p>
       </div>
       <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20cap%C3%ADtulo:%20Reacomodos%20del%20grupo%20dom%C3%A9stico%20rural" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-        <span>Solicitar por correo</span> ✉
+        <span>Pedir por correo</span> ✉
       </a>
     </div>
-
     <!-- Capítulo 8 (2018) -->
     <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -795,10 +782,9 @@
         <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-30-0464-0</p>
       </div>
       <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20cap%C3%ADtulo:%20Trabajo%20y%20educaci%C3%B3n:%20ser%20j%C3%B3venes%20en%20Tepetitla" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-        <span>Solicitar por correo</span> ✉
+        <span>Pedir por correo</span> ✉
       </a>
     </div>
-
     <!-- Capítulo 9 (2015) -->
     <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -812,10 +798,9 @@
         <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-487-910-0</p>
       </div>
       <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20cap%C3%ADtulo:%20Las%20fiestas%20patronales%20en%20los%20espacios%20rurales%20actuales" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-        <span>Solicitar por correo</span> ✉
+        <span>Pedir por correo</span> ✉
       </a>
     </div>
-
     <!-- Capítulo 10 (2015) -->
     <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -828,10 +813,9 @@
         </p>
       </div>
       <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20art%C3%ADculo:%20El%20mercado%20del%20M%C3%A9xico-M%C3%A1gico" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-        <span>Solicitar por correo</span> ✉
+        <span>Pedir por correo</span> ✉
       </a>
     </div>
-
     <!-- Capítulo 11 (2014) -->
     <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -848,7 +832,6 @@
         <span>Ver Capítulo</span> &rarr;
       </a>
     </div>
-
     <!-- Capítulo 12 (2013) -->
     <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -862,10 +845,9 @@
         <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-02-4993-8</p>
       </div>
       <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20cap%C3%ADtulo:%20Paisaje%20cultural%20y%20pertenencia%20socioterritorial" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-        <span>Solicitar por correo</span> ✉
+        <span>Pedir por correo</span> ✉
       </a>
     </div>
-
     <!-- Capítulo 13 (2012) -->
     <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -879,10 +861,9 @@
         <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-487-455-6</p>
       </div>
       <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20cap%C3%ADtulo:%20Nueva%20ruralidad%20y%20ecolog%C3%ADa%20pol%C3%ADtica" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-        <span>Solicitar por correo</span> ✉
+        <span>Pedir por correo</span> ✉
       </a>
     </div>
-
     <!-- Capítulo 14 (2011) -->
     <div class="p-5 bg-gray-50/70 rounded-xl border border-gray-200 shadow-sm flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -896,21 +877,17 @@
         <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-02-2393-8</p>
       </div>
       <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20cap%C3%ADtulo:%20Cambios,%20reacomodos%20y%20permanencias%20en%20San%20Andr%C3%A9s%20Cholula" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-        <span>Solicitar por correo</span> ✉
+        <span>Pedir por correo</span> ✉
       </a>
     </div>
-
   </div>
 </div>
-
 <!-- SUBSECCIÓN 2: ARTÍCULOS ACADÉMICOS -->
 <div class="mb-14">
   <h3 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-2 border-b pb-2">
     <span class="text-teal-700">📄</span> Artículos Académicos
   </h3>
-
   <div class="space-y-4">
-
     <!-- Artículo 1 (2026) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -927,7 +904,6 @@
         <span>Ver Artículo</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 2 (2024) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -944,7 +920,6 @@
         <span>Ver DOI</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 3 (2024) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -961,7 +936,6 @@
         <span>Ver Artículo</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 4 (2023) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -978,7 +952,6 @@
         <span>Ver DOI</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 5 (2022) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -995,7 +968,6 @@
         <span>Ver Artículo</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 6 (2022) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1011,7 +983,6 @@
         <span>Ver Boletín</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 7 (2022) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1028,7 +999,6 @@
         <span>Ver Artículo</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 8 (2021) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1045,7 +1015,6 @@
         <span>Ver Artículo</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 9 (2021) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1061,7 +1030,6 @@
         <span>Ver DOI</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 10 (2021) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1078,7 +1046,6 @@
         <span>Ver Artículo</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 11 (2020) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1095,7 +1062,6 @@
         <span>Ver Artículo</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 12 (2020) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1111,7 +1077,6 @@
         <span>Ver Artículo</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 13 (2019) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1127,7 +1092,6 @@
         <span>Ver Artículo</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 14 (2019) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1144,7 +1108,6 @@
         <span>Ver Artículo</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 15 (2018) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1161,7 +1124,6 @@
         <span>Ver Artículo</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 16 (2017) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1178,7 +1140,6 @@
         <span>Ver Artículo</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 17 (2017) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1195,7 +1156,6 @@
         <span>Ver Artículo</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 18 (2017) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1212,7 +1172,6 @@
         <span>Ver Revista</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 19 (2014) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1229,7 +1188,6 @@
         <span>Ver Redalyc</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 20 (2013) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1246,7 +1204,6 @@
         <span>Ver PDF</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 21 (2013) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1263,7 +1220,6 @@
         <span>Ver Artículo</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 22 (2012) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1280,7 +1236,6 @@
         <span>Ver PDF</span> &rarr;
       </a>
     </div>
-
     <!-- Artículo 23 (2009) -->
     <div class="p-5 bg-gray-50 rounded-xl border border-gray-200 shadow-sm flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div class="space-y-1 max-w-4xl">
@@ -1294,11 +1249,11 @@
         <p class="text-xs text-gray-500 font-mono">ISBN: 978-607-7613-25-1</p>
       </div>
       <a href="mailto:contacto@ejemplo.com?subject=Solicitud%20de%20art%C3%ADculo:%20Formas%20actuales%20de%20ruralidad" class="shrink-0 bg-gray-200 hover:bg-gray-300 text-gray-700 text-xs font-bold px-4 py-2.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm">
-        <span>Solicitar por correo</span> ✉
+        <span>Pedir por correo</span> ✉
       </a>
     </div>
-
   </div>
+</div>
 </div>
 
     <!-- Subsección: VIDEOS DE CONFERENCIAS Y PONENCIAS -->
