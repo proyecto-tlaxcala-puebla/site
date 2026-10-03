@@ -351,10 +351,8 @@
     </div>
 
   </div>
-</section>      </div>
-    </div>
-  </div>
 </section>
+
 <!-- Sección: Investigación -->
 <section id="research" class="py-16 bg-white border-b">
   <div class="max-w-6xl mx-auto px-6">
