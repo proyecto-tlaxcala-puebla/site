@@ -216,69 +216,71 @@
 </div>
 
     <!-- Alejandra González Nava -->
-    <div class="mb-16 bg-white rounded-xl shadow-lg overflow-hidden">
-      <div class="md:flex">
-        <div class="md:w-1/4 bg-gradient-to-br from-red-50 to-red-100 p-8 flex flex-col items-center justify-center">
-          <div class="w-40 h-40 bg-red-200 rounded-full mb-4 flex items-center justify-center overflow-hidden">
-            <img src="{base}/team/alejandra-gonzalez.jpg" alt="Alejandra González Nava" class="w-full h-full object-cover" 
-                 on:error={handleImageError}>
-            <div class="w-full h-full bg-red-300 flex items-center justify-center text-4xl font-bold text-red-700" style="display: none;">
-              AG
-            </div>
-          </div>
-          <div class="text-center">
-            <h2 class="text-2xl font-bold text-red-800 mb-2">Leonor Alejandra González Nava</h2>
-            <p class="text-sm font-medium text-red-600 institution">Doctora en Antropología - UNAM</p>
-          </div>
+<div class="mb-16 bg-white rounded-xl shadow-lg overflow-hidden">
+  <div class="md:flex">
+    <div class="md:w-1/4 bg-gradient-to-br from-red-50 to-red-100 p-8 flex flex-col items-center justify-center">
+      <div class="w-40 h-40 bg-red-200 rounded-full mb-4 flex items-center justify-center overflow-hidden">
+        <img src="{base}/team/alejandra-gonzalez.jpg" alt="Leonor Alejandra González Nava" class="w-full h-full object-cover" 
+             on:error={handleImageError}>
+        <div class="w-full h-full bg-red-300 flex items-center justify-center text-4xl font-bold text-red-700" style="display: none;">
+          AG
         </div>
-        <div class="md:w-3/4 p-8">
-          <div class="prose prose-sm max-w-none">
-            <div class="mb-6">
-              <h3 class="text-lg font-semibold text-gray-800 mb-3 border-b-2 border-red-200 pb-1">Biografía Académica</h3>
-              <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                Leonor Alejandra González Nava es doctora en Antropología por la Universidad Nacional Autónoma de México (UNAM), donde también obtuvo su maestría en Antropología. Asimismo, es licenciada en Desarrollo y Gestión Interculturales por la Facultad de Filosofía y Letras de la UNAM. Su trabajo de investigación se centra en la ecología política, los enredos socioambientales, las transformaciones rurales y la gestión del patrimonio cultural.
-              </p>
-              <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                Con una trayectoria académica de más de nueve años como profesora de asignatura en la UNAM, ha impartido cursos en la Facultad de Filosofía y Letras y en la Facultad de Ciencias Políticas y Sociales, abordando temas como turismo y patrimonio cultural, ética y práctica antropológica, construcción de identidades y diversidad cultural.
-              </p>
-              <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                Ha participado en proyectos colectivos de investigación desde 2013 y ha trabajado como coordinadora de becarios de investigación sociocultural en el Proyecto Emigra de la Universidad de Arizona. También ha colaborado en estudios de investigación social para empresas y organismos de mercado.
-              </p>
-              <p class="text-gray-700 text-sm leading-relaxed">
-                Entre sus publicaciones destaca un artículo en coautoría llamado "La luz del ecoturismo: la producción social de las luciérnagas y las trampas de la fe neoliberal" (2023), donde se analiza la intersección entre ecoturismo y conservación ambiental en contextos rurales. Asimismo, ha coordinado mesas de discusión y eventos académicos sobre antropología y problemáticas socioambientales en foros nacionales e internacionales.
-              </p>
-            </div>
+      </div>
+      <div class="text-center">
+        <h2 class="text-2xl font-bold text-red-800 mb-2">Leonor Alejandra González Nava</h2>
+        <p class="text-sm font-medium text-red-600 institution">Doctora en Antropología - UNAM</p>
+      </div>
+    </div>
+    <div class="md:w-3/4 p-8">
+      <div class="prose prose-sm max-w-none">
+        <div class="mb-6">
+          <h3 class="text-lg font-semibold text-gray-800 mb-3 border-b-2 border-red-200 pb-1">Biografía Académica</h3>
+          <p class="text-gray-700 text-sm leading-relaxed mb-4">
+            Leonor Alejandra González Nava es antropóloga social y gestora intercultural egresada de la Universidad Nacional Autónoma de México (UNAM), institución en la que ha cursado la totalidad de su formación académica. Es licenciada en Desarrollo y Gestión Interculturales y maestra en Antropología, ambos grados obtenidos con mención honorífica. Recientemente concluyó el Doctorado en Antropología, también con mención honorífica, con la investigación <em>"A la luz de las luciérnagas: los enredos socioambientales en Tlahuapan, Puebla"</em>.
+          </p>
+          <p class="text-gray-700 text-sm leading-relaxed mb-4">
+            Su trabajo se inscribe en la ecología política y los estudios rurales contemporáneos, los "enredos socioambientales" que emergen entre comunidades y procesos de conservación neoliberal, estudios críticos del patrimonio y las disputas en torno al patrimonio cultural. Desde 2013 ha participado en distintos proyectos PAPIIT-DGAPA y más recientemente en proyectos PRONACES-CONACYT, centrados en la cuenca Atoyac-Zahuapan y en las transformaciones de las ruralidades en el Valle Puebla-Tlaxcala.
+          </p>
+          <p class="text-gray-700 text-sm leading-relaxed mb-4">
+            Desde 2022 participa como investigadora en el proyecto internacional EMIGRA (Gobernanza Sustentable e Inequitativa de Especies Migratorias), financiado por la National Science Foundation de Estados Unidos, y desde 2025 coordinó el Programa de Becarios de Conservación Comunitaria de dicho proyecto.
+          </p>
+          <p class="text-gray-700 text-sm leading-relaxed mb-4">
+            Con más de once años de experiencia docente, ha sido profesora de asignatura en la Facultad de Filosofía y Letras y en la Facultad de Ciencias Políticas y Sociales de la UNAM. Ha dirigido trabajos de titulación de licenciatura y actualmente se desempeña como Secretaria Académica del Centro de Estudios Antropológicos de la Facultad de Ciencias Políticas y Sociales.
+          </p>
+          <p class="text-gray-700 text-sm leading-relaxed">
+            Es autora del capítulo "Enredos" en el libro colectivo <em>Glosario etnográfico de las ruralidades mexicanas</em> (UNAM, 2025), así como coautora de artículos publicados en <em>Anales de Antropología</em> y en la <em>Revista Mexicana de Sociología</em>, este último reconocido con mención honorífica por dicha revista.
+          </p>
+        </div>
+        
+        <div class="grid md:grid-cols-2 gap-6 border-t border-gray-100 pt-6">
+          <div>
+            <h4 class="font-semibold text-gray-800 mb-2">Especialidades</h4>
+            <ul class="text-sm text-gray-600 space-y-1">
+              <li>• Ecología política</li>
+              <li>• Enredos socioambientales</li>
+              <li>• Transformaciones rurales contemporáneas</li>
+              <li>• Enfoques críticos del Patrimonio cultural</li>
+            </ul>
+          </div>
+          
+          <div>
+            <h4 class="font-semibold text-gray-800 mb-2">Experiencia Académica</h4>
+            <ul class="text-sm text-gray-600 space-y-1 mb-4">
+              <li>• +11 años como profesora de asignatura UNAM</li>
+              <li>• Coordinadora de becarios - Proyecto Emigra (U. Arizona / NSF)</li>
+              <li>• Investigación etnográfica</li>
+            </ul>
             
-            <div class="grid md:grid-cols-2 gap-6">
-              <div>
-                <h4 class="font-semibold text-gray-800 mb-2">Especialidades</h4>
-                <ul class="text-sm text-gray-600 space-y-1">
-                  <li>• Ecología política</li>
-                  <li>• Enredos socioambientales</li>
-                  <li>• Etnografías multiespecie</li>
-                  <li>• Gestión del patrimonio cultural</li>
-                  <li>• Turismo y conservación ambiental</li>
-                </ul>
-              </div>
-              
-              <div>
-                <h4 class="font-semibold text-gray-800 mb-2">Experiencia Académica</h4>
-                <ul class="text-sm text-gray-600 space-y-1 mb-4">
-                  <li>• +9 años como profesora de asignatura UNAM</li>
-                  <li>• Coordinadora de becarios - Proyecto Emigra (U. Arizona)</li>
-                  <li>• Investigación social aplicada</li>
-                </ul>
-                
-                <h4 class="font-semibold text-gray-800 mb-2">Contribución al Proyecto</h4>
-                <p class="text-sm text-gray-600 leading-relaxed">
-                  Estudia las relaciones entre turismo, conservación ambiental y economía rural en la región, aportando su experiencia en ecoturismo de luciérnagas y análisis crítico de políticas neoliberales.
-                </p>
-              </div>
-            </div>
+            <h4 class="font-semibold text-gray-800 mb-2">Contribución al Proyecto</h4>
+            <p class="text-sm text-gray-600 leading-relaxed">
+              Estudia los enredos socioambientales y transformaciones rurales en la región de estudio. Experiencia en el estudio de las relaciones entre turismo de luciérnagas y conservación neoliberal. Registro y análisis etnográfico de prácticas sociales, culturales y económicas de la región, así como las tensiones y disputas por bienes simbólico-materiales.
+            </p>
           </div>
         </div>
       </div>
     </div>
+  </div>
+</div>
 
     <!-- Rita Margarita Jiménez Sánchez -->
     <div class="mb-16 bg-white rounded-xl shadow-lg overflow-hidden">
