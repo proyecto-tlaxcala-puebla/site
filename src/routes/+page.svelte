@@ -362,219 +362,147 @@
       </h2>
       <p class="text-gray-600 max-w-3xl mx-auto text-sm md:text-base">
         Proyectos vigentes y concluidos en la región Tlaxcala-Puebla.
+      </p>
     </div>
 
     <!-- Grilla de Tarjetas / 9 Proyectos de Investigación -->
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 
       <!-- Proyecto 1 (2026-2028) -->
-      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow flex flex-col justify-between overflow-hidden">
-        <div class="p-6">
-          <div class="flex items-center gap-2 mb-3">
-            <span class="bg-orange-100 text-orange-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2026 - 2028</span>
-            <span class="text-[11px] bg-emerald-100 text-emerald-800 font-semibold px-2 py-0.5 rounded">PAPIIT IN300426</span>
-          </div>
-          <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
-            Estudio de la organización colectiva del agua potable en pueblos rurales del Valle Tlaxcala-Puebla
-          </h3>
-          <p class="text-gray-500 text-xs leading-relaxed">
-            Instituto de Investigaciones Antropológicas UNAM, financiamiento PAPIIT-DGAPA.
-          </p>
+      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow overflow-hidden p-6">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="bg-orange-100 text-orange-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2026 - 2028</span>
+          <span class="text-[11px] bg-emerald-100 text-emerald-800 font-semibold px-2 py-0.5 rounded">PAPIIT IN300426</span>
         </div>
-        <div class="px-6 py-3 bg-gray-100 border-t border-gray-200 flex items-center justify-between">
-          <span class="text-[11px] font-semibold text-gray-500">Recursos y material</span>
-          <a href="#acervo" class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors">
-            Próximamente &rarr;
-          </a>
-        </div>
+        <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
+          Estudio de la organización colectiva del agua potable en pueblos rurales del Valle Tlaxcala-Puebla
+        </h3>
+        <p class="text-gray-500 text-xs leading-relaxed">
+          Instituto de Investigaciones Antropológicas UNAM, financiamiento PAPIIT-DGAPA.
+        </p>
       </div>
 
       <!-- Proyecto 2 (2025-2027) -->
-      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow flex flex-col justify-between overflow-hidden">
-        <div class="p-6">
-          <div class="flex items-center gap-2 mb-3">
-            <span class="bg-orange-100 text-orange-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2025 - 2027</span>
-            <span class="text-[11px] bg-blue-100 text-blue-800 font-semibold px-2 py-0.5 rounded">SECIHTI IH-2025-I-257</span>
-          </div>
-          <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
-            Gestión asociativa del agua potable en pueblos rurales del valle Tlaxcala-Puebla
-          </h3>
-          <p class="text-gray-500 text-xs leading-relaxed">
-            Financiamiento Proyectos de Humanidades SECIHTI (Secretaría de Ciencia, Humanidades, Tecnología e Innovación).
-          </p>
+      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow overflow-hidden p-6">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="bg-orange-100 text-orange-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2025 - 2027</span>
+          <span class="text-[11px] bg-blue-100 text-blue-800 font-semibold px-2 py-0.5 rounded">SECIHTI IH-2025-I-257</span>
         </div>
-        <div class="px-6 py-3 bg-gray-100 border-t border-gray-200 flex items-center justify-between">
-          <span class="text-[11px] font-semibold text-gray-500">Recursos y material</span>
-          <a href="#acervo" class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors">
-            Próximamente &rarr;
-          </a>
-        </div>
+        <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
+          Gestión asociativa del agua potable en pueblos rurales del valle Tlaxcala-Puebla
+        </h3>
+        <p class="text-gray-500 text-xs leading-relaxed">
+          Financiamiento Proyectos de Humanidades SECIHTI (Secretaría de Ciencia, Humanidades, Tecnología e Innovación).
+        </p>
       </div>
 
       <!-- Proyecto 3 (2022-2025) -->
-      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow flex flex-col justify-between overflow-hidden">
-        <div class="p-6">
-          <div class="flex items-center gap-2 mb-3">
-            <span class="bg-orange-100 text-orange-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2022 - 2025</span>
-            <span class="text-[11px] bg-emerald-100 text-emerald-800 font-semibold px-2 py-0.5 rounded">PAPIIT IN303322</span>
-          </div>
-          <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
-            Modo de vida en las ruralidades actuales: precariedad, fragmentación y desigualdad en Tlahuapan, Puebla
-          </h3>
-          <p class="text-gray-500 text-xs leading-relaxed">
-            Instituto de Investigaciones Antropológicas UNAM, financiamiento PAPIIT-DGAPA.
-          </p>
+      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow overflow-hidden p-6">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="bg-orange-100 text-orange-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2022 - 2025</span>
+          <span class="text-[11px] bg-emerald-100 text-emerald-800 font-semibold px-2 py-0.5 rounded">PAPIIT IN303322</span>
         </div>
-        <div class="px-6 py-3 bg-gray-100 border-t border-gray-200 flex items-center justify-between">
-          <span class="text-[11px] font-semibold text-gray-500">Recursos y material</span>
-          <a href="#difusion" class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors">
-            Ver publicaciones &rarr;
-          </a>
-        </div>
+        <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
+          Modo de vida en las ruralidades actuales: precariedad, fragmentación y desigualdad en Tlahuapan, Puebla
+        </h3>
+        <p class="text-gray-500 text-xs leading-relaxed">
+          Instituto de Investigaciones Antropológicas UNAM, financiamiento PAPIIT-DGAPA.
+        </p>
       </div>
 
       <!-- Proyecto 4 (2022-2024 PRONACE-TÓXICOS) -->
-      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow flex flex-col justify-between overflow-hidden">
-        <div class="p-6">
-          <div class="flex items-center gap-2 mb-3">
-            <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2022 - 2024</span>
-            <span class="text-[11px] bg-purple-100 text-purple-800 font-semibold px-2 py-0.5 rounded">CONACYT No 318962</span>
-          </div>
-          <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
-            Sistema Comunitario de Vigilancia y Monitoreo Ambiental en la Cuenca Atoyac-Zahuapan
-          </h3>
-          <p class="text-gray-600 text-xs leading-relaxed mb-2">
-            <strong>Proyecto específico IIA-UNAM:</strong> Estudio sociocultural sobre la relación entre localidades de la cuenca y uso de compuestos químicos: percepción de toxicidad y riesgo.
-          </p>
-          <p class="text-gray-500 text-[11px] leading-tight italic">
-            PRONACE-TÓXICOS. En colaboración con IIB, IIA, FI UNAM, UATx, UACH, Centro Fray Julián Garcés y Coordinadora Atoyac con Vida.
-          </p>
+      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow overflow-hidden p-6">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2022 - 2024</span>
+          <span class="text-[11px] bg-purple-100 text-purple-800 font-semibold px-2 py-0.5 rounded">CONACYT No 318962</span>
         </div>
-        <div class="px-6 py-3 bg-gray-100 border-t border-gray-200 flex items-center justify-between">
-          <span class="text-[11px] font-semibold text-gray-500">Recursos y material</span>
-          <a href="#acervo" class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors">
-            Próximamente &rarr;
-          </a>
-        </div>
+        <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
+          Sistema Comunitario de Vigilancia y Monitoreo Ambiental en la Cuenca Atoyac-Zahuapan
+        </h3>
+        <p class="text-gray-600 text-xs leading-relaxed mb-2">
+          <strong>Proyecto específico IIA-UNAM:</strong> Estudio sociocultural sobre la relación entre localidades de la cuenca y uso de compuestos químicos: percepción de toxicidad y riesgo.
+        </p>
+        <p class="text-gray-500 text-[11px] leading-tight italic">
+          PRONACE-TÓXICOS. En colaboración con IIB, IIA, FI UNAM, UATx, UACH, Centro Fray Julián Garcés y Coordinadora Atoyac con Vida.
+        </p>
       </div>
 
       <!-- Proyecto 5 (2022-2024 PRONACE-AGUAS) -->
-      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow flex flex-col justify-between overflow-hidden">
-        <div class="p-6">
-          <div class="flex items-center gap-2 mb-3">
-            <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2022 - 2024</span>
-            <span class="text-[11px] bg-purple-100 text-purple-800 font-semibold px-2 py-0.5 rounded">CONACYT No 318959</span>
-          </div>
-          <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
-            Reapropiación socioambiental para el manejo integral de la cuenca Atoyac-Zahuapan
-          </h3>
-          <p class="text-gray-600 text-xs leading-relaxed mb-2">
-            <strong>Trabajo específico:</strong> Con las localidades rurales de la cuenca del Alto Atoyac en el Valle Puebla-Tlaxcala.
-          </p>
-          <p class="text-gray-500 text-[11px] leading-tight italic">
-            PRONACE-AGUAS. Coordinado desde la UATx en alianza interinstitucional y comunitaria.
-          </p>
+      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow overflow-hidden p-6">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2022 - 2024</span>
+          <span class="text-[11px] bg-purple-100 text-purple-800 font-semibold px-2 py-0.5 rounded">CONACYT No 318959</span>
         </div>
-        <div class="px-6 py-3 bg-gray-100 border-t border-gray-200 flex items-center justify-between">
-          <span class="text-[11px] font-semibold text-gray-500">Recursos y material</span>
-          <a href="#acervo" class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors">
-            Próximamente &rarr;
-          </a>
-        </div>
+        <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
+          Reapropiación socioambiental para el manejo integral de la cuenca Atoyac-Zahuapan
+        </h3>
+        <p class="text-gray-600 text-xs leading-relaxed mb-2">
+          <strong>Trabajo específico:</strong> Con las localidades rurales de la cuenca del Alto Atoyac en el Valle Puebla-Tlaxcala.
+        </p>
+        <p class="text-gray-500 text-[11px] leading-tight italic">
+          PRONACE-AGUAS. Coordinado desde la UATx en alianza interinstitucional y comunitaria.
+        </p>
       </div>
 
       <!-- Proyecto 6 (2019-2021) -->
-      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow flex flex-col justify-between overflow-hidden">
-        <div class="p-6">
-          <div class="flex items-center gap-2 mb-3">
-            <span class="bg-gray-200 text-gray-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2019 - 2021</span>
-            <span class="text-[11px] bg-emerald-100 text-emerald-800 font-semibold px-2 py-0.5 rounded">PAPIIT IN303419</span>
-          </div>
-          <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
-            Estudio etnográfico de pueblos rurales del sur de Tlaxcala especializados en actividades productivas no agrícolas
-          </h3>
-          <p class="text-gray-500 text-xs leading-relaxed">
-            Instituto de Investigaciones Antropológicas UNAM, financiamiento PAPIIT-DGAPA.
-          </p>
+      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow overflow-hidden p-6">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="bg-gray-200 text-gray-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2019 - 2021</span>
+          <span class="text-[11px] bg-emerald-100 text-emerald-800 font-semibold px-2 py-0.5 rounded">PAPIIT IN303419</span>
         </div>
-        <div class="px-6 py-3 bg-gray-100 border-t border-gray-200 flex items-center justify-between">
-          <span class="text-[11px] font-semibold text-gray-500">Recursos y material</span>
-          <a href="#difusion" class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors">
-            Ver publicaciones &rarr;
-          </a>
-        </div>
+        <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
+          Estudio etnográfico de pueblos rurales del sur de Tlaxcala especializados en actividades productivas no agrícolas
+        </h3>
+        <p class="text-gray-500 text-xs leading-relaxed">
+          Instituto de Investigaciones Antropológicas UNAM, financiamiento PAPIIT-DGAPA.
+        </p>
       </div>
 
       <!-- Proyecto 7 (2015-2020) -->
-      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow flex flex-col justify-between overflow-hidden">
-        <div class="p-6">
-          <div class="flex items-center gap-2 mb-3">
-            <span class="bg-gray-200 text-gray-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2015 - 2020</span>
-            <span class="text-[11px] bg-emerald-100 text-emerald-800 font-semibold px-2 py-0.5 rounded">PAPIIT IN300115</span>
-          </div>
-          <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
-            Ruralidades, sujetos sociales y respuestas locales en el valle Puebla-Tlaxcala
-          </h3>
-          <p class="text-gray-500 text-xs leading-relaxed">
-            Instituto de Investigaciones Antropológicas UNAM, financiamiento PAPIIT-DGAPA.
-          </p>
+      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow overflow-hidden p-6">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="bg-gray-200 text-gray-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2015 - 2020</span>
+          <span class="text-[11px] bg-emerald-100 text-emerald-800 font-semibold px-2 py-0.5 rounded">PAPIIT IN300115</span>
         </div>
-        <div class="px-6 py-3 bg-gray-100 border-t border-gray-200 flex items-center justify-between">
-          <span class="text-[11px] font-semibold text-gray-500">Recursos y material</span>
-          <a href="#difusion" class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors">
-            Ver publicaciones &rarr;
-          </a>
-        </div>
+        <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
+          Ruralidades, sujetos sociales y respuestas locales en el valle Puebla-Tlaxcala
+        </h3>
+        <p class="text-gray-500 text-xs leading-relaxed">
+          Instituto de Investigaciones Antropológicas UNAM, financiamiento PAPIIT-DGAPA.
+        </p>
       </div>
 
       <!-- Proyecto 8 (2009-2014) -->
-      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow flex flex-col justify-between overflow-hidden">
-        <div class="p-6">
-          <div class="flex items-center gap-2 mb-3">
-            <span class="bg-gray-200 text-gray-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2009 - 2014</span>
-            <span class="text-[11px] bg-purple-100 text-purple-800 font-semibold px-2 py-0.5 rounded">CONACYT CB-98651</span>
-          </div>
-          <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
-            Repensar lo rural y el concepto de nueva ruralidad como propuesta para entender las transformaciones contemporáneas en el Valle Puebla Tlaxcala
-          </h3>
-          <p class="text-gray-500 text-xs leading-relaxed">
-            Instituto de Investigaciones Antropológicas UNAM, financiamiento CONACYT.
-          </p>
+      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow overflow-hidden p-6">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="bg-gray-200 text-gray-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2009 - 2014</span>
+          <span class="text-[11px] bg-purple-100 text-purple-800 font-semibold px-2 py-0.5 rounded">CONACYT CB-98651</span>
         </div>
-        <div class="px-6 py-3 bg-gray-100 border-t border-gray-200 flex items-center justify-between">
-          <span class="text-[11px] font-semibold text-gray-500">Recursos y material</span>
-          <a href="#difusion" class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors">
-            Ver publicaciones &rarr;
-          </a>
-        </div>
+        <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
+          Repensar lo rural y el concepto de nueva ruralidad como propuesta para entender las transformaciones contemporáneas en el Valle Puebla Tlaxcala
+        </h3>
+        <p class="text-gray-500 text-xs leading-relaxed">
+          Instituto de Investigaciones Antropológicas UNAM, financiamiento CONACYT.
+        </p>
       </div>
 
       <!-- Proyecto 9 (2009-2013) -->
-      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow flex flex-col justify-between overflow-hidden">
-        <div class="p-6">
-          <div class="flex items-center gap-2 mb-3">
-            <span class="bg-gray-200 text-gray-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2009 - 2013</span>
-            <span class="text-[11px] bg-emerald-100 text-emerald-800 font-semibold px-2 py-0.5 rounded">PAPIIT IN302709</span>
-          </div>
-          <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
-            Continuidades y transformaciones socioeconómicas y culturales en el municipio de Nativitas, Tlaxcala ¿hacia la conformación de una nueva ruralidad?
-          </h3>
-          <p class="text-gray-500 text-xs leading-relaxed">
-            Instituto de Investigaciones Antropológicas UNAM, financiamiento PAPIIT-DGAPA.
-          </p>
+      <div class="bg-gray-50 rounded-xl border border-gray-200 shadow-md hover:shadow-xl transition-shadow overflow-hidden p-6">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="bg-gray-200 text-gray-800 text-xs font-bold px-2.5 py-0.5 rounded-full">2009 - 2013</span>
+          <span class="text-[11px] bg-emerald-100 text-emerald-800 font-semibold px-2 py-0.5 rounded">PAPIIT IN302709</span>
         </div>
-        <div class="px-6 py-3 bg-gray-100 border-t border-gray-200 flex items-center justify-between">
-          <span class="text-[11px] font-semibold text-gray-500">Recursos y material</span>
-          <a href="#difusion" class="inline-flex items-center gap-1 text-xs font-bold text-orange-600 hover:text-orange-700 transition-colors">
-            Ver publicaciones &rarr;
-          </a>
-        </div>
+        <h3 class="text-lg font-bold text-gray-800 mb-3 leading-snug">
+          Continuidades y transformaciones socioeconómicas y culturales en el municipio de Nativitas, Tlaxcala ¿hacia la conformación de una nueva ruralidad?
+        </h3>
+        <p class="text-gray-500 text-xs leading-relaxed">
+          Instituto de Investigaciones Antropológicas UNAM, financiamiento PAPIIT-DGAPA.
+        </p>
       </div>
 
     </div>
   </div>
 </section>
-
 <!-- Sección: Formación y fortalecimiento académico -->
 <section id="formacion" class="py-16 bg-gray-50 border-b">
   <div class="max-w-6xl mx-auto px-6">
