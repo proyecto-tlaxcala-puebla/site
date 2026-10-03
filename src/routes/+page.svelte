@@ -535,7 +535,7 @@
         </div>
       </div>
 
-      <!-- 2. Tesis -->
+     <!-- 2. Tesis -->
       <div class="bg-white p-6 rounded-xl border-2 border-dashed border-gray-300 shadow-sm flex flex-col justify-between">
         <div>
           <div class="w-12 h-12 rounded-lg bg-teal-100 text-teal-700 flex items-center justify-center font-bold text-2xl mb-4">
@@ -552,32 +552,15 @@
         </div>
       </div>
 
-      <!-- 3. Seminarios -->
-      <div class="bg-white p-6 rounded-xl border-2 border-dashed border-gray-300 shadow-sm flex flex-col justify-between">
-        <div>
-          <div class="w-12 h-12 rounded-lg bg-amber-100 text-amber-700 flex items-center justify-center font-bold text-2xl mb-4">
-            🏛️
-          </div>
-          <h3 class="text-xl font-bold text-gray-800 mb-2">Seminarios</h3>
-          <p class="text-gray-600 text-sm leading-relaxed mb-4">
-            Espacios permanentes de discusión teórica y metodológica, como el Seminario Universitario Interdisciplinario de Estudios Rurales y "Antropología, poder y ruralidades".
-          </p>
-        </div>
-        <div class="pt-4 border-t border-gray-100 flex items-center justify-between">
-          <span class="text-xs text-amber-700 font-semibold italic">Pendiente de sesiones y temarios</span>
-          <span class="text-xs text-gray-400">Ver reuniones &rarr;</span>
-        </div>
-      </div>
-
-      <!-- 4. Investigadores Invitados -->
+      <!-- 3. Colaboraciones académicas -->
       <div class="bg-white p-6 rounded-xl border-2 border-dashed border-gray-300 shadow-sm flex flex-col justify-between">
         <div>
           <div class="w-12 h-12 rounded-lg bg-emerald-100 text-emerald-700 flex items-center justify-center font-bold text-2xl mb-4">
             🤝
           </div>
-          <h3 class="text-xl font-bold text-gray-800 mb-2">Investigadores Invitados</h3>
+          <h3 class="text-xl font-bold text-gray-800 mb-2">Colaboraciones académicas</h3>
           <p class="text-gray-600 text-sm leading-relaxed mb-4">
-            Estancias posdoctorales, sabáticos y académicos visitantes de instituciones nacionales e internacionales que colaboran con el equipo.
+            Proyectos e intercambios con académicos, estancias y redes de trabajo de instituciones nacionales e internacionales.
           </p>
         </div>
         <div class="pt-4 border-t border-gray-100 flex items-center justify-between">
@@ -586,6 +569,9 @@
         </div>
       </div>
 
+    </div>
+  </div>
+</section>
     </div>
   </div>
 </section>
