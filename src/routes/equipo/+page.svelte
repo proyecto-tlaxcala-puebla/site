@@ -139,7 +139,7 @@
             <ul class="text-sm text-gray-600 space-y-1 mb-4">
               <li>• Premio INAH Fray Bernardino de Sahagún (2018)</li>
               <li>• Beca para Mujeres en Humanidades y Ciencias Sociales - AMC (2015)</li>
-              <li>• Premio AMER a la mejor tesis de maestría sobre el campo mexicano – AMER (2009)</li>
+              <li>• Premio AMER a la mejor tesis de maestría sobre el campo mexicano – AMER (2007)</li>
             </ul>
             
             <h4 class="font-semibold text-gray-800 mb-2">Contribución al Proyecto</h4>
