@@ -91,67 +91,67 @@
     </div>
   </div>
 </div>
-    <!-- Paola Velasco Santos -->
-    <div class="mb-16 bg-white rounded-xl shadow-lg overflow-hidden">
-      <div class="md:flex">
-        <div class="md:w-1/4 bg-gradient-to-br from-teal-50 to-teal-100 p-8 flex flex-col items-center justify-center">
-          <div class="w-40 h-40 bg-teal-200 rounded-full mb-4 flex items-center justify-center overflow-hidden">
-            <img src="{base}/team/paola-velasco.jpg" alt="Paola Velasco Santos" class="w-full h-full object-cover" 
-                 on:error={handleImageError}>
-            <div class="w-full h-full bg-teal-300 flex items-center justify-center text-4xl font-bold text-teal-700" style="display: none;">
-              PV
-            </div>
-          </div>
-          <div class="text-center">
-            <h2 class="text-2xl font-bold text-teal-800 mb-2">Paola Velasco Santos</h2>
-            <p class="text-sm font-medium text-teal-600 institution">Instituto de Investigaciones Antropológicas (IIA) - UNAM</p>
-          </div>
+   <!-- Paola Velasco Santos -->
+<div class="mb-16 bg-white rounded-xl shadow-lg overflow-hidden">
+  <div class="md:flex">
+    <div class="md:w-1/4 bg-gradient-to-br from-teal-50 to-teal-100 p-8 flex flex-col items-center justify-center">
+      <div class="w-40 h-40 bg-teal-200 rounded-full mb-4 flex items-center justify-center overflow-hidden">
+        <img src="{base}/team/paola-velasco.jpg" alt="Paola Velasco Santos" class="w-full h-full object-cover" 
+             on:error={handleImageError}>
+        <div class="w-full h-full bg-teal-300 flex items-center justify-center text-4xl font-bold text-teal-700" style="display: none;">
+          PV
         </div>
-        <div class="md:w-3/4 p-8">
-          <div class="prose prose-sm max-w-none">
-            <div class="mb-6">
-              <h3 class="text-lg font-semibold text-gray-800 mb-3 border-b-2 border-teal-200 pb-1">Biografía Académica</h3>
-              <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                Paola Velasco Santos es Investigadora Titular "A" en el Instituto de Investigaciones Antropológicas (IIA) de la Universidad Nacional Autónoma de México (UNAM). Obtuvo su doctorado en Antropología por la Facultad de Filosofía y Letras de la UNAM en 2014, la maestría en Estudios Regionales por el Instituto de Investigaciones José María Luis Mora en 2007 y la licenciatura en Antropología con especialización en antropología cultural por la Universidad de las Américas, Puebla, en 2005.
-              </p>
-              <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                Su labor académica se centra en la ecología política, la antropología socioambiental y los estudios rurales. Ha publicado y co-editado libros sobre la cuestión socioambiental, así como escrito diversos artículos académicos relacionados con la política-ambiental de la región. Entre sus obras destaca "Ríos de Contradicción. Contaminación, ecología política y sujetos rurales en Natívitas, Tlaxcala", que recibió en 2018 el Premio INAH Fray Bernardino de Sahagún a la mejor investigación en antropología social y etnología.
-              </p>
-              <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                Además, en 2015 fue galardonada con la Beca para Mujeres en las Humanidades y las Ciencias Sociales, otorgada por la Academia Mexicana de Ciencias. Como docente, imparte cursos en el Posgrado de Antropología de la UNAM, abordando temas como conflictos y problemas socioambientales, ecología política y la relación entre antropología y medio ambiente. También participa en la licenciatura en Antropología de la Facultad de Ciencias Políticas y Sociales de la UNAM.
-              </p>
-            </div>
+      </div>
+      <div class="text-center">
+        <h2 class="text-2xl font-bold text-teal-800 mb-2">Paola Velasco Santos</h2>
+        <p class="text-sm font-medium text-teal-600 institution">Instituto de Investigaciones Antropológicas (IIA) - UNAM</p>
+      </div>
+    </div>
+    <div class="md:w-3/4 p-8">
+      <div class="prose prose-sm max-w-none">
+        <div class="mb-6">
+          <h3 class="text-lg font-semibold text-gray-800 mb-3 border-b-2 border-teal-200 pb-1">Biografía Académica</h3>
+          <p class="text-gray-700 text-sm leading-relaxed mb-4">
+            Paola Velasco Santos es Investigadora Titular "B" en el Instituto de Investigaciones Antropológicas (IIA) de la Universidad Nacional Autónoma de México (UNAM). Obtuvo su doctorado en Antropología por la Facultad de Filosofía y Letras de la UNAM en 2014, la maestría en Estudios Regionales por el Instituto de Investigaciones José María Luis Mora en 2007 y la licenciatura en Antropología con especialización en antropología cultural por la Universidad de las Américas, Puebla, en 2005.
+          </p>
+          <p class="text-gray-700 text-sm leading-relaxed mb-4">
+            Imparte cursos en el Posgrado de Antropología (maestría y doctorado) y en la Licenciatura de Antropología en la FCPyS, de la UNAM, está acreditada como tutora en los posgrados de Antropología y Ciencias de la Sostenibilidad de la UNAM. Ha escrito un libro, coeditado dos y publicado artículos y capítulos de libro bajo sus líneas de investigación centrales que son la ecología política etnográfica, etnografías multiespecie, estudios rurales y la antropología económica. Su trayectoria se ha centrado en temas relacionados con el despojo de tierras de propiedad social, la contaminación y violencia lenta provocada por la priorización industrial en el centro de México, las complejas relaciones multiespecie en el contexto del capitaloceno, y las relaciones hidropolíticas en la Cuenca Alta del Atoyac.
+          </p>
+          <p class="text-gray-700 text-sm leading-relaxed mb-4">
+            Entre sus obras destaca "Ríos de Contradicción. Contaminación, ecología política y sujetos rurales en Natívitas, Tlaxcala", que recibió en 2018 el Premio INAH Fray Bernardino de Sahagún a la mejor investigación en antropología social y etnología. Además, en 2015 fue galardonada con la Beca para Mujeres en las Humanidades y las Ciencias Sociales, otorgada por la Academia Mexicana de Ciencias.
+          </p>
+        </div>
+        
+        <div class="grid md:grid-cols-2 gap-6">
+          <div>
+            <h4 class="font-semibold text-gray-800 mb-2">Especialidades</h4>
+            <ul class="text-sm text-gray-600 space-y-1">
+              <li>• Ecología política etnográfica</li>
+              <li>• Etnografías multiespecie</li>
+              <li>• Estudios rurales</li>
+              <li>• Problemas socioambientales</li>
+              <li>• Contaminación hídrica</li>
+            </ul>
+          </div>
+          
+          <div>
+            <h4 class="font-semibold text-gray-800 mb-2">Reconocimientos</h4>
+            <ul class="text-sm text-gray-600 space-y-1 mb-4">
+              <li>• Premio INAH Fray Bernardino de Sahagún (2018)</li>
+              <li>• Beca para Mujeres en Humanidades y Ciencias Sociales - AMC (2015)</li>
+              <li>• Premio AMER a la mejor tesis de maestría sobre el campo mexicano – AMER (2009)</li>
+            </ul>
             
-            <div class="grid md:grid-cols-2 gap-6">
-              <div>
-                <h4 class="font-semibold text-gray-800 mb-2">Especialidades</h4>
-                <ul class="text-sm text-gray-600 space-y-1">
-                  <li>• Ecología política</li>
-                  <li>• Etnografías multiespecie</li>
-                  <li>• Estudios rurales</li>
-                  <li>• Conflictos y problemas socioambientales</li>
-                  <li>• Contaminación hídrica</li>
-                </ul>
-              </div>
-              
-              <div>
-                <h4 class="font-semibold text-gray-800 mb-2">Reconocimientos</h4>
-                <ul class="text-sm text-gray-600 space-y-1 mb-4">
-                  <li>• Premio INAH Fray Bernardino de Sahagún (2018)</li>
-                  <li>• Beca para Mujeres en Humanidades y Ciencias Sociales - AMC (2015)</li>
-                </ul>
-                
-                <h4 class="font-semibold text-gray-800 mb-2">Contribución al Proyecto</h4>
-                <p class="text-sm text-gray-600 leading-relaxed">
-                  Investiga las dinámicas socioambientales y económicas en comunidades rurales de la región, enfocándose en problemáticas como la contaminación hídrica, la precarización laboral y las estrategias de resistencia comunitaria ante los desafíos impuestos por la globalización y las políticas ambientales.
-                </p>
-              </div>
-            </div>
+            <h4 class="font-semibold text-gray-800 mb-2">Contribución al Proyecto</h4>
+            <p class="text-sm text-gray-600 leading-relaxed">
+              Investiga las dinámicas socioambientales y económicas en comunidades rurales de la región, enfocándose en problemáticas como la contaminación hídrica, la precarización laboral y las formas complejas en las que se expresan los flujos de tóxicos, agua y poder.
+            </p>
           </div>
         </div>
       </div>
     </div>
-
+  </div>
+</div>
     <!-- Celia López Miguel -->
 <div class="mb-16 bg-white rounded-xl shadow-lg overflow-hidden">
   <div class="md:flex">
